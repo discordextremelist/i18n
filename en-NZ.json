@@ -15,7 +15,7 @@
 	"common.staffManagement.warning": "If you accidentally perform an action that is abusive or inappropriate please report it to a Website Administrator or Assistant instantly to prevent or minimise the severity of any penalties.",
 	"common.logout": "Logout",
 	"common.login": "Login with Discord",
-	"common.loading": "Loading",
+	"common.loading": "Loading"
 	"common.delete": "Delete",
 	"common.cancel": "Cancel",
 	"common.submit": "Submit",
@@ -370,7 +370,7 @@
 	"page.staff.me": "Your Overview",
 	"page.staff.me.standing": "Your Standing",
 	"page.staff.me.strikes": "Your Strikes",
-	"page.staff.me.warning": "Your Warnings",
+	"page.staff.me.warnings": "Your Warnings",
 	"page.staff.me.onLeave": "On Leave",
 	"page.account.preferences.snake": "Snake Game",
 	"page.account.preferences.experiments": "Experiments",
