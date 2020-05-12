@@ -200,7 +200,7 @@
 	"common.social.github.del": "DEL GitHub",
 	"partials.explicitFilter": "Explicit Content Filter:",
 	"partials.explicitFilter.0": "❌ Disabled",
-	"partials.explicitFilter.1": "🔐 Members without Roles",
+	"partials.explicitFilter.1": "More",
 	"partials.explicitFilter.2": "🔒 All Members",
 	"partials.msgNotifications": "Notification Level:",
 	"partials.msgNotifications.0": "🔔 All Messages",
