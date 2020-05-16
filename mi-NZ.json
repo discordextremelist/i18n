@@ -247,6 +247,7 @@
 	"page.bots.invite": "Bot Invite",
 	"page.bots.invite.placeholder": "If this is left blank, we will automatically generate a permission-less invite.",
 	"page.bots.donate": "Bot Donation Link",
+	"page.bots.website": "Bot Website",
 	"page.bots.supportServer": "Bot Support Server",
 	"page.bots.supportServer.view": "Support Server",
 	"page.bots.git": "Bot Git Repository",
