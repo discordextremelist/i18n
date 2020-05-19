@@ -79,7 +79,7 @@
 	"common.img.loadFail": "נכשל לטעון את פריט %s תמונה/סמל, תשתמש בררת מחדל במקום.",
 	"common.img.avatar": "תמונה של %s",
 	"common.img.icon": "%s סמל",
-	"common.img.profilePicture": "%s's Profile Picture",
+	"common.img.profilePicture": "תמונת פרופיל של %s",
 	"common.staff.remove": "להסר",
 	"common.staff.decline": "לדחות",
 	"common.staff.approve": "לאשר",
