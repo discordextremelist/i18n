@@ -63,6 +63,7 @@
 	"common.error.listing.arr.invite.invalid": "Te egy érvénytelen meghívást adtál meg.",
 	"common.error.listing.arr.invite.isURL": "A meghívási kód nem lehet egy URL.",
 	"common.error.listing.arr.longDescRequired": "A hosszú leírás kötelező.",
+	"common.error.listing.arr.prefixRequired": "A valid bot prefix is required.",
 	"common.error.server.conflict": "Ez a szerver már szerepel a listán.",
 	"common.error.server.arr.invite.dgg": "A meghívási kódban nem szerepelhet a discord.gg",
 	"common.error.server.arr.invite.sameServer": "Ez a meghívási kód már használva van egy másik szerveren az egyik van használva!",
