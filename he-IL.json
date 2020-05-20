@@ -63,6 +63,7 @@
 	"common.error.listing.arr.invite.invalid": "סיפקת הזמנה לא חוקית.",
 	"common.error.listing.arr.invite.isURL": "קוד ההזמנה לא יכול להיות כתובת אתר מסוים.",
 	"common.error.listing.arr.longDescRequired": "נדרש תיאור ארוך.",
+	"common.error.listing.arr.prefixRequired": "A valid bot prefix is required.",
 	"common.error.server.conflict": "השרת הזה נוסף כבר לרשימה.",
 	"common.error.server.arr.invite.dgg": "קוד ההזמנה אינו יכול להכיל discord.gg",
 	"common.error.server.arr.invite.sameServer": "קוד ההזמנה חייב להיות מאותו השרת מזה ששימש במהלך ההגשה!",
