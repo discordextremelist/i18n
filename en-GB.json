@@ -63,6 +63,7 @@
 	"common.error.listing.arr.invite.invalid": "You provided an invalid invite.",
 	"common.error.listing.arr.invite.isURL": "The invite code cannot be a URL.",
 	"common.error.listing.arr.longDescRequired": "A long description is required.",
+	"common.error.listing.arr.prefixRequired": "A valid bot prefix is required.",
 	"common.error.server.conflict": "This server has already been added to the list.",
 	"common.error.server.arr.invite.dgg": "The invite code cannot contain discord.gg",
 	"common.error.server.arr.invite.sameServer": "The invite code used must be from the same server as the one used during submission!",
