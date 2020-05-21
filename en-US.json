@@ -413,7 +413,7 @@
 	"page.staff.manager.strike": "Strike",
 	"page.account.preferences.snake": "Snake Game",
 	"page.account.preferences.experiments": "Experiments",
-	"page.account.preferences.experiments.warning": "Enabling experiments may cause issues as you may be testing features that are theoretical or bug ridden, you will also be enrolled in any future beta testing programme(s).",
+	"page.account.preferences.experiments.warning": "Enabling experiments may cause issues as you may be testing features that are theoretical or bug-ridden, you will also be enrolled in any future beta testing program(s).",
 	"page.account.preferences.accent": "Accent Color",
 	"page.account.preferences.customCSS": "Custom Global CSS",
 	"page.account.preferences.customCSS.danger": "Danger Will Robinson, Danger!",
