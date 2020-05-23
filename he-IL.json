@@ -382,6 +382,7 @@
 	"page.staff.me.onLeave": "בחופשה",
 	"page.staff.queue": "Bot Queue",
 	"page.staff.queue.subtitle": "The queue of unapproved bots",
+	"page.staff.queue.empty": "Good job! The queue is currently empty 🎉",
 	"page.staff.announcer": "Announcer",
 	"page.staff.announcer.subtitle": "Send site-wide announcements!",
 	"page.staff.announcer.reset": "Reset",
