@@ -451,7 +451,7 @@
 	"page.users.listings.archivedBots": "Archived Bots",
 	"page.users.profile.title": "%s's Profile",
 	"page.users.edit.title": "Edit Profile",
-	"page.users.edit.subtitle": "Editing profile %s"
+	"page.users.edit.subtitle": "Editing profile %s",
 	"docs.label.main": "Main",
 	"docs.label.api": "API",
 	"docs.subtitle": "The official documentation for Discord Extreme List",
