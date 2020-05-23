@@ -380,6 +380,8 @@
 	"page.staff.me.strikes": "Your Strikes",
 	"page.staff.me.warnings": "Your Warnings",
 	"page.staff.me.onLeave": "On Leave",
+	"page.staff.queue": "Bot Queue",
+	"page.staff.queue.subtitle": "The queue of unapproved bots",
 	"page.staff.announcer": "Announcer",
 	"page.staff.announcer.subtitle": "Send site-wide announcements!",
 	"page.staff.announcer.reset": "Reset",
