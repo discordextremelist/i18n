@@ -478,6 +478,7 @@
 	"docs.examples": "Examples",
 	"premid.home": "On the homepage",
 	"premid.error": "Error - %s",
+	"premid.error.critical": "Critical Error Page",
 	"premid.success": "Success - %s",
 	"premid.information": "Information - %s",
 	"premid.other": "Other - %s",
