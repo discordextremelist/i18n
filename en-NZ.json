@@ -404,6 +404,7 @@
 	"page.staff.manager": "Staff Manager",
 	"page.staff.manager.subtitle": "Information about staff members",
 	"page.staff.manager.standing": "Standing:",
+	"page.staff.manager.unavailable": "⚫ Unavailable",
 	"page.staff.manager.unmeasured": "Unmeasured",
 	"page.staff.manager.unmeasured.emoji": "⚪ Unmeasured",
 	"page.staff.manager.good": "Good",
