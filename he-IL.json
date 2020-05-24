@@ -430,6 +430,10 @@
 	"page.staff.manager.punish": "להעניש",
 	"page.staff.manager.warn": "הזהירה",
 	"page.staff.manager.strike": "שביתה",
+	"page.staff.audit": "Audit Logs",
+	"page.staff.audit.subtitle": "The site-wide audit logs!",
+	"page.staff.site-manager": "Site Manager",
+	"page.staff.site-manager.subtitle": "Site management tools and settings",
 	"page.account.preferences.snake": "משחק נחשים",
 	"page.account.preferences.experiments": "ניסויים",
 	"page.account.preferences.experiments.warning": "הפעלת ניסויים עלולה לגרום לבעיות מכיוון שאתה בודק תכונות תיאורטיות או רודפות באגים. בנוסף, תרשמו לכל תכניות(s) / ואת הבדיקות בטא עתידיות.",
@@ -523,6 +527,11 @@
 	"premid.snake": "משחק נחש",
 	"premid.staff.home": "הדף הבית של לוח הצוות",
 	"premid.staff.queue": "ניהול תור הבוטים",
+	"premid.staff.audit": "Reviewing the audit logs",
 	"premid.staff.staffManager": "מנהלת הצוות",
+	"premid.staff.staffManager.updateAway": "Changing %s's away status",
+	"premid.staff.staffManager.modifyStanding": "Changing %s's standing",
+	"premid.staff.staffManager.warn": "Giving %s a warning",
+	"premid.staff.staffManager.strike": "Giving %s a strike",
 	"premid.staff.announcer": "ניהול המודעות באתר"
 }
