@@ -430,6 +430,10 @@
 	"page.staff.manager.punish": "Punish",
 	"page.staff.manager.warn": "Warn",
 	"page.staff.manager.strike": "Strike",
+	"page.staff.audit": "Audit Logs",
+	"page.staff.audit.subtitle": "The site-wide audit logs!",
+	"page.staff.site-manager": "Site Manager",
+	"page.staff.site-manager.subtitle": "Site management tools and settings",
 	"page.account.preferences.snake": "Snake Game",
 	"page.account.preferences.experiments": "Experiments",
 	"page.account.preferences.experiments.warning": "Enabling experiments may cause issues as you may be testing features that are theoretical or bug-ridden, you will also be enrolled in any future beta testing program(s).",
@@ -523,6 +527,11 @@
 	"premid.snake": "Playing snake",
 	"premid.staff.home": "On the staff panel homepage",
 	"premid.staff.queue": "Managing the bot queue",
+	"premid.staff.audit": "Reviewing the audit logs",
 	"premid.staff.staffManager": "Managing staff",
+	"premid.staff.staffManager.updateAway": "Changing %s's away status",
+	"premid.staff.staffManager.modifyStanding": "Changing %s's standing",
+	"premid.staff.staffManager.warn": "Giving %s a warning",
+	"premid.staff.staffManager.strike": "Giving %s a strike",
 	"premid.staff.announcer": "Managing site announcements"
 }
