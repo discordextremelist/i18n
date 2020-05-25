@@ -433,6 +433,7 @@
 	"page.staff.manager.punish.executor": "Executor:",
 	"page.staff.manager.punish.reason": "Reason:",
 	"page.staff.manager.punish.date": "Date:",
+	"page.staff.manager.punish.nothingHere": "Nothing to see here... 👀",
 	"page.staff.manager.warn": "הזהירה",
 	"page.staff.manager.warn.subtitle": "Warning %s",
 	"page.staff.manager.warn.reason": "סיבה",
