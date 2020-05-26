@@ -104,6 +104,7 @@
 	"common.rank.verified.bot": "Discord Verified Bot",
 	"common.rank.verified.dev": "Discord Verified Developer",
 	"common.rank.covid": "COVID-19 Donator",
+	"common.rank.premium.bot": "Premium Bot",
 	"common.rank.donator": "Donator",
 	"common.rank.banned": "Banned",
 	"common.rank.siteBot": "Site Bot - This bot is one of our official site bots and has been added for internal reasons.. It will not show up in search results, the homepage or the bot list page.",
