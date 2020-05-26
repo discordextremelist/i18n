@@ -46,6 +46,7 @@
 	"common.error.bot.alreadyApproved": "Te nem fogadhatod el azt a botot ami már elvan fogadva.",
 	"common.error.bot.alreadyVerified": "Te nem fogadhatód ezt a botot ami már rég elvan fogadva.",
 	"common.error.bot.notInQueue": "Te nem utasíthatod el ezt a botot mert ez a bot nincs a várólistán.",
+	"common.error.bot.alreadyPremium": "You cannot give a bot premium if it already has premium.",
 	"common.error.bot.inQueue": "Te nem törölheted ezt a botot ami már a várólistán van.",
 	"common.error.fetchFail.bots": "Egy hiba történt miközben probáltuk kikeresni a botokat.",
 	"common.error.fetchFail.servers": "Egy hiba történt miközben probáltuk kikeresni a szervereket.",
