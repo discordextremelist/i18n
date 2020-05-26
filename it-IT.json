@@ -46,6 +46,7 @@
 	"common.error.bot.alreadyApproved": "Non puoi approvare un bot che è già approvato.",
 	"common.error.bot.alreadyVerified": "Non puoi verificare un bot già verificato.",
 	"common.error.bot.notInQueue": "You cannot decline a bot that is not in the queue.",
+	"common.error.bot.alreadyPremium": "You cannot give a bot premium if it already has premium.",
 	"common.error.bot.inQueue": "You cannot remove a bot that is in the queue.",
 	"common.error.fetchFail.bots": "An error occurred whilst fetching bots.",
 	"common.error.fetchFail.servers": "An error occurred whilst fetching servers.",
