@@ -46,6 +46,7 @@
 	"common.error.bot.alreadyApproved": "Du kannst keinen Bot genehmigen, welcher schon genehmigt wurde.",
 	"common.error.bot.alreadyVerified": "Du kannst keinen Bot bestätigen, welcher schon bestätigt ist.",
 	"common.error.bot.notInQueue": "Du kannst keinen Bot ablehnen, welcher nicht in der Warteschlange ist.",
+	"common.error.bot.alreadyPremium": "You cannot give a bot premium if it already has premium.",
 	"common.error.bot.inQueue": "Du kannst einen Bot nicht entfernen, welcher nicht in der Warteschlange ist.",
 	"common.error.fetchFail.bots": "Ein Fehler ist beim sammeln der Bots aufgetreten.",
 	"common.error.fetchFail.servers": "Ein fehler ist beim sammeln der Server aufgetreten.",
