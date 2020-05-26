@@ -46,6 +46,7 @@
 	"common.error.bot.alreadyApproved": "No puedes aprobar un bot que ya está aprobado.",
 	"common.error.bot.alreadyVerified": "No puedes verificar un bot que ya está verificado.",
 	"common.error.bot.notInQueue": "No puedes rechazar un bot que no está en la cola.",
+	"common.error.bot.alreadyPremium": "You cannot give a bot premium if it already has premium.",
 	"common.error.bot.inQueue": "No puedes eliminar un bot que no está en la cola.",
 	"common.error.fetchFail.bots": "Se produjo un error al buscar bots.",
 	"common.error.fetchFail.servers": "Se produjo un error al buscar servidores.",
