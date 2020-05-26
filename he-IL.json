@@ -46,6 +46,7 @@
 	"common.error.bot.alreadyApproved": "אתה לא יכול לאשר בוט שכבר אושר.",
 	"common.error.bot.alreadyVerified": "אתה לא יכול לאמת בוט שכבר מאומת.",
 	"common.error.bot.notInQueue": "אתה לא יכול לדחות בוט שאינו בתור.",
+	"common.error.bot.alreadyPremium": "You cannot give a bot premium if it already has premium.",
 	"common.error.bot.inQueue": "אתה לא יכול להסיר בוט שנמצא בתור.",
 	"common.error.fetchFail.bots": "אירעה שגיאה בעת השגת בוטים.",
 	"common.error.fetchFail.servers": "אירעה שגיאה בעת השגת השרתים.",
