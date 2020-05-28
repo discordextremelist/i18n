@@ -464,7 +464,7 @@
 	"page.account.edit.social.notice": "שם משתמש בלבד",
 	"page.account.edit.social.placeholder": "בלי '@'.",
 	"page.account.edit.customCSS": "פרופיל מותאם אישית CSS",
-	"page.account.edit.customCSS.notice": "משתמשים ואנשי צוות מאומתים בלבד",
+	"page.account.edit.customCSS.notice": "Donators and Staff Only",
 	"page.account.edit.customCSS.notPermitted": "אין לך את ההרשאות(s) הנדרשות להשתמש בטקסטריאה זו.",
 	"page.users.status.online": "סטטוס המשתמש כרגע מקוון.",
 	"page.users.status.idle": "סטטוס המשתמש כרגע אידל.",
