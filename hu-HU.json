@@ -464,7 +464,7 @@
 	"page.account.edit.social.notice": "Username Only",
 	"page.account.edit.social.placeholder": "Without an '@'.",
 	"page.account.edit.customCSS": "Custom Profile CSS",
-	"page.account.edit.customCSS.notice": "Verified Users and Staff Only",
+	"page.account.edit.customCSS.notice": "Donators and Staff Only",
 	"page.account.edit.customCSS.notPermitted": "You do not have the required permission(s) to use this textarea.",
 	"page.users.status.online": "The user's status is currently Online.",
 	"page.users.status.idle": "The user's status is currently Idle.",
