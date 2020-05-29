@@ -81,7 +81,7 @@
 	"common.error.template.perms.notOwner": "Sie können diese Aktion nicht ausführen, da Sie nicht der Eigentümer der Vorlage sind.",
 	"common.error.user.perms.edit": "Sie haben nicht die erforderlichen Berechtigungen, um das Profil dieses Benutzers zu bearbeiten.",
 	"common.error.noPremiumTake": "You cannot take premium away from a bot that doesn't have premium",
-	"common.img.loadFail": "Fehler beim Laden des Avatars / Symbols von Element %s, stattdessen Standard.",
+	"common.img.loadFail": "Failed to load item %s avatar/icon, using default instead.",
 	"common.img.avatar": "%s's Bild",
 	"common.img.icon": "%s's Icon",
 	"common.img.profilePicture": "%s Profilbild",
