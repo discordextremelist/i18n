@@ -81,7 +81,7 @@
 	"common.error.template.perms.notOwner": "You cannot perform this action as you are not the owner of the template.",
 	"common.error.user.perms.edit": "You do not have the required permission(s) to edit this user's profile.",
 	"common.error.noPremiumTake": "You cannot take premium away from a bot that doesn't have premium",
-	"common.img.loadFail": "Failed to load item %s's avatar/icon, using default instead.",
+	"common.img.loadFail": "Failed to load item %s avatar/icon, using default instead.",
 	"common.img.avatar": "%s's Avatar",
 	"common.img.icon": "%s's Icon",
 	"common.img.profilePicture": "%s's Profile Picture",
