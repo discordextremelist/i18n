@@ -61,7 +61,7 @@
 	"common.error.bot.arr.idTooLong": "Die Id des Bots darf nicht länger als 32 Zeichen sein.",
 	"common.error.bot.arr.notFound": "Es gibt keinen Bot mit dieser ID.",
 	"common.error.bot.arr.isUser": "Sie können der Bot-Liste keine Benutzer hinzufügen.",
-	"common.error.listing.arr.invite.urlInvalid": "Der Einladungslink / -code muss eine gültige URL sein, die mit http: // oder https: // beginnt",
+	"common.error.listing.arr.invite.urlInvalid": "The invite link/code must be a valid URL starting with https://",
 	"common.error.listing.arr.invite.tooLong": "Der von Ihnen angegebene Einladungslink / Code ist zu lang.",
 	"common.error.listing.arr.invite.invalid": "Sie haben eine ungültige Einladung angegeben.",
 	"common.error.listing.arr.invite.isURL": "Der Einladungscode kann keine URL sein.",

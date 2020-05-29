@@ -61,7 +61,7 @@
 	"common.error.bot.arr.idTooLong": "מספר מזהה של הבוט לא יוכל להיות יותר מ-32 מספרים.",
 	"common.error.bot.arr.notFound": "אין בוט קיים עם המספר מזהה הזה.",
 	"common.error.bot.arr.isUser": "אתה לא יכול להוסף עוד משתמשים לרשימת הבוטים.",
-	"common.error.listing.arr.invite.urlInvalid": "קישור הזמנה/קוד הזמנה חייב להיות כתובת אתר חוקית המתחילה ב- //:http או //:https",
+	"common.error.listing.arr.invite.urlInvalid": "The invite link/code must be a valid URL starting with https://",
 	"common.error.listing.arr.invite.tooLong": "קישור הזמנה/קוד הזמנה שסיפקת ארוך מדי.",
 	"common.error.listing.arr.invite.invalid": "סיפקת הזמנה לא חוקית.",
 	"common.error.listing.arr.invite.isURL": "קוד ההזמנה לא יכול להיות כתובת אתר מסוים.",

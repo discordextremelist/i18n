@@ -61,7 +61,7 @@
 	"common.error.bot.arr.idTooLong": "The bot's id cannot be longer than 32 characters.",
 	"common.error.bot.arr.notFound": "There isn't a bot with this id.",
 	"common.error.bot.arr.isUser": "You cannot add users to the bot list.",
-	"common.error.listing.arr.invite.urlInvalid": "The invite link/code must be a valid URL starting with http:// or https://",
+	"common.error.listing.arr.invite.urlInvalid": "The invite link/code must be a valid URL starting with https://",
 	"common.error.listing.arr.invite.tooLong": "The invite link/code you provided is too long.",
 	"common.error.listing.arr.invite.invalid": "You provided an invalid invite.",
 	"common.error.listing.arr.invite.isURL": "The invite code cannot be a URL.",

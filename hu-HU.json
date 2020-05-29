@@ -61,7 +61,7 @@
 	"common.error.bot.arr.idTooLong": "Ennek a botnak a id-je nem lehet hosszabb mint 32 karatkernél.",
 	"common.error.bot.arr.notFound": "Erre nincs ilyen bot ilyen id-al.",
 	"common.error.bot.arr.isUser": "Te nem adhatsz felhasználókat a bot listához.",
-	"common.error.listing.arr.invite.urlInvalid": "Az meghívási linknek egy müködő URL-t kell tartalmaznia",
+	"common.error.listing.arr.invite.urlInvalid": "The invite link/code must be a valid URL starting with https://",
 	"common.error.listing.arr.invite.tooLong": "A meghívó link/kód amit te beírál az túl hosszú.",
 	"common.error.listing.arr.invite.invalid": "Te egy érvénytelen meghívást adtál meg.",
 	"common.error.listing.arr.invite.isURL": "A meghívási kód nem lehet egy URL.",
