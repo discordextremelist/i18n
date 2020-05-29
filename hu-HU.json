@@ -81,7 +81,7 @@
 	"common.error.template.perms.notOwner": "Ezt az akciót nem hajthatód végre ugyanis te nem vagy ennek a szablonnak a tulajdonosa.",
 	"common.error.user.perms.edit": "Neked nincs a megadott jogsultság(ok) hogy szerkezd ennek a felhasználónak a, profilját.",
 	"common.error.noPremiumTake": "You cannot take premium away from a bot that doesn't have premium",
-	"common.img.loadFail": "Failed to load item %s's avatar/icon, using default instead.",
+	"common.img.loadFail": "Failed to load item %s avatar/icon, using default instead.",
 	"common.img.avatar": "%s's Avatar",
 	"common.img.icon": "%s's Icon",
 	"common.img.profilePicture": "%s's Profile Picture",
