@@ -81,7 +81,7 @@
 	"common.error.template.perms.notOwner": "אתה לא יכול לבצע פעולה זו מכיוון שאינך הבעלים של התבנית.",
 	"common.error.user.perms.edit": "אין לך את ההרשאות הנדרשות(s) לערוך את פרופיל המשתמש הזה.",
 	"common.error.noPremiumTake": "You cannot take premium away from a bot that doesn't have premium",
-	"common.img.loadFail": "נכשל לטעון את פריט %s תמונה/סמל, תשתמש בררת מחדל במקום.",
+	"common.img.loadFail": "Failed to load item %s avatar/icon, using default instead.",
 	"common.img.avatar": "תמונה של %s",
 	"common.img.icon": "סמל של %s",
 	"common.img.profilePicture": "תמונת פרופיל של %s",
