@@ -173,7 +173,7 @@
 	"common.nav.language.en-NZ": "🇳🇿 Ingarihi NZ",
 	"common.nav.language.en-UK": "🇬🇧 English UK",
 	"common.nav.language.en-US": "🇺🇸 Ingarihi US",
-	"common.nav.language.en-UD": "{flag} English UD",
+	"common.nav.language.en-UD": "{{flag}} English UD",
 	"common.nav.language.de": "🇩🇪 German",
 	"common.nav.language.he": "🇮🇱 Hebrew",
 	"common.nav.language.hu": "🇭🇺 Hungarian",
