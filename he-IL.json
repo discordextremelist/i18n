@@ -173,7 +173,7 @@
 	"common.nav.language.en-NZ": "🇳🇿 אנגלית NZ",
 	"common.nav.language.en-UK": "🇬🇧 אנגלית UK",
 	"common.nav.language.en-US": "🇺🇸 אנגלית US",
-	"common.nav.language.en-UD": "{flag} English UD",
+	"common.nav.language.en-UD": "{{flag}} English UD",
 	"common.nav.language.de": "🇩🇪 גרמנית",
 	"common.nav.language.he": "🇮🇱 עברית",
 	"common.nav.language.hu": "🇭🇺 הונגרית",
