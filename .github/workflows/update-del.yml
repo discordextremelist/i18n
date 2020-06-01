@@ -1,5 +1,8 @@
 name: update translations in del
-on: push
+on:
+  push:
+    branches:
+      - master
 jobs:
   update:
     runs-on: ubuntu-latest
