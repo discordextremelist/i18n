@@ -1,7 +1,9 @@
 {
 	"common.del": "Discord Extreme List",
 	"common.del.subtitle": "Discord's unbiased list, giving bots and servers of all sizes a big chance!",
-	"common.dateFormat": "{{hours}}:{{minutes}} {{dateInMonth}}/{{monthNumber}}/{{year}} UTC",
+	"common.dateFormat": "{{hours}}:{{minutes}} {{amPM}} {{monthNumber}}/{{dateInMonth}}/{{year}} UTC",
+	"common.dateFormat.am": "AM",
+	"common.dateFormat.pm": "PM",
 	"common.home": "Home",
 	"common.bots": "Bots",
 	"common.bots.random": "Random Bots",
