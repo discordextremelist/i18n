@@ -82,7 +82,7 @@
 	"common.error.template.arr.invite.tooLong": "A szablon kód amit megadott túl hosszú.",
 	"common.error.template.arr.invite.invalid": "Te megadtál egy hibás szablon kódot.",
 	"common.error.template.arr.invite.isURL": "A szablon kód nem lehet URL.",
-	"common.error.template.arr.invite.dnew": "A meghívási kód nem tartalmazhat discord.new-t",
+	"common.error.template.arr.invite.dnew": "The template code cannot contain discord.new",
 	"common.error.template.perms.edit": "Neked nincs a megadott jogsultság(ok) hogy szerkezd ezt aa szablont.",
 	"common.error.template.perms.notOwner": "Ezt az akciót nem hajthatód végre ugyanis te nem vagy ennek a szablonnak a tulajdonosa.",
 	"common.error.user.perms.edit": "Neked nincs a megadott jogsultság(ok) hogy szerkezd ennek a felhasználónak a, profilját.",
