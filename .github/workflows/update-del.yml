@@ -1,0 +1,15 @@
+name: update del
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: testing update workflow
+        uses: garygrossgarten/github-action-ssh@release
+        with:
+          command: cd del-v5 && ls
+          host: ${{ secrets.HOST }}
+          username: cairo
+          privateKey: ${{ secrets.PRIVATE_KEY}}
+        env:
+          CI: true
