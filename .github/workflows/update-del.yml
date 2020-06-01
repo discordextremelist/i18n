@@ -1,13 +1,13 @@
-name: update del
+name: update translations in del
 on: push
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: testing update workflow
+      - name: ssh in and update
         uses: garygrossgarten/github-action-ssh@release
         with:
-          command: cd del-v5 && ls
+          command: cd del-v5 && npm upgrade
           host: ${{ secrets.HOST }}
           username: cairo
           privateKey: ${{ secrets.PRIVATE_KEY}}
