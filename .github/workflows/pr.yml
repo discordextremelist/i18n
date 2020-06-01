@@ -13,7 +13,7 @@ jobs:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           MERGE_LABELS: ""
           MERGE_METHOD: "squash"
-          MERGE_COMMIT_MESSAGE: Update translations ({pullRequest.number})
+          MERGE_COMMIT_MESSAGE: Update translations (#{pullRequest.number})
           MERGE_FORKS: "false"
       - name: pull updated strings
         uses: garygrossgarten/github-action-ssh@release
