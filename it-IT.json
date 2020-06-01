@@ -82,7 +82,7 @@
 	"common.error.template.arr.invite.tooLong": "The template code you provided is too long.",
 	"common.error.template.arr.invite.invalid": "You provided an invalid template code.",
 	"common.error.template.arr.invite.isURL": "The template code cannot be a URL.",
-	"common.error.template.arr.invite.dnew": "The invite code cannot contain discord.new",
+	"common.error.template.arr.invite.dnew": "The template code cannot contain discord.new",
 	"common.error.template.perms.edit": "You do not have the required permission(s) to edit this template.",
 	"common.error.template.perms.notOwner": "You cannot perform this action as you are not the owner of the template.",
 	"common.error.user.perms.edit": "You do not have the required permission(s) to edit this user's profile.",
