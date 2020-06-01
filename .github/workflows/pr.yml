@@ -1,0 +1,26 @@
+name: PR workflow
+on:
+  pull_request:
+    types:
+      - opened
+jobs:
+  handle:
+    runs-on: ubuntu-latest
+    steps:
+      - name: automerge pr
+        uses: pascalgn/automerge-action@7ab42e888a333bf77ce865bc84fedc6a365a3548
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_LABELS: ""
+          MERGE_METHOD: "squash"
+          MERGE_COMMIT_MESSAGE: Update translations ({pullRequest.number})
+          MERGE_FORKS: "false"
+      - name: pull updated strings
+        uses: garygrossgarten/github-action-ssh@release
+        with:
+          command: cd del-v5 && npm upgrade
+          host: ${{ secrets.HOST }}
+          username: cairo
+          privateKey: ${{ secrets.PRIVATE_KEY}}
+        env:
+          CI: true

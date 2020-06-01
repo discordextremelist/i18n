@@ -1,16 +1,13 @@
-name: update translations in del
+name: push workflow
 on:
   push:
     branches:
       - master
-  pull_request:
-    types:
-      - closed
 jobs:
-  update:
+  handle:
     runs-on: ubuntu-latest
     steps:
-      - name: ssh in and update
+      - name: pull updated strings
         uses: garygrossgarten/github-action-ssh@release
         with:
           command: cd del-v5 && npm upgrade
