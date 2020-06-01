@@ -82,7 +82,7 @@
 	"common.error.template.arr.invite.tooLong": "El código de plantilla proporcionado es muy largo.",
 	"common.error.template.arr.invite.invalid": "El código de plantilla es invalido.",
 	"common.error.template.arr.invite.isURL": "El código de plantilla no puede ser una URL.",
-	"common.error.template.arr.invite.dnew": "El código de invitación no puede contener discord.new",
+	"common.error.template.arr.invite.dnew": "The template code cannot contain discord.new",
 	"common.error.template.perms.edit": "No tienes los permisos necesarios para editar esta plantilla.",
 	"common.error.template.perms.notOwner": "No puedes hacer esta acción dado que no eres el propietario de la plantilla.",
 	"common.error.user.perms.edit": "No tienes los permisos necesarios para editar este perfil de usuario.",
