@@ -2,6 +2,8 @@
 	"common.del": "דיסקורד רשימת אקסטרים",
 	"common.del.subtitle": "הרשימה הבלתי משוחדת של דיסקורד, נותנת לבוטים ושרתים בכל הגדלים סיכוי גדול!",
 	"common.dateFormat": "{{hours}}:{{minutes}} {{dateInMonth}}/{{monthNumber}}/{{year}} UTC",
+	"common.dateFormat.am": "AM",
+	"common.dateFormat.pm": "PM",
 	"common.home": "בית",
 	"common.bots": "בוטים",
 	"common.bots.random": "בוטים רנדומלים",
