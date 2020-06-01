@@ -1,6 +1,7 @@
 {
 	"common.del": "Discord Extreme List",
 	"common.del.subtitle": "¡Lista imparcial de Discord, que ofrece a los bots y servidores de todos los tamaños una gran oportunidad!",
+	"common.dateFormat": "{{hours}}:{{minutes}} {{dateInMonth}}/{{monthNumber}}/{{year}} UTC",
 	"common.home": "Inicio",
 	"common.bots": "Bots",
 	"common.bots.random": "Random Bots",
