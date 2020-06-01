@@ -26,5 +26,5 @@ jobs:
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           MERGE_LABELS: ""
-          MERGE_COMMIT_MESSAGE: "Merge translations"
+          MERGE_METHOD: "rebase"
           MERGE_FORKS: "false"
