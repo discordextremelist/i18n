@@ -82,7 +82,7 @@
 	"common.error.template.arr.invite.tooLong": "קוד התבנית שציינת ארוך מדי.",
 	"common.error.template.arr.invite.invalid": "אתה סיפקת קוד תבנית לא חוקי.",
 	"common.error.template.arr.invite.isURL": "קוד התבנית לא יכול להיות כתובת אתר.",
-	"common.error.template.arr.invite.dnew": "The template code cannot contain discord.new",
+	"common.error.template.arr.invite.dnew": "קוד התבנית אינו יכול להכיל discord.new",
 	"common.error.template.perms.edit": "אין לך את ההרשאות הנדרשות(s) לערוך תבנית זו.",
 	"common.error.template.perms.notOwner": "אתה לא יכול לבצע פעולה זו מכיוון שאינך הבעלים של התבנית.",
 	"common.error.user.perms.edit": "אין לך את ההרשאות הנדרשות(s) לערוך את פרופיל המשתמש הזה.",
