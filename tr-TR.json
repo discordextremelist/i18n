@@ -483,7 +483,7 @@
 	"page.account.edit.subtitle.me": "Profili Düzenleme",
 	"page.account.edit.subtitle.other": "%s'nın Profilini Düzenleme",
 	"page.account.edit.bio": "Biyografi",
-	"page.account.edit.bio.placeholder": "This is your bio, please don't put any links in here.",
+	"page.account.edit.bio.placeholder": "Bu senin Biyografin , lütfen bu alana herhangi bir link bırakma.",
 	"page.account.edit.website.placeholder": "If you have a website put its link in here.",
 	"page.account.edit.social.notice": "Username Only",
 	"page.account.edit.social.placeholder": "Without an '@'.",
