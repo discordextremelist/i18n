@@ -1,7 +1,7 @@
 {
 	"common.del": "ʇsᴉ˥ ǝɯǝɹʇxƎ pɹoɔsᴉp",
 	"common.del.subtitle": "¡ǝɔuɐɥɔ ƃᴉq ɐ sǝzᴉs llɐ ɟo sɹǝʌɹǝs puɐ sʇoq ƃuᴉʌᴉƃ 'ʇsᴉl pǝsɐᴉqun s,pɹoɔsᴉp",
-	"common.dateFormat": "{{hours}}:{{minutes}} {{dateInMonth}}/{{monthNumber}}/{{year}} UTC",
+	"common.dateFormat": "{{hours}}:{{minutes}} {{amPM}} {{monthNumber}}/{{dateInMonth}}/{{year}} UTC",
 	"common.dateFormat.am": "AM",
 	"common.dateFormat.pm": "PM",
 	"common.home": "ǝɯoH",
