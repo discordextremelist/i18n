@@ -4,7 +4,7 @@ on:
     types:
       - opened
 jobs:
-  handle:
+  autoupdate:
     runs-on: ubuntu-latest
     steps:
       - name: automerge pr
