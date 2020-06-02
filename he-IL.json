@@ -203,7 +203,7 @@
 	"common.nav.me.playSnake": "לשחק נחש",
 	"common.nav.me.playSnake.subtitle": "שחק את משחק הנחש המדהים שנמצא בדפי הסטטוס!",
 	"common.notice.ddosMode": "מצב DDoS מופעל, כניסה ויציאות מושבתות.",
-	"common.footer.copyright": "&copy; זכויות יוצרים 2019-Cairo Mitchell-Acason, John P. Burke; %s כל הזכויות שמורות.",
+	"common.footer.copyright": "&copy; Copyright 2019-{{currentYear}} {{names}} AGPL-3.0 Open Source License.",
 	"common.social.facebook": "פייסבוק",
 	"common.social.facebook.del": "DEL פייסבוק",
 	"common.social.twitter": "טוויטר",
