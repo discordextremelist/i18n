@@ -200,7 +200,7 @@
 	"common.nav.me.submitServer": "Sunucu Gönder!",
 	"common.nav.me.submitServer.subtitle": "Sunucunuzu listemize gönderin.",
 	"common.nav.me.submitTemplate": "Şablon Gönder!",
-	"common.nav.me.submitTemplate.subtitle": "Submit your template to the list",
+	"common.nav.me.submitTemplate.subtitle": "Şablonunuzu listemize gönderin.",
 	"common.nav.me.playSnake": "Play Snake",
 	"common.nav.me.playSnake.subtitle": "Play the awesome snake game found on status pages!",
 	"common.notice.ddosMode": "DDoS Mode is activated, logins and logouts are disabled.",
