@@ -188,6 +188,8 @@
 	"common.nav.language.es-ES": "🇪🇸 Spanish",
 	"common.nav.language.tr-TR": "🇹🇷 Turkish",
 	"common.nav.language.helpUs": "🏳️ Segíts fordítani",
+	"common.nav.language.enableRTL": "Enable RTL",
+	"common.nav.language.disableRTL": "Disable RTL",
 	"common.nav.me.profile": "Profil",
 	"common.nav.me.preferences": "Preferencia",
 	"common.nav.me.preferences.subtitle": "Szerkeszd a te fiókod preferenciáját",
