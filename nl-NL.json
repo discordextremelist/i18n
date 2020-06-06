@@ -188,6 +188,8 @@
 	"common.nav.language.es-ES": "🇪🇸 Spanish",
 	"common.nav.language.tr-TR": "🇹🇷 Turkish",
 	"common.nav.language.helpUs": "🏳️ Help Translate",
+	"common.nav.language.enableRTL": "Enable RTL",
+	"common.nav.language.disableRTL": "Disable RTL",
 	"common.nav.me.profile": "Profile",
 	"common.nav.me.preferences": "Preferences",
 	"common.nav.me.preferences.subtitle": "Edit your account preferences",
