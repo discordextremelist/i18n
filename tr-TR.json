@@ -188,6 +188,8 @@
 	"common.nav.language.es-ES": "🇪🇸 İspanyolca",
 	"common.nav.language.tr-TR": "🇹🇷 Türkçe",
 	"common.nav.language.helpUs": "🏳️ Çeviriye Yardım Et!",
+	"common.nav.language.enableRTL": "Enable RTL",
+	"common.nav.language.disableRTL": "Disable RTL",
 	"common.nav.me.profile": "Profil",
 	"common.nav.me.preferences": "Tercihler",
 	"common.nav.me.preferences.subtitle": "Profilinin Tercihlerini düzenle.",
