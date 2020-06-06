@@ -188,6 +188,8 @@
 	"common.nav.language.es-ES": "🇪🇸 ספרדית",
 	"common.nav.language.tr-TR": "🇹🇷 טורקית",
 	"common.nav.language.helpUs": "🏳️ עזרה בתרגום",
+	"common.nav.language.enableRTL": "Enable RTL",
+	"common.nav.language.disableRTL": "Disable RTL",
 	"common.nav.me.profile": "פרופיל",
 	"common.nav.me.preferences": "העדפות",
 	"common.nav.me.preferences.subtitle": "ערוך את העדפות חשבונך",
