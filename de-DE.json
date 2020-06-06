@@ -1,5 +1,5 @@
 {
-	"common.del": "Discord Extreme List's Logo",
+	"common.del": "Discord Extreme List",
 	"common.del.subtitle": "Discord's unbefangene Liste, gibt Bots und Server aller grössen eine grosse Chance!",
 	"common.dateFormat": "{{hours}}:{{minutes}} {{dateInMonth}}.{{monthNumber}}.{{year}} UTC",
 	"common.dateFormat.am": "Am Morgen",
@@ -230,7 +230,7 @@
 	"partials.msgNotifications.1": "🔕 Nur Erwähnungen",
 	"partials.verificationLevel": "Verifizierungsstufe:",
 	"partials.verificationLevel.0.title": "Unbeschränkt",
-	"partials.verificationLevel.0.name": "⚪ Keine",
+	"partials.verificationLevel.0.name": "⚪ Ohne",
 	"partials.verificationLevel.1.title": "Muss über eine verifizierte E-Mail-Adresse auf dem Discord-Account verfügen.",
 	"partials.verificationLevel.1.name": "🟢 Niedrig",
 	"partials.verificationLevel.2.title": "Muss länger als 5 Minuten auf Discord registriert sein.",
