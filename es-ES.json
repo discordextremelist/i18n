@@ -374,7 +374,7 @@
 	"page.guidelines.bot.other.4.2": "Levelup Messages,",
 	"page.guidelines.bot.other.4.3": "Advertisements,",
 	"page.guidelines.bot.other.4.4": "Any other form of messages unless they are invoked by a command.",
-	"page.guidelines.bot.other.5": "Your bot's primary purpose cannot be as a COVID-19 bot without reviewal from management (You may still submit it but it will go through harsher testing).",
+	"page.guidelines.bot.other.5": "COVID-19 bot's are forbidden for multiple reasons including but not limited to inaccuracies and misinformation, in addition to this bots with a COVID-19 command will be more harshly tested and must meet various requirements such as if showing case count, it must be up to date and show the time those case numbers were fetched.",
 	"page.guidelines.server": "Server Guidelines",
 	"page.guidelines.server.listing.0": "Your server must not have an inappropriate icon.",
 	"page.guidelines.server.listing.1": "Your server must not have an inappropriate name.",
