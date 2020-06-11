@@ -374,7 +374,7 @@
 	"page.guidelines.bot.other.4.2": "הודעות עלית רמה",
 	"page.guidelines.bot.other.4.3": "פרסומות,",
 	"page.guidelines.bot.other.4.4": "כל סוג אחר של הודעות אלא אם כן הם מופעלים על ידי פקודה.",
-	"page.guidelines.bot.other.5": "המטרה העיקרית של הבוט שלך לא יכולה להיות כבוט COVID-19 ללא בדיקה מההנהלה (אתה עדיין יכול להגיש את זה אך הוא יעבור בדיקות קשות יותר).",
+	"page.guidelines.bot.other.5": "COVID-19 bot's are forbidden for multiple reasons including but not limited to inaccuracies and misinformation, in addition to this bots with a COVID-19 command will be more harshly tested and must meet various requirements such as if showing case count, it must be up to date and show the time those case numbers were fetched.",
 	"page.guidelines.server": "הנחיות השרת",
 	"page.guidelines.server.listing.0": "אסור לשרת שלך להיות סמל לא הולם.",
 	"page.guidelines.server.listing.1": "אסור לשרת שלך להיות שם לא הולם.",
