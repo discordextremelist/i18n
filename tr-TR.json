@@ -390,6 +390,7 @@
 	"page.staff.webStats": "Website İstatistikleri",
 	"page.staff.webStats.botCount": "Bot Sayısı",
 	"page.staff.webStats.botCount.unapproved": "Doğrulanmamış Bot Sayısı",
+	"page.staff.webStats.templateCount": "Template Count",
 	"page.staff.webStats.serverCount": "Sunucu Sayısı",
 	"page.staff.webStats.userCount": "Kullanıcı Sayısı",
 	"page.staff.me": "Genel Bakış",
