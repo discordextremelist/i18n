@@ -390,6 +390,7 @@
 	"page.staff.webStats": "Website Statistiken",
 	"page.staff.webStats.botCount": "Anzahl von Bots",
 	"page.staff.webStats.botCount.unapproved": "Anzahl von abgelehnten Bots",
+	"page.staff.webStats.templateCount": "Template Count",
 	"page.staff.webStats.serverCount": "Anzahl von Servern",
 	"page.staff.webStats.userCount": "Anzahl von Mitgliedern",
 	"page.staff.me": "Deine Übersicht",

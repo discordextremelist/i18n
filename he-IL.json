@@ -390,6 +390,7 @@
 	"page.staff.webStats": "סטטיסטיקת האתר",
 	"page.staff.webStats.botCount": "ספירת הבוט",
 	"page.staff.webStats.botCount.unapproved": "ספירת הבוט שלא אושרה",
+	"page.staff.webStats.templateCount": "Template Count",
 	"page.staff.webStats.serverCount": "ספירת השרתים",
 	"page.staff.webStats.userCount": "ספירת המשתמשים",
 	"page.staff.me": "הסקירה שלך",
