@@ -390,6 +390,7 @@
 	"page.staff.webStats": "Website Statistics",
 	"page.staff.webStats.botCount": "Bot Count",
 	"page.staff.webStats.botCount.unapproved": "Unapproved Bot Count",
+	"page.staff.webStats.templateCount": "Template Count",
 	"page.staff.webStats.serverCount": "Server Count",
 	"page.staff.webStats.userCount": "User Count",
 	"page.staff.me": "Your Overview",
