@@ -508,7 +508,7 @@
 	"page.users.listings.nil": "This user is not an owner or editor of any listed items.",
 	"page.users.listings.archivedBots": "Archived Bots",
 	"page.users.profile.title": "%s's Profile",
-	"page.users.edit.title": "Edit Profile",
+	"page.users.edit.title": "प्रोफाइल सम्पादित करें",
 	"page.users.edit.subtitle": "Editing profile %s",
 	"page.banned": "Banned",
 	"page.banned.message": "You are currently banned, being banned prevents you from using any standard site functions. You were most likely banned as you broke a rule on our server.",
@@ -571,11 +571,11 @@
 	"premid.snake": "Playing snake",
 	"premid.staff.home": "On the staff panel homepage",
 	"premid.staff.queue": "Managing the bot queue",
-	"premid.staff.audit": "Reviewing the audit logs",
-	"premid.staff.staffManager": "Managing staff",
+	"premid.staff.audit": "ऑडिट लॉग कि समीक्षा करना",
+	"premid.staff.staffManager": "स्टाफ का प्रबंधन",
 	"premid.staff.staffManager.updateAway": "Changing %s's away status",
 	"premid.staff.staffManager.modifyStanding": "Changing %s's standing",
 	"premid.staff.staffManager.warn": "Giving %s a warning",
 	"premid.staff.staffManager.strike": "Giving %s a strike",
-	"premid.staff.announcer": "Managing site announcements"
+	"premid.staff.announcer": "साईट के घोषणा का प्रबंधन"
 }
