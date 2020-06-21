@@ -517,7 +517,7 @@
 	"docs.label.api": "API",
 	"docs.subtitle": "Resmi Discord Extreme List Dökümantasyonu",
 	"docs.incompatibleLib": "Bu kütüphane Discord Extreme List tarafından kritik şekilde , eski olarak işaretlendi.",
-	"docs.authRequired": "Authorisation is required on all endpoints!",
+	"docs.authRequired": "Endpoints that require authorisation will be labled with a lock icon ({{lock}}).",
 	"docs.intro": "Başlangıç",
 	"docs.intro.header": "Discord Extreme List'in Dökümantasyonuna Hoşgeldin!",
 	"docs.routes": "Rotalar",

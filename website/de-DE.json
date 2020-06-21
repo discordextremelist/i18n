@@ -517,7 +517,7 @@
 	"docs.label.api": "API",
 	"docs.subtitle": "Die offizielle Dokumentation für Discord Extreme List",
 	"docs.incompatibleLib": "Diese Bibliothek wurde von Discord Extreme List als stark veraltet gekennzeichnet.",
-	"docs.authRequired": "Authorisation is required on all endpoints!",
+	"docs.authRequired": "Endpoints that require authorisation will be labled with a lock icon ({{lock}}).",
 	"docs.intro": "Einführung",
 	"docs.intro.header": "Willkommen bei der Discord Extreme List Dokumentation",
 	"docs.routes": "Routen",
