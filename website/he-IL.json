@@ -517,7 +517,7 @@
 	"docs.label.api": "API",
 	"docs.subtitle": "התיעוד הרשמי של דיסקורד רשימת אקסטרים",
 	"docs.incompatibleLib": "ספרייה זו סומנה כלא עדכנית על ידי דיסקורד רשימת אקסטרים.",
-	"docs.authRequired": "Routes that require authorisation will be labled with a lock icon.",
+	"docs.authRequired": "Routes that require authorisation are labled with a lock icon.",
 	"docs.intro": "הקדמה",
 	"docs.intro.header": "ברוך הבא לתיעוד של דיסקורד רשימת אקסטרים",
 	"docs.routes": "נתיבים",

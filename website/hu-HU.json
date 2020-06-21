@@ -517,7 +517,7 @@
 	"docs.label.api": "API",
 	"docs.subtitle": "The official documentation for Discord Extreme List",
 	"docs.incompatibleLib": "This library has been marked as critically out of date by Discord Extreme List.",
-	"docs.authRequired": "Routes that require authorisation will be labled with a lock icon.",
+	"docs.authRequired": "Routes that require authorisation are labled with a lock icon.",
 	"docs.intro": "Intro",
 	"docs.intro.header": "Welcome to the Discord Extreme List Documentation",
 	"docs.routes": "Routes",
