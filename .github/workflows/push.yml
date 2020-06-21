@@ -13,6 +13,7 @@ jobs:
           command: cd del-v5 && npm upgrade
           host: ${{ secrets.HOST }}
           username: cairo
-          privateKey: ${{ secrets.PRIVATE_KEY}}
+          privateKey: ${{ secrets.PRIVATE_KEY }}
+          passphrase: ${{ secrets.PASSPHRASE }}
         env:
           CI: true
