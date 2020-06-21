@@ -22,5 +22,6 @@ jobs:
           host: ${{ secrets.HOST }}
           username: cairo
           privateKey: ${{ secrets.PRIVATE_KEY}}
+          passphrase: ${{ secrets.PASSPHRASE }}
         env:
           CI: true
