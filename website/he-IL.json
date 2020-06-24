@@ -224,6 +224,8 @@
 	"common.social.github": "GitHub",
 	"common.social.github.del": "DEL GitHub",
 	"common.social.gitlab": "GitLab",
+	"common.pagination.page": "Page %s",
+	"common.pagination.gotoPage": "Goto page %s",
 	"partials.explicitFilter": "מסנן תוכן מפורש:",
 	"partials.explicitFilter.0": "❌ מושבת",
 	"partials.explicitFilter.1": "🔐 חברים ללא תפקידים",
