@@ -131,6 +131,7 @@
 	"common.view.bot": "View Bot",
 	"common.view.server": "View Server",
 	"common.view.template": "View Template",
+	"common.view.user": "View User",
 	"common.application.view": "View Application",
 	"common.pagination.next": "Next",
 	"common.pagination.previous": "Previous",

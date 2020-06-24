@@ -131,6 +131,7 @@
 	"common.view.bot": "Bot megnézése",
 	"common.view.server": "Szerver megnézése",
 	"common.view.template": "Szablon megnézése",
+	"common.view.user": "View User",
 	"common.application.view": "Applikáció megnézése",
 	"common.pagination.next": "Következő",
 	"common.pagination.previous": "Előző",

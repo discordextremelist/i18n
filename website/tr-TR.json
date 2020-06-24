@@ -131,6 +131,7 @@
 	"common.view.bot": "Botu Görüntüle",
 	"common.view.server": "Sunucuyu Görüntüle",
 	"common.view.template": "Şemayı Görüntüle",
+	"common.view.user": "View User",
 	"common.application.view": "Uygulamayı Görüntüle",
 	"common.pagination.next": "Sıradaki",
 	"common.pagination.previous": "Önceki",
