@@ -131,6 +131,7 @@
 	"common.view.bot": "Ver Bot",
 	"common.view.server": "Ver Servidor",
 	"common.view.template": "Ver Plantilla",
+	"common.view.user": "View User",
 	"common.application.view": "View Application",
 	"common.pagination.next": "Siguiente",
 	"common.pagination.previous": "Anterior",
