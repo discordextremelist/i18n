@@ -74,6 +74,7 @@
 	"common.error.listing.arr.invite.tooLong": "A meghívó link/kód amit te beírál az túl hosszú.",
 	"common.error.listing.arr.invite.invalid": "Te egy érvénytelen meghívást adtál meg.",
 	"common.error.listing.arr.invite.isURL": "A meghívási kód nem lehet egy URL.",
+	"common.error.listing.arr.invalidURL": "You provided an invalid URL in one of your links, please check the links section. A valid URL must start with https://",
 	"common.error.listing.arr.longDescRequired": "A hosszú leírás kötelező.",
 	"common.error.listing.arr.prefixRequired": "Egy érvényes bot prefix szükséges.",
 	"common.error.server.conflict": "Ez a szerver már szerepel a listán.",
