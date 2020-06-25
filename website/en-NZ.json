@@ -486,6 +486,7 @@
 	"page.staff.audit.executor": "Executor:",
 	"page.staff.audit.target": "Target:",
 	"page.staff.audit.date": "Date:",
+	"page.staff.audit.jsonData": "Show JSON Data",
 	"page.staff.audit.type.MODIFY_RANK": "User Rank Modified",
 	"page.staff.audit.type.SET_VANITY": "Vanity URL Set",
 	"page.staff.audit.type.MODIFY_VANITY": "Vanity URL Modified",
