@@ -518,6 +518,8 @@
 	"page.staff.audit.type.MODIFY_STANDING": "Staffs' Standing Modified",
 	"page.staff.audit.type.ADD_WARNING": "Staff Member Warned",
 	"page.staff.audit.type.ADD_STRIKE": "Staff Member Striked",
+	"page.staff.audit.type.UPDATE_ANNOUNCEMENT": "Site Announcement Updated",
+	"page.staff.audit.type.RESET_ANNOUNCEMENT": "Site Announcement Removed",
 	"page.staff.audit.type.UNKNOWN": "Unknown Event",
 	"page.staff.site-manager": "Seiten Manager",
 	"page.staff.site-manager.subtitle": "Seiten Management Tools und Einstellungen",
