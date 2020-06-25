@@ -54,6 +54,7 @@
 	"common.error.bot.notInQueue": "Kuyrukta olmayan bir botu reddedemezsiniz!",
 	"common.error.bot.alreadyPremium": "Premiumu olan bir bota tekrar premium veremezsiniz!",
 	"common.error.bot.inQueue": "Kuyruktaki bir botu kaldıramazsınız!",
+	"common.error.bot.notArchived": "You cannot resubmit a bot that isn't archived.",
 	"common.error.fetchFail.bots": "Botlar karşınıza getirilirken bir hata oluştu!",
 	"common.error.fetchFail.servers": "Sunucular karşınıza getirilirken bir hata oluştu!",
 	"common.error.fetchFail.templates": "Şemalar karşınıza getirilirken bir hata oluştu!",

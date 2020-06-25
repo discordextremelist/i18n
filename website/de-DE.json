@@ -54,6 +54,7 @@
 	"common.error.bot.notInQueue": "Du kannst keinen Bot ablehnen, welcher nicht in der Warteschlange ist.",
 	"common.error.bot.alreadyPremium": "Sie können diesem Bot kein Premium geben, da er bereits Premium hat.",
 	"common.error.bot.inQueue": "Du kannst einen Bot nicht entfernen, welcher nicht in der Warteschlange ist.",
+	"common.error.bot.notArchived": "You cannot resubmit a bot that isn't archived.",
 	"common.error.fetchFail.bots": "Ein Fehler ist beim sammeln der Bots aufgetreten.",
 	"common.error.fetchFail.servers": "Ein fehler ist beim sammeln der Server aufgetreten.",
 	"common.error.fetchFail.templates": "Ein Fehler ist beim sammeln der Vorlagen aufgetreten.",

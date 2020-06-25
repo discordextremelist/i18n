@@ -54,6 +54,7 @@
 	"common.error.bot.notInQueue": "Te nem utasíthatod el ezt a botot mert ez a bot nincs a várólistán.",
 	"common.error.bot.alreadyPremium": "Te nem adhatsz egy botnak egy prémiumot ha már van neki prémiumja.",
 	"common.error.bot.inQueue": "Te nem törölheted ezt a botot ami már a várólistán van.",
+	"common.error.bot.notArchived": "You cannot resubmit a bot that isn't archived.",
 	"common.error.fetchFail.bots": "Egy hiba történt miközben probáltuk kikeresni a botokat.",
 	"common.error.fetchFail.servers": "Egy hiba történt miközben probáltuk kikeresni a szervereket.",
 	"common.error.fetchFail.templates": "Egy hiba történt miközben probáltuk betölteni a szablonokat.",
