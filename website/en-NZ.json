@@ -480,6 +480,8 @@
 	"page.staff.manager.lastAccess.page": "Last Page:",
 	"page.staff.audit": "Audit Logs",
 	"page.staff.audit.subtitle": "The site-wide audit logs!",
+	"page.staff.audit.before": "Before",
+	"page.staff.audit.after": "After",
 	"page.staff.audit._id": "_id:",
 	"page.staff.audit.executor": "Executor:",
 	"page.staff.audit.target": "Target:",
