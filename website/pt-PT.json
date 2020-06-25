@@ -54,6 +54,7 @@
 	"common.error.bot.notInQueue": "Não podes recusar um bot que não está na lista.",
 	"common.error.bot.alreadyPremium": "Não podes dar premium a um bot que já tem premium.",
 	"common.error.bot.inQueue": "Não podes remover um bot que está na lista.",
+	"common.error.bot.notArchived": "You cannot resubmit a bot that isn't archived.",
 	"common.error.fetchFail.bots": "Um erro ocorreu enquanto procuravamos os bots.",
 	"common.error.fetchFail.servers": "An error occurred whilst fetching servers.",
 	"common.error.fetchFail.templates": "An error occurred whilst fetching templates.",
