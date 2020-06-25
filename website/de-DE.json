@@ -75,6 +75,7 @@
 	"common.error.listing.arr.invite.invalid": "Sie haben eine ungültige Einladung angegeben.",
 	"common.error.listing.arr.invite.isURL": "Der Einladungscode kann keine URL sein.",
 	"common.error.listing.arr.invalidURL": "You provided an invalid URL in one of your links, please check the links section. A valid URL must start with https://",
+	"common.error.listing.arr.invalidURLs": "You provided multiple invalid URLs in your links, please check the links section. A valid URL must start with https://",
 	"common.error.listing.arr.longDescRequired": "Eine lange Beschreibung ist erforderlich.",
 	"common.error.listing.arr.prefixRequired": "Ein gültiges Bot-Prefix ist erforderlich.",
 	"common.error.server.conflict": "Dieser Server wurde bereits zur Liste hinzugefügt.",
