@@ -74,6 +74,7 @@
 	"common.error.listing.arr.invite.tooLong": "The invite link/code you provided is too long.",
 	"common.error.listing.arr.invite.invalid": "You provided an invalid invite.",
 	"common.error.listing.arr.invite.isURL": "The invite code cannot be a URL.",
+	"common.error.listing.arr.invalidURL": "You provided an invalid URL in one of your links, please check the links section. A valid URL must start with https://",
 	"common.error.listing.arr.longDescRequired": "La descripción larga es obligatoria.",
 	"common.error.listing.arr.prefixRequired": "A valid bot prefix is required.",
 	"common.error.server.conflict": "Este servidor ya ha sido añadido a la lista.",
