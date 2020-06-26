@@ -350,7 +350,7 @@
 	"page.remove.premadeReasons.fixNoResponse": "No Response",
 	"page.remove.premadeReasons.errorWhilstInviting": "Error whilst Inviting",
 	"page.remove.premadeReasons.massDM": "Mass DM",
-	"page.remove.premadeReasons.innapropriate": "Innapropriate Avatar or Name",
+	"page.remove.premadeReasons.inappropriate": "Inappropriate Avatar or Name",
 	"page.remove.premadeReasons.discord.tos": "Discord ToS Violation",
 	"page.remove.premadeReasons.del.tos": "DEL ToS Violation",
 	"page.remove.premadeReasons.shitBot": "Shit Bot",
