@@ -127,6 +127,7 @@
 	"common.yes": "Ja",
 	"common.no": "Nein",
 	"common.unavailable": "Nicht verfügbar",
+	"common.unavailable.longDesc": "Long description unavailable.",
 	"common.save": "Speichern",
 	"common.join": "Beitreten",
 	"common.use": "Benutzen",
