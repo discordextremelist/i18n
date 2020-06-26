@@ -510,7 +510,7 @@
 	"page.staff.audit.type.DOWNVOTE_BOT": "Bot herabgestimmt",
 	"page.staff.audit.type.SUBMIT_SERVER": "Server Submitted",
 	"page.staff.audit.type.EDIT_SERVER": "Server bearbeitet",
-	"page.staff.audit.type.DELETE_SERVER": "Server Deleted",
+	"page.staff.audit.type.DELETE_SERVER": "Server gelöscht",
 	"page.staff.audit.type.REMOVE_SERVER": "Server Removed",
 	"page.staff.audit.type.SUBMIT_TEMPLATE": "Template Submitted",
 	"page.staff.audit.type.EDIT_TEMPLATE": "Template Edited",
