@@ -58,7 +58,7 @@
 	"common.error.fetchFail.bots": "An error occurred while fetching bots.",
 	"common.error.fetchFail.servers": "An error occurred while fetching servers.",
 	"common.error.fetchFail.templates": "An error occurred while fetching templates.",
-	"common.error.fetchFail.search": "An error occurred whilst searching.",
+	"common.error.fetchFail.search": "An error occurred while searching.",
 	"common.error.fetchFail.search.noResults": "There were no results for your query.",
 	"common.error.bot.conflict": "This bot has already been added to the list.",
 	"common.error.bot.perms.vanity": "You do not have the required permission(s) to set/modify this bot's vanity url.",
