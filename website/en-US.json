@@ -127,6 +127,7 @@
 	"common.yes": "Yes",
 	"common.no": "No",
 	"common.unavailable": "Unavailable",
+	"common.unavailable.longDesc": "Long description unavailable.",
 	"common.save": "Save",
 	"common.join": "Join",
 	"common.use": "Use",
