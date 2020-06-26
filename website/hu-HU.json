@@ -127,6 +127,7 @@
 	"common.yes": "Igen",
 	"common.no": "Nem",
 	"common.unavailable": "Nem elérhető",
+	"common.unavailable.longDesc": "Long description unavailable.",
 	"common.save": "Mentés",
 	"common.join": "Csatlakozás",
 	"common.use": "Use",
