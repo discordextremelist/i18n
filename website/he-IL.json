@@ -127,6 +127,7 @@
 	"common.yes": "כן",
 	"common.no": "לא",
 	"common.unavailable": "אינו זמין",
+	"common.unavailable.longDesc": "Long description unavailable.",
 	"common.save": "לשמור",
 	"common.join": "להצטרף",
 	"common.use": "Use",
