@@ -127,6 +127,7 @@
 	"common.yes": "Evet",
 	"common.no": "Hayır",
 	"common.unavailable": "Kullanım dışı",
+	"common.unavailable.longDesc": "Long description unavailable.",
 	"common.save": "Kaydet",
 	"common.join": "Katıl!",
 	"common.use": "Kullan",
