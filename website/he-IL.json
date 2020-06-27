@@ -567,6 +567,7 @@
 	"page.banned.message": "You are currently banned, being banned prevents you from using any standard site functions. You were most likely banned as you broke a rule on our server.",
 	"page.banned.appeal": "Appeal by Email",
 	"docs.credit": "Credit to %s",
+	"docs.lock": "This endpoint requires authorisation!",
 	"docs.label.main": "מרכזי",
 	"docs.label.api": "API",
 	"docs.subtitle": "התיעוד הרשמי של דיסקורד רשימת אקסטרים",

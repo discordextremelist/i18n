@@ -567,6 +567,7 @@
 	"page.banned.message": "Şu anda yasaklı durumdasınız , yasaklı olmanız site içerisinde standart işlevleri kullanmanızı ve incelemenizi engelliyor. Büyük olasılık ile sunucumuzda bir kuralı ihlal ettiğiniz için yasaklandınız.",
 	"page.banned.appeal": "E-Posta Yolu ile İtiraz",
 	"docs.credit": "Credit to %s",
+	"docs.lock": "This endpoint requires authorisation!",
 	"docs.label.main": "Ana",
 	"docs.label.api": "API",
 	"docs.subtitle": "Resmi Discord Extreme List Dökümantasyonu",

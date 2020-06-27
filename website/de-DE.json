@@ -567,6 +567,7 @@
 	"page.banned.message": "Sie sind derzeit gesperrt. Wenn Sie gesperrt werden, können Sie keine Standard-Site-Funktionen verwenden. Sie wurden höchstwahrscheinlich gesperrt, weil Sie gegen eine Regel auf unserem Server verstoßen haben.",
 	"page.banned.appeal": "Entschuldigen per E-Mail",
 	"docs.credit": "Credit to %s",
+	"docs.lock": "This endpoint requires authorisation!",
 	"docs.label.main": "Main",
 	"docs.label.api": "API",
 	"docs.subtitle": "Die offizielle Dokumentation für Discord Extreme List",

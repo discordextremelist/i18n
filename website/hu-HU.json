@@ -567,6 +567,7 @@
 	"page.banned.message": "Te jelenleg kivagy tiltva, azzal hogy kivagy tiltva megakadályozz téged bármilyen felhasználásától. Téged legvalószínűbb azért lettél kitiltva mert lehet hogy megszektél egy szabályt a mi szerverünkön.",
 	"page.banned.appeal": "Fellebbezés Email-al",
 	"docs.credit": "Credit %s-nak/nek",
+	"docs.lock": "This endpoint requires authorisation!",
 	"docs.label.main": "Fő",
 	"docs.label.api": "API",
 	"docs.subtitle": "A hivatalos dokumentáció a Discord Extreme List-nek",
