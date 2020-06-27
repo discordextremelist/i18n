@@ -643,5 +643,6 @@
 	"premid.staff.staffManager.modifyStanding": "Changing %s's standing",
 	"premid.staff.staffManager.warn": "Giving %s a warning",
 	"premid.staff.staffManager.strike": "Giving %s a strike",
-	"premid.staff.announcer": "Managing site announcements"
+	"premid.staff.announcer": "Managing site announcements",
+	"premid.staff.audit": "Inspecting the audit logs"
 }
