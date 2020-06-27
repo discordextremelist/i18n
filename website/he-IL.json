@@ -539,6 +539,7 @@
 	"page.account.preferences.experiments": "ניסויים",
 	"page.account.preferences.experiments.warning": "הפעלת ניסויים עלולה לגרום לבעיות מכיוון שאתה בודק תכונות תיאורטיות או רודפות באגים. בנוסף, תרשמו לכל תכניות(s) / ואת הבדיקות בטא עתידיות.",
 	"page.account.preferences.accent": "צבע מבטא",
+	"page.account.preferences.theme": "Site Theme",
 	"page.account.preferences.customCSS": "CSS גלובל מותאם אישית",
 	"page.account.preferences.customCSS.danger": "סכנה וויל רובינסון, סכנה!",
 	"page.account.preferences.customCSS.note": "אם אינך יכול לגשת לדף זה וצריך לאפס את ה- css הגלובלי שלך, השתמש בפקודה del, cssreset בשרת Discord שלנו.",

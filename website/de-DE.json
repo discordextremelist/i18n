@@ -539,6 +539,7 @@
 	"page.account.preferences.experiments": "Exprimente",
 	"page.account.preferences.experiments.warning": "Das Aktivieren der Experimente könnte Fehler auslösen, da du Funktionen austestest welche theoretisch oder voller Bugs sind, außerdem nimmst du dann automatisch an jedes zukünftige Betaprogramm teil.",
 	"page.account.preferences.accent": "Akzentfarbe",
+	"page.account.preferences.theme": "Site Theme",
 	"page.account.preferences.customCSS": "Benutzerdefiniertes Globales CSS",
 	"page.account.preferences.customCSS.danger": "Vorsicht!",
 	"page.account.preferences.customCSS.note": "Falls Sie diese Seite nicht aufrufen können bzw. Ihre Global Css zurücksetzen müssen, verwenden sie den del,cssreset Befehl in unserem Discord Server.",

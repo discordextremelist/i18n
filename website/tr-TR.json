@@ -539,6 +539,7 @@
 	"page.account.preferences.experiments": "Deneyimler",
 	"page.account.preferences.experiments.warning": "Deneme sürümünü etkinleştirmek, teorik hatalara neden olabilir. Bu özellikleri test ettiğiniz için sorunlara neden olabilir. Ayrıca gelecekteki herhangi bir Beta Test programına/programlarına kaydolmuş olursunuz.",
 	"page.account.preferences.accent": "Vurgu Rengi",
+	"page.account.preferences.theme": "Site Theme",
 	"page.account.preferences.customCSS": "Özel Global CSS",
 	"page.account.preferences.customCSS.danger": "\nTehlike Will Robinson, Tehlike!",
 	"page.account.preferences.customCSS.note": "Bu sayfaya erişemiyorsanız ve genel CSS'nizi sıfırlamanız gerekiyorsa, Discord sunucumuzda , cssreset komutunu kullanın.",

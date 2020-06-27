@@ -539,6 +539,7 @@
 	"page.account.preferences.experiments": "Kísérletek",
 	"page.account.preferences.experiments.warning": "A kísérletek engedélyezésével problémákat okozhat, mivel hibaelhárítású funkciókat tesztelhet, és a jövőbeni bármelyik béta tesztelési programba is jelentkezhet.",
 	"page.account.preferences.accent": "Ékezetes szín",
+	"page.account.preferences.theme": "Site Theme",
 	"page.account.preferences.customCSS": "Saját Globális CSS",
 	"page.account.preferences.customCSS.danger": "Veszély Will Robinson, Veszély!",
 	"page.account.preferences.customCSS.note": "Ha nem tudsz hozzáférni ehhez a oldalhoz és neked kéne hogy visszaállítsd a globális cssed használd a del,cssreset parancsot a discord szerverünkön.",
