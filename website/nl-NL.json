@@ -72,6 +72,8 @@
 	"common.error.bot.perms.notOwner": "U kunt deze actie niet uitvoeren omdat u niet de eigenaar van de bot bent.",
 	"common.error.bot.vanity.tooLong": "De vanity url van de bot mag niet korter of langer zijn dan één woord.",
 	"common.error.bot.vanity.blacklisted": "Je hebt een vanity gekozen die op de zwarte lijst staat. Denk aan een andere vanity url.",
+	"common.error.bot.vanity.conflict": "This vanity url is already claimed, sorry.",
+	"common.error.bot.vanity.same": "That is the same vanity url as your current vanity url.",
 	"common.error.bot.arr.idTooLong": "De bot-Id mag niet langer zijn dan 32 tekens.",
 	"common.error.bot.arr.notFound": "Er is geen bot met deze id.",
 	"common.error.bot.arr.isUser": "U kunt geen gebruikers toevoegen aan de botlijst.",

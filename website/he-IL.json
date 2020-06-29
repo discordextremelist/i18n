@@ -72,6 +72,8 @@
 	"common.error.bot.perms.notOwner": "אינך יכול לבצע פעולה זו מכיוון שאתה לא הבעלים של הבוט.",
 	"common.error.bot.vanity.tooLong": "כתובת הבוט Vanity לא יוכל להיות קצרה או ארוכה ממילה אחת.",
 	"common.error.bot.vanity.blacklisted": "סיפקת blacklisted vanity, אנא חשוב על כתובת אתר של עוד vanity url.",
+	"common.error.bot.vanity.conflict": "This vanity url is already claimed, sorry.",
+	"common.error.bot.vanity.same": "That is the same vanity url as your current vanity url.",
 	"common.error.bot.arr.idTooLong": "מספר מזהה של הבוט לא יוכל להיות יותר מ-32 מספרים.",
 	"common.error.bot.arr.notFound": "אין בוט קיים עם המספר מזהה הזה.",
 	"common.error.bot.arr.isUser": "אתה לא יכול להוסף עוד משתמשים לרשימת הבוטים.",
