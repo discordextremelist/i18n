@@ -40,6 +40,7 @@
 	"common.owner": "Ägare",
 	"common.listingOwner": "Listnings Ägare",
 	"common.editor": "Ändrare",
+	"common.editors": "Editors",
 	"common.warning": "Varning!",
 	"common.jsDisabled": "VARNING! Du har för tillfället JavaScript inaktiverad, våran hemsida kommer inte att fungera korrekt utan att JavaScript är påslagen.",
 	"common.page": "Sida",

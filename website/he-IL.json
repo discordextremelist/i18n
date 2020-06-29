@@ -40,6 +40,7 @@
 	"common.owner": "בעלים",
 	"common.listingOwner": "בעל רישום",
 	"common.editor": "עורך",
+	"common.editors": "Editors",
 	"common.warning": "אזהרה!",
 	"common.jsDisabled": "אזהרה! הJavascript שיש לך כרגע מושבת האתר שלנו לא יתפקד כראוי כאשר הJavaScript מושבת.",
 	"common.page": "עמוד",
