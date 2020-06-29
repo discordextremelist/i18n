@@ -40,6 +40,7 @@
 	"common.owner": "Tulajdonos",
 	"common.listingOwner": "Listázó Tulajdonos",
 	"common.editor": "Szerkesztő",
+	"common.editors": "Editors",
 	"common.warning": "Figyelem!",
 	"common.jsDisabled": "FIGYELEM! Neked jelenleg kivan kapcsolva a JavaScript ami azt jelenti hogy a mi weboldalunk nem fog mükődni ha kivan kapcsolva a JavaScript.",
 	"common.page": "Oldal",
