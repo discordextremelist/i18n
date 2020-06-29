@@ -310,7 +310,7 @@
 	"page.bots.copyToken": "Tokeni Kopyala",
 	"page.bots.verificationApplication": "Doğrulama için Başvur",
 	"page.bots.setVanity": "Özel URL'yi ayarla",
-	"page.bots.setVanity.warning": "Özel URL ayarlandıktan sonra bir daha değiştirilmez , dikkatli seçin!",
+	"page.bots.setVanity.warning": "You can change your Vanity URL once set however you cannot set your Vanity URL back to nothing.",
 	"page.bots.setVanity.placeholder": "Örneğin kullanabileceğiniz bir gösteriş %s",
 	"page.bots.invite.main": "Ana Sunucu Daveti",
 	"page.bots.invite.staff": "Personel Sunucu Daveti",
