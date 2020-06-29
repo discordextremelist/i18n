@@ -310,7 +310,7 @@
 	"page.bots.copyToken": "Copy Token",
 	"page.bots.verificationApplication": "Apply for Verification",
 	"page.bots.setVanity": "Set Vanity URL",
-	"page.bots.setVanity.warning": "Your Vanity URL cannot be changed once set, choose carefully!",
+	"page.bots.setVanity.warning": "You can change your Vanity URL once set however you cannot set your Vanity URL back to nothing.",
 	"page.bots.setVanity.placeholder": "For example a vanity you could use is %s",
 	"page.bots.invite.main": "Main Server Invite",
 	"page.bots.invite.staff": "Staff Server Invite",

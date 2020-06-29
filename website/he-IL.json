@@ -310,7 +310,7 @@
 	"page.bots.copyToken": "העתק אסימון",
 	"page.bots.verificationApplication": "הגש בקשה לאימות",
 	"page.bots.setVanity": "הגדר כתובת URL של Vanity",
-	"page.bots.setVanity.warning": "לא ניתן לשנות את כתובת ה- Vanity שלך לאחר ההגדרה, בחר בזהירות!",
+	"page.bots.setVanity.warning": "You can change your Vanity URL once set however you cannot set your Vanity URL back to nothing.",
 	"page.bots.setVanity.placeholder": "לדוגמה, Vanity שאתה יכול להשתמש בה היא %s",
 	"page.bots.invite.main": "הזמנה של השרת הראשי",
 	"page.bots.invite.staff": "הזמנה של השרת הצוות",
