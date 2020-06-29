@@ -310,7 +310,7 @@
 	"page.bots.copyToken": "Token másolása",
 	"page.bots.verificationApplication": "Jelentkezz a igazoltatásra",
 	"page.bots.setVanity": "Vanity URL beállítása",
-	"page.bots.setVanity.warning": "A te Vanity URL-t nem lehet változtatni ha már bevan állítva egyszer, válasz gondosan!",
+	"page.bots.setVanity.warning": "You can change your Vanity URL once set however you cannot set your Vanity URL back to nothing.",
 	"page.bots.setVanity.placeholder": "Például egy vanity amelyet te is használhatsz %s",
 	"page.bots.invite.main": "Fő szerver meghívó",
 	"page.bots.invite.staff": "Staff Szerver meghívó",
