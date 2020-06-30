@@ -82,6 +82,7 @@
 	"common.error.listing.arr.invite.tooLong": "A meghívó link/kód amit te beírál az túl hosszú.",
 	"common.error.listing.arr.invite.invalid": "Te egy érvénytelen meghívást adtál meg.",
 	"common.error.listing.arr.invite.isURL": "A meghívási kód nem lehet egy URL.",
+	"common.error.listing.arr.invite.discordapp": "You provided a discordapp.com link, please change it to discord.com",
 	"common.error.listing.arr.invalidURL": "Te egy érvénytelen URL-t adott meg az egyik linkjei közül, kérlek ellenőrzid a linkek szakaszt. Egy érvényes URL https://-el kell hogy kezdőjön",
 	"common.error.listing.arr.invalidURLs": "Te több érvénytelen URL-t adtál meg a linkjei közül, kérlek ellenőrzid a linkek szakaszt. Egy érvényes URL https://-el kell hogy kezdőjön",
 	"common.error.listing.arr.longDescRequired": "A hosszú leírás kötelező.",

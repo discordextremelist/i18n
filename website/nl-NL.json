@@ -82,6 +82,7 @@
 	"common.error.listing.arr.invite.tooLong": "De door u opgegeven uitnodigingslink / code is te lang.",
 	"common.error.listing.arr.invite.invalid": "Je hebt een ongeldige uitnodiging opgegeven.",
 	"common.error.listing.arr.invite.isURL": "De uitnodigingscode mag geen URL zijn.",
+	"common.error.listing.arr.invite.discordapp": "You provided a discordapp.com link, please change it to discord.com",
 	"common.error.listing.arr.invalidURL": "Je hebt een ongeldige URL opgegeven in een van je links. Controleer het gedeelte met links. Een geldige URL moet beginnen met https://",
 	"common.error.listing.arr.invalidURLs": "U heeft meerdere ongeldige URL's in uw links opgegeven. Controleer het gedeelte met links. Een geldige URL moet beginnen met https://",
 	"common.error.listing.arr.longDescRequired": "Een lange beschrijving is vereist.",
