@@ -18,7 +18,7 @@ jobs:
       - name: pull updated strings
         uses: garygrossgarten/github-action-ssh@release
         with:
-          command: cd del-v5 && npm upgrade
+          command: cd del-v5 && npm up && cd del-v5-staging && npm up
           host: ${{ secrets.HOST }}
           username: cairo
           privateKey: ${{ secrets.PRIVATE_KEY}}
