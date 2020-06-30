@@ -131,6 +131,7 @@
 	"common.resubmit": "Resubmit",
 	"common.edit": "Edit",
 	"common.invite": "Add",
+	"common.invite.full": "Add to Server",
 	"common.disable": "Disable",
 	"common.yes": "Yes",
 	"common.no": "No",
