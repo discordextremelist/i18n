@@ -82,6 +82,7 @@
 	"common.error.listing.arr.invite.tooLong": "El enlace/código de invitación que has proporcionado es muy largo.",
 	"common.error.listing.arr.invite.invalid": "La invitación es inválida.",
 	"common.error.listing.arr.invite.isURL": "El código de invitación puede ser una URL.",
+	"common.error.listing.arr.invite.discordapp": "You provided a discordapp.com link, please change it to discord.com",
 	"common.error.listing.arr.invalidURL": "You provided an invalid URL in one of your links, please check the links section. A valid URL must start with https://",
 	"common.error.listing.arr.invalidURLs": "You provided multiple invalid URLs in your links, please check the links section. A valid URL must start with https://",
 	"common.error.listing.arr.longDescRequired": "La descripción larga es obligatoria.",
