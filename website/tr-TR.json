@@ -307,6 +307,7 @@
 	"page.bots.git": "Bot Kaynak Kodu",
 	"page.bots.git.view": "Kaynak Kodu",
 	"page.bots.theme.useCustomColor": "Özel Vurgu Rengi Kullan",
+	"page.bots.theme.useCustomColor.details": "This will let you set a custom accent colour for your bot's page.",
 	"page.bots.theme.color": "Özel Vurgu Rengi",
 	"page.bots.theme.color.details": "Kullanıcının Global Vurgu rengini geçersiz kılar.",
 	"page.bots.theme.bannerURL": "Şerit URL'si",
