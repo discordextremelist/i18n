@@ -131,6 +131,7 @@
 	"common.resubmit": "Újraküldés",
 	"common.edit": "Szerkeztés",
 	"common.invite": "Hozzáadás",
+	"common.invite.full": "Add to Server",
 	"common.disable": "Kikapcsolás",
 	"common.yes": "Igen",
 	"common.no": "Nem",
