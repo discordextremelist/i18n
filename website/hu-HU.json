@@ -307,6 +307,7 @@
 	"page.bots.git": "Bot Forráskód",
 	"page.bots.git.view": "Forráskód",
 	"page.bots.theme.useCustomColor": "Use Custom Accent Colour",
+	"page.bots.theme.useCustomColor.details": "This will let you set a custom accent colour for your bot's page.",
 	"page.bots.theme.color": "Custom Accent Colour",
 	"page.bots.theme.color.details": "Overrides the user's global accent colour",
 	"page.bots.theme.bannerURL": "Banner URL",
