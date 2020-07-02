@@ -307,6 +307,8 @@
 	"page.bots.supportServer.view": "Support Server",
 	"page.bots.git": "Bot Source Code",
 	"page.bots.git.view": "Source Code",
+	"page.bots.privacyPolicy": "Bot Privacy Policy",
+	"page.bots.privacyPolicy.optional": "This is currently optional but will be required starting August 15 due to Discord's Developer ToS",
 	"page.bots.theme.useCustomColor": "Use Custom Accent Color",
 	"page.bots.theme.useCustomColor.details": "This will let you set a custom accent color for your bot's page.",
 	"page.bots.theme.color": "Custom Accent Color",
