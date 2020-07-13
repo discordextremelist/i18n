@@ -497,7 +497,7 @@
 	"page.staff.manager.warn.subtitle": "Advertencia %s",
 	"page.staff.manager.warn.reason": "Motivo",
 	"page.staff.manager.warn.reason.placeholder": "Broke procedure and approved bots that should've been declined",
-	"page.staff.manager.strike": "Strike",
+	"page.staff.manager.strike": "Infracción",
 	"page.staff.manager.strike.subtitle": "Striking %s",
 	"page.staff.manager.strike.reason": "Motivo",
 	"page.staff.manager.strike.reason.placeholder": "Acted very rude towards members",
