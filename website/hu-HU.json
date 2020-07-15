@@ -87,6 +87,8 @@
 	"common.error.listing.arr.invite.discordapp": "Te egy discordapp.com linket írtál be, kérlek változtasd meg a discord.com linkre",
 	"common.error.listing.arr.invalidURL": "Te egy érvénytelen URL-t adott meg az egyik linkjei közül, kérlek ellenőrzid a linkek szakaszt. Egy érvényes URL https://-el kell hogy kezdőjön",
 	"common.error.listing.arr.invalidURLs": "Te több érvénytelen URL-t adtál meg a linkjei közül, kérlek ellenőrzid a linkek szakaszt. Egy érvényes URL https://-el kell hogy kezdőjön",
+	"common.error.listing.arr.IDRequired": "The ID is required.",
+	"common.error.listing.arr.shortDescRequired": "A short description is required.",
 	"common.error.listing.arr.longDescRequired": "A hosszú leírás kötelező.",
 	"common.error.listing.arr.prefixRequired": "Egy érvényes bot prefix szükséges.",
 	"common.error.listing.arr.notAtMinChars": "Your bot's long description must have at least %s characters.",
