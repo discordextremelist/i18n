@@ -69,7 +69,7 @@
 	"common.error.bot.conflict": "Dieser Bot wurde bereits zur Liste hinzugefügt.",
 	"common.error.bot.perms.vanity": "Du hasst keine Berechtigung(en) um die Vanity url dieses Bots zu setzen/ändern.",
 	"common.error.bot.perms.edit": "Du hast keine Berechtigungen den Bot zu editieren.",
-	"common.error.bot.perms.resubmit": "Du hast keine Berechtigungen den Bot neu zu submitten.",
+	"common.error.bot.perms.resubmit": "Du hast keine Berechtigung(en) den Bot neu einzureichen.",
 	"common.error.bot.perms.modifyVanity": "Sie haben nicht die erforderlichen Berechtigungen, um die Vanity-URL Ihres Bots zu ändern. Wenden Sie sich an einen Assistenten oder höher, wenn Sie Ihre Vanity-URL ändern möchten.",
 	"common.error.bot.perms.notOwner": "Du kannst dies nicht tun da du nicht der Owner des Botes bist.",
 	"common.error.bot.perms.tokenReset": "Du hast keine Berechtigung(en) um diese Bot DELAPI token zu erneuern.",
