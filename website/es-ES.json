@@ -90,6 +90,7 @@
 	"common.error.listing.arr.longDescRequired": "La descripción larga es obligatoria.",
 	"common.error.listing.arr.prefixRequired": "Un prefijo válido para el bot es requerido.",
 	"common.error.listing.arr.notAtMinChars": "Your bot's long description must have at least %s characters.",
+	"common.error.listing.arr.inviteHasAdmin": "The bot invite you provided grants your bot Administrator permissions, please select only the permissions your bot needs.",
 	"common.error.server.conflict": "Este servidor ya ha sido añadido a la lista.",
 	"common.error.server.arr.invite.dgg": "El código de invitación no puede contener discord.gg",
 	"common.error.server.arr.invite.sameServer": "El código de invitación debe del mismo servidor del que se está enviando en el formulario!",

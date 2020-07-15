@@ -90,6 +90,7 @@
 	"common.error.listing.arr.longDescRequired": "נדרש תיאור ארוך.",
 	"common.error.listing.arr.prefixRequired": "נדרש קידומת בוט עובדת.",
 	"common.error.listing.arr.notAtMinChars": "Your bot's long description must have at least %s characters.",
+	"common.error.listing.arr.inviteHasAdmin": "The bot invite you provided grants your bot Administrator permissions, please select only the permissions your bot needs.",
 	"common.error.server.conflict": "השרת הזה נוסף כבר לרשימה.",
 	"common.error.server.arr.invite.dgg": "קוד ההזמנה אינו יכול להכיל discord.gg",
 	"common.error.server.arr.invite.sameServer": "קוד ההזמנה חייב להיות מאותו השרת מזה ששימש במהלך ההגשה!",

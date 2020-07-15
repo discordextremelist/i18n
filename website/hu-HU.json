@@ -90,6 +90,7 @@
 	"common.error.listing.arr.longDescRequired": "A hosszú leírás kötelező.",
 	"common.error.listing.arr.prefixRequired": "Egy érvényes bot prefix szükséges.",
 	"common.error.listing.arr.notAtMinChars": "Your bot's long description must have at least %s characters.",
+	"common.error.listing.arr.inviteHasAdmin": "The bot invite you provided grants your bot Administrator permissions, please select only the permissions your bot needs.",
 	"common.error.server.conflict": "Ez a szerver már szerepel a listán.",
 	"common.error.server.arr.invite.dgg": "A meghívási kódban nem szerepelhet a discord.gg",
 	"common.error.server.arr.invite.sameServer": "Ez a meghívási kód már használva van egy másik szerveren az egyik van használva!",

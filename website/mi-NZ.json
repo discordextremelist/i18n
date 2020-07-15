@@ -90,6 +90,7 @@
 	"common.error.listing.arr.longDescRequired": "A long description is required.",
 	"common.error.listing.arr.prefixRequired": "A valid bot prefix is required.",
 	"common.error.listing.arr.notAtMinChars": "Your bot's long description must have at least %s characters.",
+	"common.error.listing.arr.inviteHasAdmin": "The bot invite you provided grants your bot Administrator permissions, please select only the permissions your bot needs.",
 	"common.error.server.conflict": "This server has already been added to the list.",
 	"common.error.server.arr.invite.dgg": "The invite code cannot contain discord.gg",
 	"common.error.server.arr.invite.sameServer": "The invite code used must be from the same server as the one used during submission!",

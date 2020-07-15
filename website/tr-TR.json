@@ -90,6 +90,7 @@
 	"common.error.listing.arr.longDescRequired": "Uzun bir açıklama yazmanız gerekiyor.",
 	"common.error.listing.arr.prefixRequired": "Geçerli ve hali hazırda kullanıma açık bir bot öneki gerekli.",
 	"common.error.listing.arr.notAtMinChars": "Your bot's long description must have at least %s characters.",
+	"common.error.listing.arr.inviteHasAdmin": "The bot invite you provided grants your bot Administrator permissions, please select only the permissions your bot needs.",
 	"common.error.server.conflict": "Ah lanet! Bu sunucu zaten listeye eklenmiş!?",
 	"common.error.server.arr.invite.dgg": "Davet bağlantısı/kodu discord.gg içermemeli.",
 	"common.error.server.arr.invite.sameServer": "Kullanılan davet bağlantısı/kodu , gönderim sırasında kullanılan sunucu ile aynı olmalıdır!",
