@@ -409,7 +409,7 @@
 	"page.guidelines.user.other.0": "Du bist nicht berechtigt eine Bestrafung auf deinem Account zu umgehen, falls doch wirst mit einer gleichen oder sogar härteren Strafe bestraft.",
 	"page.guidelines.user.other.1": "Es ist dir nicht gestattet, böswillige Fehler oder Probleme an Dritte weiterzugeben, es sei denn, diese stehen der Öffentlichkeit bereits als veröffentlichter GitHub-Sicherheitshinweis zur Verfügung.",
 	"page.guidelines.user.other.1.1": "Falls du einen Fehler oder ein Problem gefunden hast, kontaktiere uns über die oben angegebene E-Mail Adresse.",
-	"page.guidelines.bot": "Botrichtlinien",
+	"page.guidelines.bot": "Bot Richtlinien",
 	"page.guidelines.bot.listing.0": "Dein Bot darf keinen unangebrachten Avatar besitzen.",
 	"page.guidelines.bot.listing.1": "Dein Bot darf keinen unangebrachten Nutzernamen besitzen.",
 	"page.guidelines.bot.listing.2": "Die Kurz- und Langbeschreibung Ihres Bot's muss passend sein.",
