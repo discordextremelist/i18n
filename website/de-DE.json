@@ -87,6 +87,8 @@
 	"common.error.listing.arr.invite.discordapp": "Sie haben einen discordapp.com Link angegeben. Bitte ändern Sie ihn zu discord.com",
 	"common.error.listing.arr.invalidURL": "Sie haben in einem Ihrer Links eine ungültige URL angegeben. Überprüfen Sie den Abschnitt mit den Links. Eine gültige URL muss mit https:// beginnen",
 	"common.error.listing.arr.invalidURLs": "Sie haben in Ihren Links mehrere ungültige URLs angegeben. Überprüfen Sie den Abschnitt \"Links\". Eine gültige URL muss mit https:// beginnen",
+	"common.error.listing.arr.IDRequired": "The ID is required.",
+	"common.error.listing.arr.shortDescRequired": "A short description is required.",
 	"common.error.listing.arr.longDescRequired": "Eine lange Beschreibung ist erforderlich.",
 	"common.error.listing.arr.prefixRequired": "Ein gültiges Bot-Prefix ist erforderlich.",
 	"common.error.listing.arr.notAtMinChars": "Deine lange Bot Beschreibung muss mindestens aus %s Zeichen bestehen.",

@@ -87,6 +87,8 @@
 	"common.error.listing.arr.invite.discordapp": "You provided a discordapp.com link, please change it to discord.com",
 	"common.error.listing.arr.invalidURL": "Je hebt een ongeldige URL opgegeven in een van je links. Controleer het gedeelte met links. Een geldige URL moet beginnen met https://",
 	"common.error.listing.arr.invalidURLs": "U heeft meerdere ongeldige URL's in uw links opgegeven. Controleer het gedeelte met links. Een geldige URL moet beginnen met https://",
+	"common.error.listing.arr.IDRequired": "The ID is required.",
+	"common.error.listing.arr.shortDescRequired": "A short description is required.",
 	"common.error.listing.arr.longDescRequired": "Een lange beschrijving is vereist.",
 	"common.error.listing.arr.prefixRequired": "Een geldig prefix is vereist.",
 	"common.error.listing.arr.notAtMinChars": "Your bot's long description must have at least %s characters.",
