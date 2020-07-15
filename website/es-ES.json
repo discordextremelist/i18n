@@ -136,6 +136,7 @@
 	"common.rank.unapproved": "Bot no aprobado",
 	"common.resubmit": "Reenviar",
 	"common.edit": "Editar",
+	"common.sync": "Sync",
 	"common.invite": "Añadir",
 	"common.invite.full": "Añadir al servidor",
 	"common.disable": "Deshabilitar",
