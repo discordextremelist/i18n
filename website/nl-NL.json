@@ -90,6 +90,7 @@
 	"common.error.listing.arr.longDescRequired": "Een lange beschrijving is vereist.",
 	"common.error.listing.arr.prefixRequired": "Een geldig prefix is vereist.",
 	"common.error.listing.arr.notAtMinChars": "Your bot's long description must have at least %s characters.",
+	"common.error.listing.arr.inviteHasAdmin": "The bot invite you provided grants your bot Administrator permissions, please select only the permissions your bot needs.",
 	"common.error.server.conflict": "Deze server is al aan de lijst toegevoegd.",
 	"common.error.server.arr.invite.dgg": "De uitnodigingscode mag geen discord.gg bevatten",
 	"common.error.server.arr.invite.sameServer": "De gebruikte uitnodigingscode moet van dezelfde server zijn als die gebruikt tijdens het indienen!",
