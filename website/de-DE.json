@@ -74,7 +74,7 @@
 	"common.error.bot.perms.notOwner": "Du kannst dies nicht tun da du nicht der Owner des Botes bist.",
 	"common.error.bot.perms.tokenReset": "Du hast keine Berechtigung(en) um diese Bot DELAPI token zu erneuern.",
 	"common.error.bot.vanity.tooLong": "Die Vanity URL des Botes kann nicht länger oder kürzer als ein Wort sein.",
-	"common.error.bot.vanity.blacklisted": "Sie haben eine verbotene Vanity URL angegeben bitte nutzen sie eine andere.",
+	"common.error.bot.vanity.blacklisted": "Du hast eine geblacklistete Vanity URL angegeben. Bitte nutze eine andere.",
 	"common.error.bot.vanity.conflict": "Diese Vanity URL wurde bereits beansprucht.",
 	"common.error.bot.vanity.same": "Dies ist die gleiche Vanity URL, die du bereits hast.",
 	"common.error.bot.arr.idTooLong": "Die Id des Bots darf nicht länger als 32 Zeichen sein.",
