@@ -15,13 +15,3 @@ jobs:
           MERGE_METHOD: "squash"
           MERGE_COMMIT_MESSAGE: Update translations (#{pullRequest.number})
           MERGE_FORKS: "false"
-      - name: pull updated strings
-        uses: garygrossgarten/github-action-ssh@release
-        with:
-          command: cd del-v5 && npm up && cd ~/del-v5-staging && npm up
-          host: ${{ secrets.HOST }}
-          username: cairo
-          privateKey: ${{ secrets.PRIVATE_KEY}}
-          passphrase: ${{ secrets.PASSPHRASE }}
-        env:
-          CI: true
