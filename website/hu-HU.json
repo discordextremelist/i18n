@@ -318,7 +318,7 @@
 	"page.bots.git": "Bot Forráskód",
 	"page.bots.git.view": "Forráskód",
 	"page.bots.privacyPolicy": "Bot Adatvédelmi Szabályzata",
-	"page.bots.privacyPolicy.optional": "Ez jelenleg nem kötelező de majd kötelező lesz Augusztus 15-étől a Discord-nak a Fejlesztői Szolgáltatás feltételei miatt.",
+	"page.bots.privacyPolicy.optional": "This is currently optional but will be required starting %s August due to Discord's Developer ToS",
 	"page.bots.theme.useCustomColor": "Használja a Saját Színt",
 	"page.bots.theme.useCustomColor.details": "Ez majd befogja állítani a saját színt a te botod oldalára.",
 	"page.bots.theme.color": "Saját Szín",

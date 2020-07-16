@@ -318,7 +318,7 @@
 	"page.bots.git": "Bot broncode",
 	"page.bots.git.view": "Broncode",
 	"page.bots.privacyPolicy": "Bot Privacy Policy",
-	"page.bots.privacyPolicy.optional": "This is currently optional but will be required starting August 15 due to Discord's Developer ToS",
+	"page.bots.privacyPolicy.optional": "This is currently optional but will be required starting %s August due to Discord's Developer ToS",
 	"page.bots.theme.useCustomColor": "Use Custom Accent Colour",
 	"page.bots.theme.useCustomColor.details": "This will let you set a custom accent colour for your bot's page.",
 	"page.bots.theme.color": "Custom Accent Colour",
