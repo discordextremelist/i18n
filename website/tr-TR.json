@@ -318,7 +318,7 @@
 	"page.bots.git": "Bot Kaynak Kodu",
 	"page.bots.git.view": "Kaynak Kodu",
 	"page.bots.privacyPolicy": "Bot Gizlilik Politikası",
-	"page.bots.privacyPolicy.optional": "Bu şu anda isteğe bağlıdır ancak Discord'un Geliştirici Hizmet Şartları nedeniyle 15 Ağustos'tan itibaren gerekli olacaktır.",
+	"page.bots.privacyPolicy.optional": "This is currently optional but will be required starting %s August due to Discord's Developer ToS",
 	"page.bots.theme.useCustomColor": "Özel Vurgu Rengi Kullan",
 	"page.bots.theme.useCustomColor.details": "Bu, botunuzun sayfası için özel bir vurgu rengi ayarlamanıza olanak tanır.",
 	"page.bots.theme.color": "Özel Vurgu Rengi",
