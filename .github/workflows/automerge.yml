@@ -1,10 +1,10 @@
-name: PR workflow
+name: automerge
 on:
   pull_request:
     types:
       - opened
 jobs:
-  autoupdate:
+  automerge:
     runs-on: ubuntu-latest
     steps:
       - name: automerge pr
