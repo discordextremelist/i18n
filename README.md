@@ -2,7 +2,7 @@
 Contains the language files for [Discord Extreme List](https://discordextremelist.xyz).
 
 ## How to join the program
-If you would like to participate in this program please contact `Cairo#1123` or `advaith#9121` via [our official Discord Server](https://discord.gg/WeCer3J).
+See [help.md](https://github.com/discordextremelist/i18n/blob/master/help.md).
 
 ## Where can I make translation changes?
 You can make changes on [our Crowdin Project](https://translate.discordextremelist.xyz)!
