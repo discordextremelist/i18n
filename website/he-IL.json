@@ -319,7 +319,7 @@
 	"page.bots.generalInfo.clientID.details": "The Client ID in the Developer Portal. Leave this blank if it's the same as the bot's user ID (it will only be different for very old bots).",
 	"page.bots.generalInfo.editors": "עורכי בוט",
 	"page.bots.generalInfo.editors.placeholder": "אנשים מדהים מזהים אנשים מגניבים מזהים חברים הכי טובים מזהים",
-	"page.bots.generalInfo.editors.notice": "אתה לא צריך להוסיף את מזהה שלך.",
+	"page.bots.generalInfo.editors.notice": "Do not include your own ID.",
 	"page.bots.generalInfo.prefix": "קידומת בוט",
 	"page.bots.generalInfo.prefix.view": "קידומת",
 	"page.bots.generalInfo.library": "ספריית בוט",
