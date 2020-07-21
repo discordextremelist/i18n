@@ -317,6 +317,7 @@
 	"page.bots.generalInfo.id.details": "De bot's gebruikers ID in Discord",
 	"page.bots.generalInfo.clientID": "Cliënt ID",
 	"page.bots.generalInfo.clientID.details": "The Client ID in the Developer Portal. Leave this blank if it's the same as the bot's user ID (it will only be different for very old bots).",
+	"page.bots.generalInfo.clientID.detailsEdit": "The Client ID in the Developer Portal.",
 	"page.bots.generalInfo.editors": "Bot Editors",
 	"page.bots.generalInfo.editors.placeholder": "geweldigepersonsid coolepersonsid bestevriendsid",
 	"page.bots.generalInfo.editors.notice": "Do not include your own ID.",
