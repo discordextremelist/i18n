@@ -319,7 +319,7 @@
 	"page.bots.generalInfo.clientID.details": "The Client ID in the Developer Portal. Leave this blank if it's the same as the bot's user ID (it will only be different for very old bots).",
 	"page.bots.generalInfo.editors": "Bot Editors",
 	"page.bots.generalInfo.editors.placeholder": "geweldigepersonsid coolepersonsid bestevriendsid",
-	"page.bots.generalInfo.editors.notice": "U hoeft uw eigen ID niet op te geven.",
+	"page.bots.generalInfo.editors.notice": "Do not include your own ID.",
 	"page.bots.generalInfo.prefix": "Bot Prefix",
 	"page.bots.generalInfo.prefix.view": "Prefix",
 	"page.bots.generalInfo.library": "Bot Library",
