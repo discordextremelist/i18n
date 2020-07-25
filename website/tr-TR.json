@@ -366,7 +366,7 @@
 	"page.bots.setVanity.placeholder": "Örneğin kullanabileceğiniz bir gösteriş %s",
 	"page.bots.copyClientID": "Client ID'yi Kopyala",
 	"page.bots.invite.main": "Ana Sunucu Daveti",
-	"page.bots.invite.staff": "Personel Sunucu Daveti",
+	"page.bots.invite.staff": "Testing Server Invite",
 	"page.bots.shards": "Shardlar",
 	"page.bots.warning.delete": "Sil'e tıkladığınızda bu eylemi geri döndüremezsiniz. Geri yükleme işleminiz olmadan botunuzun veya sunucunuzun verileri veritabanımızdan hemen silinecektir.",
 	"page.bots.edit.title": "Botu Düzenle",
