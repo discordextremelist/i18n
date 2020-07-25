@@ -366,7 +366,7 @@
 	"page.bots.setVanity.placeholder": "Por ejemplo la URL de vanidad que podría usar es %s",
 	"page.bots.copyClientID": "Copiar Client ID",
 	"page.bots.invite.main": "Invitación del servidor principal",
-	"page.bots.invite.staff": "Invitación del servidor del personal",
+	"page.bots.invite.staff": "Testing Server Invite",
 	"page.bots.shards": "Shards",
 	"page.bots.warning.delete": "Esta acción es irreversible, una vez hagas click en borrar los datos de tu bot, serán eliminados inmediatamente de nuestra base de datos sin ninguna manera de recuperarlos.",
 	"page.bots.edit.title": "Editar bot",
