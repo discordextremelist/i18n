@@ -366,7 +366,7 @@
 	"page.bots.setVanity.placeholder": "Például egy vanity amelyet te is használhatsz %s",
 	"page.bots.copyClientID": "Kliens ID kimásolása",
 	"page.bots.invite.main": "Fő szerver meghívó",
-	"page.bots.invite.staff": "Staff Szerver meghívó",
+	"page.bots.invite.staff": "Testing Server Invite",
 	"page.bots.shards": "Shards",
 	"page.bots.warning.delete": "Ez az a művelet visszafordíthatatlan, mikor megnyomod a \"Töröl\"-t a te bot adatod örökre elfog tünni a mi adatbázisunkból és nincs egy út se vissza állítani.",
 	"page.bots.edit.title": "Bot szerkeztése",
