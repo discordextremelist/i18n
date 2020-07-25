@@ -264,7 +264,7 @@
 	"common.footer.copyright": "&copy; Copyright 2019-{{currentYear}} {{names}} AGPL-3.0 Licença de Código Aberto.",
 	"common.footer.copyright.title.0": "Clique neste botão para mostrar mais informações da licença.",
 	"common.footer.copyright.title.1": "Clique nesta ligação para ver a licença AGPL-3.0.",
-	"common.footer.trademark": "\"Discord Extreme List\", \"discordextremelist.xyz\" (case-insensitive) are trademarks of Cairo Mitchell-Acason, the usage of these trademarks is prohibited without prior written approval.",
+	"common.footer.trademark": "\"Discord Extreme List\", \"discordextremelist.xyz\" (insensível a maiú./minú.) são marcas comerciais do Cairo Mitchell-Acason, o uso de estas marcas comerciais é proibida sem autorização prévia por escrito.",
 	"common.footer.discordDisclaimer": "Discord Extreme List is not affiliated with Discord, Inc. In any way, shape or form.",
 	"common.social": "Social",
 	"common.social.facebook": "Facebook",
