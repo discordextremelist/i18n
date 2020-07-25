@@ -84,7 +84,7 @@
 	"common.error.bot.perms.resubmit": "Não possui as permissões necessárias para ressubmeter este bot.",
 	"common.error.bot.perms.modifyVanity": "Não possui as permissões necessárias para modificar o seu vanity url do bot, contacte um Assistente ou superior se deseja alterar o seu vanity url.",
 	"common.error.bot.perms.notOwner": "Não pode executar esta ação porque não é o dono deste bot.",
-	"common.error.bot.perms.tokenReset": "You do not have the required permission(s) to reset this bot's DELAPI token.",
+	"common.error.bot.perms.tokenReset": "Não possui as permissões necessárias para redefinir este token da DELAPI do bot.",
 	"common.error.bot.vanity.tooLong": "The bot's vanity url cannot be shorter or longer than one word.",
 	"common.error.bot.vanity.blacklisted": "You provided a blacklisted vanity, please think of another vanity url.",
 	"common.error.bot.vanity.conflict": "This vanity url is already claimed, sorry.",
