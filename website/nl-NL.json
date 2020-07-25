@@ -366,7 +366,7 @@
 	"page.bots.setVanity.placeholder": "Een ijdelheid die je zou kunnen gebruiken is bijvoorbeeld %s",
 	"page.bots.copyClientID": "Kopieer Cliënt ID",
 	"page.bots.invite.main": "Main Server Invite",
-	"page.bots.invite.staff": "Staff Server Invite",
+	"page.bots.invite.staff": "Testing Server Invite",
 	"page.bots.shards": "Shards",
 	"page.bots.warning.delete": "This action is irreversible, when you click Delete your bot's data will be immediately erased from our database with no way of restoring it.",
 	"page.bots.edit.title": "Edit Bot",

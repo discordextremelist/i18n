@@ -366,7 +366,7 @@
 	"page.bots.setVanity.placeholder": "Zum Beispiel können Sie %s als Vanity nutzen",
 	"page.bots.copyClientID": "Kopiere Client-ID",
 	"page.bots.invite.main": "Hauptserver Einladung",
-	"page.bots.invite.staff": "Mitarbeiterserver Einladung",
+	"page.bots.invite.staff": "Testing Server Invite",
 	"page.bots.shards": "Shards",
 	"page.bots.warning.delete": "Diese Aktion ist nicht rückgängig machbar, wenn Sie auf diese Taste drücken werden alle Daten von Ihrem Bot aus unserer Datenbank gelöscht, ohne einen Weg sie wiederherzustellen.",
 	"page.bots.edit.title": "Bot bearbeiten",
