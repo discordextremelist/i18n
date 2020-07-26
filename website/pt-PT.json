@@ -432,7 +432,7 @@
 	"page.guidelines.user.profile.1": "A sua biografia não deve conter nada censurável ou quaisquer ligações.",
 	"page.guidelines.user.profile.2": "O css personalizado do perfil não deve interferir com as funções normais do sítio ou ser usado maliciosamente.",
 	"page.guidelines.user.other": "Outras Diretrizes",
-	"page.guidelines.user.other.0": "You are not permitted to do anything to circumvent any punishment added to your account, doing so will result in another punishment that may be worse or equal to your current one.",
+	"page.guidelines.user.other.0": "Não tem permissão para fazer o que quer que seja para contornar qualquer punição adicionada à sua conta caso faça resultará em outra punição que pode ser igual ou pior à atual.",
 	"page.guidelines.user.other.1": "You are not allowed to disclose any malicious bugs or issues to third parties unless it is already available to the general public as a published GitHub security advisory.",
 	"page.guidelines.user.other.1.1": "If you have found a malicious bug or issue please report it to us via our email listed above.",
 	"page.guidelines.bot": "Diretrizes de Bot",
