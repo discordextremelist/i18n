@@ -421,7 +421,7 @@
 	"page.remove.bots.placeholder": "Insira uma razão personalizada para justificar o motivo da recusa deste bot ou use uma razão predefinida abaixo.",
 	"page.remove.servers.placeholder": "Insira uma razão personalizada para justificar o motivo da remoção deste servidor ou use uma razão predefinida abaixo.",
 	"page.remove.templates.placeholder": "Insira uma razão personalizada para justificar o motivo da remoção deste modelo ou use uma razão predefinida abaixo.",
-	"page.guidelines.principle": "Main Principle",
+	"page.guidelines.principle": "Princípio Fundamental",
 	"page.guidelines.commonSense": "Use sempre um bom senso.",
 	"page.guidelines.support": "Support is available by emailing %s",
 	"page.guidelines.listing": "Listing Guidelines",
