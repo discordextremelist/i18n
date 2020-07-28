@@ -72,6 +72,7 @@
 	"common.error.bot.notInQueue": "Je kunt een bot die niet in de wachtrij staat niet weigeren.",
 	"common.error.bot.alreadyPremium": "Je kunt een bot geen premium geven als deze al premium heeft.",
 	"common.error.bot.inQueue": "Je kunt een bot die in de wachtrij staat niet verwijderen.",
+	"common.error.bot.archived": "This bot has been archived.",
 	"common.error.bot.notArchived": "Je kunt een niet-gearchiveerde bot niet opnieuw indienen.",
 	"common.error.fetchFail.bots": "Er is een fout opgetreden bij het ophalen van bots.",
 	"common.error.fetchFail.servers": "Er is een fout opgetreden bij het ophalen van servers.",
