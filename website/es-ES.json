@@ -72,6 +72,7 @@
 	"common.error.bot.notInQueue": "No puedes rechazar un bot que no está en la cola.",
 	"common.error.bot.alreadyPremium": "No puedes dar premium a un bot si ya tiene premium.",
 	"common.error.bot.inQueue": "No puedes eliminar un bot que no está en la cola.",
+	"common.error.bot.archived": "This bot has been archived.",
 	"common.error.bot.notArchived": "No puedes reenviar un bot que no ha sido archivado.",
 	"common.error.fetchFail.bots": "Se produjo un error al buscar bots.",
 	"common.error.fetchFail.servers": "Se produjo un error al buscar servidores.",
