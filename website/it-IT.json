@@ -72,6 +72,7 @@
 	"common.error.bot.notInQueue": "You cannot decline a bot that is not in the queue.",
 	"common.error.bot.alreadyPremium": "You cannot give a bot premium if it already has premium.",
 	"common.error.bot.inQueue": "You cannot remove a bot that is in the queue.",
+	"common.error.bot.archived": "This bot has been archived.",
 	"common.error.bot.notArchived": "You cannot resubmit a bot that isn't archived.",
 	"common.error.fetchFail.bots": "An error occurred whilst fetching bots.",
 	"common.error.fetchFail.servers": "An error occurred whilst fetching servers.",
