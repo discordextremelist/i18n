@@ -72,6 +72,7 @@
 	"common.error.bot.notInQueue": "Kuyrukta olmayan bir botu reddedemezsiniz!",
 	"common.error.bot.alreadyPremium": "Premiumu olan bir bota tekrar premium veremezsiniz!",
 	"common.error.bot.inQueue": "Kuyruktaki bir botu kaldıramazsınız!",
+	"common.error.bot.archived": "This bot has been archived.",
 	"common.error.bot.notArchived": "Arşivlenmiş bir botu yeniden gönderemezsiniz.",
 	"common.error.fetchFail.bots": "Botlar karşınıza getirilirken bir hata oluştu!",
 	"common.error.fetchFail.servers": "Sunucular karşınıza getirilirken bir hata oluştu!",
