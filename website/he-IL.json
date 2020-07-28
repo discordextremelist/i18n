@@ -72,6 +72,7 @@
 	"common.error.bot.notInQueue": "אתה לא יכול לדחות בוט שאינו בתור.",
 	"common.error.bot.alreadyPremium": "אתה לא יכול לתת premium לבוט אם יש לו כבר premium.",
 	"common.error.bot.inQueue": "אתה לא יכול להסיר בוט שנמצא בתור.",
+	"common.error.bot.archived": "This bot has been archived.",
 	"common.error.bot.notArchived": "אינך יכול לשלוח בוט שאינו בארכיון.",
 	"common.error.fetchFail.bots": "אירעה שגיאה בעת השגת בוטים.",
 	"common.error.fetchFail.servers": "אירעה שגיאה בעת השגת השרתים.",
