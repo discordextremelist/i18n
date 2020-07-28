@@ -72,6 +72,7 @@
 	"common.error.bot.notInQueue": "Não pode recusar um bot que não está em fila de espera.",
 	"common.error.bot.alreadyPremium": "Não pode dar premium a um bot que já tem premium.",
 	"common.error.bot.inQueue": "Não pode remover um bot que está em fila de espera.",
+	"common.error.bot.archived": "This bot has been archived.",
 	"common.error.bot.notArchived": "Não pode ressubmeter um bot que não está arquivado.",
 	"common.error.fetchFail.bots": "Ocorreu um erro ao obter os bots.",
 	"common.error.fetchFail.servers": "Ocorreu um erro ao obter os bots.",
