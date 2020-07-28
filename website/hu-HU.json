@@ -72,6 +72,7 @@
 	"common.error.bot.notInQueue": "Te nem utasíthatod el ezt a botot mert ez a bot nincs a várólistán.",
 	"common.error.bot.alreadyPremium": "Te nem adhatsz egy botnak egy prémiumot ha már van neki prémiumja.",
 	"common.error.bot.inQueue": "Te nem törölheted ezt a botot ami már a várólistán van.",
+	"common.error.bot.archived": "This bot has been archived.",
 	"common.error.bot.notArchived": "Te nem tudsz egy botot újraelküldeni ami archívált.",
 	"common.error.fetchFail.bots": "Egy hiba történt miközben probáltuk kikeresni a botokat.",
 	"common.error.fetchFail.servers": "Egy hiba történt miközben probáltuk kikeresni a szervereket.",
