@@ -280,6 +280,8 @@
 	"common.social.snapchat": "סנאפצ'אט",
 	"common.social.github": "GitHub",
 	"common.social.github.del": "DEL GitHub",
+	"common.social.patreon": "Patreon",
+	"common.social.patreon.del": "DEL Patreon",
 	"common.social.gitlab": "GitLab",
 	"common.pagination.page": "דף %s",
 	"common.pagination.gotoPage": "התחל לעמוד %s",

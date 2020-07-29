@@ -280,6 +280,8 @@
 	"common.social.snapchat": "Snapchat",
 	"common.social.github": "GitHub",
 	"common.social.github.del": "GitHub do DEL",
+	"common.social.patreon": "Patreon",
+	"common.social.patreon.del": "DEL Patreon",
 	"common.social.gitlab": "GitLab",
 	"common.pagination.page": "Página %s",
 	"common.pagination.gotoPage": "Ir para a página %s",
