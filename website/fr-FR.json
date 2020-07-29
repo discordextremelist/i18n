@@ -361,7 +361,7 @@
 	"page.bots.status.idle": "Le statut du bot est actuellement Inactif.",
 	"page.bots.status.dnd": "Le statut du bot est actuellement Ne Pas Déranger.",
 	"page.bots.status.offline": "Le statut du bot est actuellement Hors Ligne.",
-	"page.bots.manageToken": "Manage Token",
+	"page.bots.manageToken": "Gérer les Jetons",
 	"page.bots.copyToken": "Copy Token",
 	"page.bots.resetToken": "Reset Token",
 	"page.bots.verificationApplication": "Apply for Verification",
