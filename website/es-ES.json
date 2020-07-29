@@ -457,7 +457,7 @@
 	"page.guidelines.bot.other.4.2": "Mensajes de subir de nivel,",
 	"page.guidelines.bot.other.4.3": "Publicidad,",
 	"page.guidelines.bot.other.4.4": "Cualquiera otra forma de mensajes que no sean ejecutados por un comando.",
-	"page.guidelines.bot.other.5": "Los bots sobre el COVID-19 están prohibidos por múltiples razones, que incluyen pero no se limitan a imprecisiones e información errónea, además de que estos bots con un comando COVID-19 se probarán con mayor dureza y deben cumplir varios requisitos, como si se muestra el recuento de casos, debe estar activo hasta la fecha y mostrar la hora en que se obtuvieron esos números de casos.",
+	"page.guidelines.bot.other.5": "COVID-19 bots are forbidden for multiple reasons including but not limited to inaccuracies and misinformation. In addition to this, bots with a COVID-19 command will be more harshly tested and must meet various requirements, such as if it shows case count, it must be up to date and show the time those case numbers were fetched.",
 	"page.guidelines.server": "Pautas del servidor",
 	"page.guidelines.server.listing.0": "Su bot no debe tener un icono inapropiado.",
 	"page.guidelines.server.listing.1": "Su bot no debe tener un nombre inapropiado.",
