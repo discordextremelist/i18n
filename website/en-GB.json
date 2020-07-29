@@ -611,7 +611,7 @@
 	"page.account.preferences.accent": "Accent Colour",
 	"page.account.preferences.theme": "Site Theme",
 	"page.account.preferences.customCSS": "Custom Global CSS",
-	"page.account.preferences.customCSS.danger": "Danger Will Robinson, Danger!",
+	"page.account.preferences.customCSS.danger": "Listen very carefully, I will say this only once!",
 	"page.account.preferences.customCSS.note": "If you cannot access this page and need to reset your global css use the del,cssreset command in our Discord server.",
 	"page.account.preferences.revert": "Revert to Default Settings",
 	"page.account.edit.subtitle.me": "Editing your profile",
