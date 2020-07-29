@@ -457,7 +457,7 @@
 	"page.guidelines.bot.other.4.2": "Levelup Üzenetek,",
 	"page.guidelines.bot.other.4.3": "Hírdetések,",
 	"page.guidelines.bot.other.4.4": "Bármely más formájú üzenet, kivéve, ha egy parancssal lett végrehajtva.",
-	"page.guidelines.bot.other.5": "COVID-19 botok tiltott több indok miatt, beleértve a nem limitált pontatlanságoknak vagy félrevezető információ, továbbá ezeknek a botoknak COVID-19 parancsokat szigorúbban tesztelni fogjuk és teljesíteni kell a különféle követelményt mint például megmutatja a ügy számláló és megkell hogy mutassa milyen naprakész.",
+	"page.guidelines.bot.other.5": "COVID-19 bots are forbidden for multiple reasons including but not limited to inaccuracies and misinformation. In addition to this, bots with a COVID-19 command will be more harshly tested and must meet various requirements, such as if it shows case count, it must be up to date and show the time those case numbers were fetched.",
 	"page.guidelines.server": "Szerver Irányelvek",
 	"page.guidelines.server.listing.0": "A te szerverednek nem lehet egy alkalmatlan avatárja.",
 	"page.guidelines.server.listing.1": "A te szerverednek nem lehet egy alkalmatlan neve.",

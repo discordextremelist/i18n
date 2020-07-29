@@ -457,7 +457,7 @@
 	"page.guidelines.bot.other.4.2": "Seviye Atlama Mesajları,",
 	"page.guidelines.bot.other.4.3": "Reklamlar,",
 	"page.guidelines.bot.other.4.4": "Bir komut tarafından istenmediği sürece, diğer tüm ileti komutları çalışmamalıdır.",
-	"page.guidelines.bot.other.5": "COVID-19 İstatistikilerini içeren botlar için yanlışlıklar ve yanlış bilgilendirmeler çok risklidir , eğer bunlar yanlış bilgi içeriyorsa yasaktır. COVID-19 komutu içeren botlar , daha sert ve kapsamlı bir test sürecinden geçecektir. Vaka sayısını gösterme gibi çeşitli gereksinimleri doğru bir şekilde karşılamalıdır. Bugüne kadar ve bugünden sonraki tahmini vaka sayılarını doğru bir şekilde göstermelidir.",
+	"page.guidelines.bot.other.5": "COVID-19 bots are forbidden for multiple reasons including but not limited to inaccuracies and misinformation. In addition to this, bots with a COVID-19 command will be more harshly tested and must meet various requirements, such as if it shows case count, it must be up to date and show the time those case numbers were fetched.",
 	"page.guidelines.server": "Sunucu Yönergeleri",
 	"page.guidelines.server.listing.0": "Sunucunuzda uygunsuz bir simge/ikon olmamalıdır.",
 	"page.guidelines.server.listing.1": "Sunucunuzun uygun bir adı olmamalıdır.",
