@@ -457,7 +457,7 @@
 	"page.guidelines.bot.other.4.2": "LevelUp Nachrichten,",
 	"page.guidelines.bot.other.4.3": "Werbung,",
 	"page.guidelines.bot.other.4.4": "Jede andere Form von Nachrichten, außer sie werden von einem Befehl ausgelöst.",
-	"page.guidelines.bot.other.5": "COVID-19 bots are forbidden for multiple reasons including but not limited to inaccuracies and misinformation. In addition to this, bots with a COVID-19 command will be more harshly tested and must meet various requirements, such as if it shows case count, it must be up to date and show the time those case numbers were fetched.",
+	"page.guidelines.bot.other.5": "COVID-19-Bots sind aus mehreren Gründen verboten, darunter Ungenauigkeiten und Fehlinformationen. Darüber hinaus werden Bots mit einem COVID-19-Befehl härter getestet und müssen verschiedene Anforderungen erfüllen, z. B. müssen sie, wenn sie die Anzahl der Fälle anzeigen, auf dem neuesten Stand sein und die Zeit anzeigen, zu der diese Fallzahlen abgerufen wurden.",
 	"page.guidelines.server": "Server Richtlinien",
 	"page.guidelines.server.listing.0": "Ihr Server darf kein unangebrachtes Icon besitzen.",
 	"page.guidelines.server.listing.1": "Ihr Server darf keinen unangebrachten Namen besitzen.",
