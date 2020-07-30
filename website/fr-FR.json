@@ -621,7 +621,7 @@
 	"page.account.edit.website.placeholder": "Si vous avez un site web, mettez le lien ici.",
 	"page.account.edit.social.notice": "Nom d'Utilisateur Uniquement",
 	"page.account.edit.social.placeholder": "Sans le \"@\".",
-	"page.account.edit.customCSS": "CSS Personnalisé du profil",
+	"page.account.edit.customCSS": "CSS Personnalisé du Profil",
 	"page.account.edit.customCSS.notice": "Donateur et Staff uniquement",
 	"page.account.edit.customCSS.notPermitted": "Vous n'avez pas la(les) autorisation(s) requise(s) pour utiliser cette boite de texte.",
 	"page.users.status.online": "Le statut de cet utilisateur est actuellement En Ligne.",
