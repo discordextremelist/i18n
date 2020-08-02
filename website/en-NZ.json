@@ -400,6 +400,8 @@
 	"page.servers.warning.delete": "This action is irreversible, when you click Delete your server's data will be immediately erased from our database with no way of restoring it.",
 	"page.servers.edit.title": "Edit Server",
 	"page.servers.edit.subtitle": "Editing server %s",
+	"page.servers.decline.title": "Decline Server",
+	"page.servers.decline.subtitle": "Declining server %s",
 	"page.servers.remove.title": "Remove Server",
 	"page.servers.remove.subtitle": "Removing server %s",
 	"page.templates.edit.title": "Edit Template",
