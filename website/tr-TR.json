@@ -118,6 +118,8 @@
 	"common.error.listing.arr.prefixRequired": "Geçerli ve hali hazırda kullanıma açık bir bot öneki gerekli.",
 	"common.error.listing.arr.notAtMinChars": "Botunuzun uzun açıklamasında en az %s karakter bulunmalıdır.\n",
 	"common.error.listing.arr.inviteHasAdmin": "Sağladığınız bot daveti Yönetici iznini içermekte. Lütfen sadece uygun yetkilendirmeleri tercih edin.",
+	"common.error.listing.arr.widgetbot.guildNotFound": "WidgetBot couldn't find this server, make sure you added the bot!",
+	"common.error.listing.arr.widgetbot.channelNotFound": "WidgetBot couldn't find this channel, make sure you added the bot!",
 	"common.error.server.conflict": "Ah lanet! Bu sunucu zaten listeye eklenmiş!?",
 	"common.error.server.arr.invite.dgg": "Davet bağlantısı/kodu discord.gg içermemeli.",
 	"common.error.server.arr.invite.sameServer": "Kullanılan davet bağlantısı/kodu , gönderim sırasında kullanılan sunucu ile aynı olmalıdır!",
