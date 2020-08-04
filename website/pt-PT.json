@@ -118,6 +118,8 @@
 	"common.error.listing.arr.prefixRequired": "Um prefixo de bot válido é necessário.",
 	"common.error.listing.arr.notAtMinChars": "A sua descrição longa do bot deve conter pelo menos %s carateres.",
 	"common.error.listing.arr.inviteHasAdmin": "O convite de bot que forneceu concede permissões administrativas para o bot, por favor selecione apenas as permissões que o bot precisa.",
+	"common.error.listing.arr.widgetbot.guildNotFound": "WidgetBot couldn't find this server, make sure you added the bot!",
+	"common.error.listing.arr.widgetbot.channelNotFound": "WidgetBot couldn't find this channel, make sure you added the bot!",
 	"common.error.server.conflict": "Este servidor já foi adicionado à lista.",
 	"common.error.server.arr.invite.dgg": "O código do convite não pode conter discord.gg",
 	"common.error.server.arr.invite.sameServer": "O código de convite usado, deve ser do mesmo servidor como aquele usado durante a submissão!",
