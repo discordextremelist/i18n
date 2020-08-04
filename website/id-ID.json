@@ -14,6 +14,7 @@
 	"common.bots.random": "Bot Random",
 	"common.bots.subtitle": "Daftar semua bot",
 	"common.servers": "Server",
+	"common.servers.all": "All Servers",
 	"common.servers.discord": "Server Discord",
 	"common.servers.random": "Server Random",
 	"common.servers.subtitle": "Daftar semua server",
