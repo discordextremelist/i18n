@@ -118,6 +118,8 @@
 	"common.error.listing.arr.prefixRequired": "Een geldig prefix is vereist.",
 	"common.error.listing.arr.notAtMinChars": "Je bot's lange beschrijving moet minimaal %s karakters hebben.",
 	"common.error.listing.arr.inviteHasAdmin": "De botuitnodiging die u heeft verstrekt, verleent uw bot beheerdersrechten. Selecteer alleen de rechten die uw bot nodig heeft.",
+	"common.error.listing.arr.widgetbot.guildNotFound": "WidgetBot couldn't find this server, make sure you added the bot!",
+	"common.error.listing.arr.widgetbot.channelNotFound": "WidgetBot couldn't find this channel, make sure you added the bot!",
 	"common.error.server.conflict": "Deze server is al aan de lijst toegevoegd.",
 	"common.error.server.arr.invite.dgg": "De uitnodigingscode mag geen discord.gg bevatten",
 	"common.error.server.arr.invite.sameServer": "De gebruikte uitnodigingscode moet van dezelfde server zijn als die gebruikt tijdens het indienen!",
