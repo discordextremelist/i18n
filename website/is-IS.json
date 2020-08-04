@@ -118,6 +118,8 @@
 	"common.error.listing.arr.prefixRequired": "A valid bot prefix is required.",
 	"common.error.listing.arr.notAtMinChars": "Your bot's long description must have at least %s characters.",
 	"common.error.listing.arr.inviteHasAdmin": "The bot invite you provided grants your bot Administrator permissions, please select only the permissions your bot needs.",
+	"common.error.listing.arr.widgetbot.guildNotFound": "WidgetBot couldn't find this server, make sure you added the bot!",
+	"common.error.listing.arr.widgetbot.channelNotFound": "WidgetBot couldn't find this channel, make sure you added the bot!",
 	"common.error.server.conflict": "This server has already been added to the list.",
 	"common.error.server.arr.invite.dgg": "The invite code cannot contain discord.gg",
 	"common.error.server.arr.invite.sameServer": "The invite code used must be from the same server as the one used during submission!",

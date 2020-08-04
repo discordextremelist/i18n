@@ -118,6 +118,8 @@
 	"common.error.listing.arr.prefixRequired": "Ein gültiges Bot-Prefix ist erforderlich.",
 	"common.error.listing.arr.notAtMinChars": "Deine lange Bot Beschreibung muss mindestens aus %s Zeichen bestehen.",
 	"common.error.listing.arr.inviteHasAdmin": "Die Einladung ihres Bots verlangt Administrator Berechtigung. Bitte wähle nur die Rechte, die dein Bot wirklich benötigt.",
+	"common.error.listing.arr.widgetbot.guildNotFound": "WidgetBot couldn't find this server, make sure you added the bot!",
+	"common.error.listing.arr.widgetbot.channelNotFound": "WidgetBot couldn't find this channel, make sure you added the bot!",
 	"common.error.server.conflict": "Dieser Server wurde bereits zur Liste hinzugefügt.",
 	"common.error.server.arr.invite.dgg": "Der Einladungscode darf discord.gg nicht enthalten",
 	"common.error.server.arr.invite.sameServer": "Der verwendete Einladungscode muss vom selben Server stammen wie der, der während der Übermittlung verwendet wurde!",

@@ -118,6 +118,8 @@
 	"common.error.listing.arr.prefixRequired": "Prefix bot diperlukan.",
 	"common.error.listing.arr.notAtMinChars": "Deskripsi bot anda harus memiliki minimal %s karakter.",
 	"common.error.listing.arr.inviteHasAdmin": "Invite link bot anda memperlukan permission Administrator. Mohon hanya pilih permission yang dibutuhkan.",
+	"common.error.listing.arr.widgetbot.guildNotFound": "WidgetBot couldn't find this server, make sure you added the bot!",
+	"common.error.listing.arr.widgetbot.channelNotFound": "WidgetBot couldn't find this channel, make sure you added the bot!",
 	"common.error.server.conflict": "Server ini sudah pernah ditambahkan.",
 	"common.error.server.arr.invite.dgg": "Hapus discord.gg dari kode invite",
 	"common.error.server.arr.invite.sameServer": "The invite code used must be from the same server as the one used during submission!",
