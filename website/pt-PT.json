@@ -403,7 +403,7 @@
 	"page.servers.website": "Sítio do Servidor",
 	"page.servers.donate": "Página de Doação do Servidor",
 	"page.servers.preview": "[Experiment] Pré-visualização do Servidor",
-	"page.servers.preview.details": "DEL has a Server Preview feature powered by WidgetBot.io, which lets users interact with your server right on its listing page! Note that this feature is currently an experiment and can only be seen by users who have enabled Experiments in their DEL user preferences.",
+	"page.servers.preview.details": "DEL tem a funcionalidade de pré-visualização de servidor fornecida pelo WidgetBot.io, no qual permite aos utilizadores interagirem com o seu servidor diretamente na página de listagem! Note que está funcionalidade está atualmente em experimento e só pode ser visto por utilizadores que tenham habilitado Experimentos nas suas definições de perfil no DEL.",
 	"page.servers.preview.id": "ID do canal padrão de pré-visualização",
 	"page.servers.shortDesc": "Breve Descrição do Servidor",
 	"page.servers.shortDesc.placeholder": "Este é um incrível servidor, obg agora entra",
