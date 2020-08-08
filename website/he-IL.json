@@ -169,6 +169,7 @@
 	"common.rank.banned": "נאסר",
 	"common.rank.siteBot": "Site Bot - This bot is one of our official site bots and has been added for internal reasons. It will not show up in search results, the homepage or the bot list page.",
 	"common.rank.unapproved": "בוט שלא אושר",
+	"common.rank.archived": "Archived Bot",
 	"common.rank.reviewRequired": "Review Required",
 	"common.resubmit": "שלח שוב",
 	"common.edit": "ערוך",

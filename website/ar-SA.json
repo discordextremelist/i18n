@@ -169,6 +169,7 @@
 	"common.rank.banned": "تم تبنيده",
 	"common.rank.siteBot": "Site Bot - يعد هذا البوت أحد برامج التتبع الرسمية لموقعنا وقد تمت إضافته لأسباب داخلية. لن تظهر في نتائج البحث أو الصفحة الرئيسية أو صفحة قائمة برامج التتبُّع.",
 	"common.rank.unapproved": "بوت غير موافق عليه",
+	"common.rank.archived": "Archived Bot",
 	"common.rank.reviewRequired": "المراجعة مطلوبة",
 	"common.resubmit": "اعادة الارسال",
 	"common.edit": "تعديل",

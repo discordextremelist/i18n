@@ -169,6 +169,7 @@
 	"common.rank.banned": "Yasaklı",
 	"common.rank.siteBot": "Site Yönetim Botu - Bu bot site yönetim botlarımızdan biri olup dahili nedenlerle eklenmiştir.. Arama sonuçlarında , ana sayfada veya bot liste sayfasında görünmez.",
 	"common.rank.unapproved": "Onaylanmamış Bot",
+	"common.rank.archived": "Archived Bot",
 	"common.rank.reviewRequired": "İnceleme Gerekli",
 	"common.resubmit": "Tekrar Gönder",
 	"common.edit": "Düzenle",

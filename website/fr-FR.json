@@ -169,6 +169,7 @@
 	"common.rank.banned": "Bannis",
 	"common.rank.siteBot": "Site Bot - Ce bot est l'un des bots officiels de notre site et a été ajouté pour des raisons internes. Il n'apparaîtra pas dans les résultats de recherche, la page d'accueil ou la page de la liste des bots.",
 	"common.rank.unapproved": "Bot Désapprouvé",
+	"common.rank.archived": "Archived Bot",
 	"common.rank.reviewRequired": "Review Required",
 	"common.resubmit": "Soumettre à nouveau",
 	"common.edit": "Éditer",
