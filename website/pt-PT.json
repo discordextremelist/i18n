@@ -169,6 +169,7 @@
 	"common.rank.banned": "Banido",
 	"common.rank.siteBot": "Sítio do Bot - Este é um dos nossos bots oficiais do sítio e foi adicionado por razões internas. Não será mostrado nos resultados de pesquisa, na página principal ou na lista de bots.",
 	"common.rank.unapproved": "Bot desaprovado",
+	"common.rank.archived": "Archived Bot",
 	"common.rank.reviewRequired": "Revisão Necessária",
 	"common.resubmit": "Ressubmeter",
 	"common.edit": "Editar",
