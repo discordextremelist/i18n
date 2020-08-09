@@ -68,6 +68,7 @@
 	"common.error.server.404": "Ez a szerver nem létezik.",
 	"common.error.user.404": "Ez a felhasználó nem létezik.",
 	"common.error.notMember": "Neked benne kéne lenni a discord szerverünkön hogy hozzaférj ehhez az a oldalhoz",
+	"common.error.failedJoin": "Your changes were not submitted as we were unable to join you to our server, please join manually by pressing {{a}}here{{/a}}.",
 	"common.error.notMod": "ezt a útvesztőt nem neked találták ki",
 	"common.error.notAssistant": "ezt a útvesztőt nem neked találták ki",
 	"common.error.notAdmin": "ezt a útvesztőt nem neked találták ki",
