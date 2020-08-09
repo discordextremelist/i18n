@@ -131,6 +131,7 @@
 	"common.error.listing.arr.widgetbot.serverID.invalid": "You provided an invalid WidgetBot server ID.",
 	"common.error.listing.arr.widgetbot.serverID.tooLong": "The WidgetBot server ID cannot be longer than 32 characters.",
 	"common.error.listing.arr.widgetbot.serverID.nonexistent": "You provided a WidgetBot server ID that is not an actual server on Discord.",
+	"common.error.server.notInQueue": "You cannot approve or decline a server that is not in the queue.",
 	"common.error.server.conflict": "Ah lanet! Bu sunucu zaten listeye eklenmiş!?",
 	"common.error.server.arr.invite.dgg": "Davet bağlantısı/kodu discord.gg içermemeli.",
 	"common.error.server.arr.invite.sameServer": "Kullanılan davet bağlantısı/kodu , gönderim sırasında kullanılan sunucu ile aynı olmalıdır!",

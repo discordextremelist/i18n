@@ -131,6 +131,7 @@
 	"common.error.listing.arr.widgetbot.serverID.invalid": "You provided an invalid WidgetBot server ID.",
 	"common.error.listing.arr.widgetbot.serverID.tooLong": "The WidgetBot server ID cannot be longer than 32 characters.",
 	"common.error.listing.arr.widgetbot.serverID.nonexistent": "You provided a WidgetBot server ID that is not an actual server on Discord.",
+	"common.error.server.notInQueue": "You cannot approve or decline a server that is not in the queue.",
 	"common.error.server.conflict": "Este servidor já foi adicionado à lista.",
 	"common.error.server.arr.invite.dgg": "O código do convite não pode conter discord.gg",
 	"common.error.server.arr.invite.sameServer": "O código de convite usado, deve ser do mesmo servidor como aquele usado durante a submissão!",
