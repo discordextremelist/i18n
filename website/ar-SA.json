@@ -219,6 +219,8 @@
 	"common.form.basicHtmlMarkdown": "HTML و Markdown الأساسي",
 	"common.form.htmlMarkdown": "HTML و CSS و Markdown",
 	"common.form.jsHtmlMarkdown": "HTML و CSS و JS و Markdown",
+	"common.form.joinServer": "On submit we will attempt to add you to {{a}}our Discord server{{/a}}.",
+	"common.form.joinServer.full": "On submit we will attempt to add you to {{a}}our Discord server{{/a}}, you may leave once your bot is approved.<br />You are added so that if we find any issues with your bot during our testing phase we can notify you, easily and quickly.",
 	"common.select": "اختر",
 	"common.tags": "العلامات",
 	"common.tags.gaming": "الألعاب",
