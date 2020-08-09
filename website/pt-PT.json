@@ -375,6 +375,7 @@
 	"page.bots.git.view": "Código Fonte",
 	"page.bots.privacyPolicy": "Política de Privacidade do Bot",
 	"page.bots.privacyPolicy.optional": "Atualmente isto é opcional mas será necessário a partir de %s de agosto devido ao TdS de Desenvolvedor do Discord",
+	"page.bots.privacyPolicy.required": "This is required as per Discord's Developer ToS, you may input a command or a URL.",
 	"page.bots.theme.useCustomColor": "Usar Cor de Destaque Personalizada",
 	"page.bots.theme.useCustomColor.details": "Isto vai permitir definir uma cor de destaque personalizada para a página do bot.",
 	"page.bots.theme.color": "Cor de Destaque Personalizada",
