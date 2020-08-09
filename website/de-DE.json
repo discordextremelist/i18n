@@ -375,6 +375,7 @@
 	"page.bots.git.view": "Quellcode",
 	"page.bots.privacyPolicy": "Bot Datenschutzrichtlinien",
 	"page.bots.privacyPolicy.optional": "Dies ist derzeit Optional. Es wird aber ab dem %s. August erforderlich sein, aufgrund der Discord Developer ToS",
+	"page.bots.privacyPolicy.required": "This is required as per Discord's Developer ToS, you may input a command or a URL.",
 	"page.bots.theme.useCustomColor": "Benutze benutzerdefinierte Farbakzente",
 	"page.bots.theme.useCustomColor.details": "Dies setzt ein benutzerdefinierten Farbakzent für die Seite deines Bot's.",
 	"page.bots.theme.color": "Benutzerdefinierten Farbakzent",
