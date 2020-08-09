@@ -415,7 +415,7 @@
 	"page.bots.unapprove.title": "Desaprovar Bot",
 	"page.bots.unapprove.subtitle": "Desaprovar bot %s",
 	"page.servers.code": "Código de Convite",
-	"page.servers.lgbtTagNotice": "If you select the \"LGBT Community\" tag, then your server will go into an approval queue. When it is approved, it will show on our LGBT server website. The tag is only for LGBT-focused servers.",
+	"page.servers.lgbtTagNotice": "Se selecionas-te a etiqueta \"Comunidade LGBT\", então o teu servidor irá para a fila de aprovação. Quando este for aprovado, será mostrado no nosso sítio de servidores LGBT. A etiqueta é somente para servidores com foco LGBT.",
 	"page.servers.website": "Sítio do Servidor",
 	"page.servers.donate": "Página de Doação do Servidor",
 	"page.servers.preview": "[Experiment] Pré-visualização do Servidor",
