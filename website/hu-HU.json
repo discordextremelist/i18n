@@ -220,7 +220,7 @@
 	"common.form.htmlMarkdown": "HTML, CSS & Markdown",
 	"common.form.jsHtmlMarkdown": "HTML, CSS, JS & Markdown",
 	"common.form.joinServer": "On submit we will attempt to add you to {{a}}our Discord server{{ea}}.",
-	"common.form.joinServer.full": "On submit we will attempt to add you to {{a}}our Discord server{{ea}}, you may leave once your bot is approved.<br />You are added so that if we find any issues with your bot during our testing phase we can notify you, easily and quickly.",
+	"common.form.joinServer.full": "On submit we will attempt to add you to {{a}}our Discord server{{ea}}, you may leave once your bot is approved. You are added so that if we find any issues with your bot during our testing phase we can notify you, easily and quickly.",
 	"common.select": "Választás",
 	"common.tags": "Címkék",
 	"common.tags.gaming": "Játék",
