@@ -68,6 +68,7 @@
 	"common.error.server.404": "Esta servidor no existe.",
 	"common.error.user.404": "Esta usuario no existe.",
 	"common.error.notMember": "Debes estar en nuestro servidor Discord para acceder a esta página",
+	"common.error.failedJoin": "Your changes were not submitted as we were unable to join you to our server, please join manually by pressing {{a}}here{{/a}}.",
 	"common.error.notMod": "el laberinto no era para ti",
 	"common.error.notAssistant": "el laberinto no era para ti",
 	"common.error.notAdmin": "el laberinto no era para ti",

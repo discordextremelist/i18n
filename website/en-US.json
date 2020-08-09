@@ -68,6 +68,7 @@
 	"common.error.server.404": "This server does not exist.",
 	"common.error.user.404": "This user does not exist.",
 	"common.error.notMember": "You need to be in our Discord server to access this page",
+	"common.error.failedJoin": "Your changes were not submitted as we were unable to join you to our server, please join manually by pressing {{a}}here{{/a}}.",
 	"common.error.notMod": "the maze wasn't meant for you",
 	"common.error.notAssistant": "the maze wasn't meant for you",
 	"common.error.notAdmin": "the maze wasn't meant for you",

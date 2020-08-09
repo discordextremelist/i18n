@@ -68,6 +68,7 @@
 	"common.error.server.404": "Ten serwer nie istnieje.",
 	"common.error.user.404": "Ten użytkownik nie istnieje.",
 	"common.error.notMember": "Aby uzyskać dostęp do tej strony, musisz być na naszym serwerze Discord",
+	"common.error.failedJoin": "Your changes were not submitted as we were unable to join you to our server, please join manually by pressing {{a}}here{{/a}}.",
 	"common.error.notMod": "labirynt nie był przeznaczony dla ciebie",
 	"common.error.notAssistant": "labirynt nie był przeznaczony dla ciebie",
 	"common.error.notAdmin": "labirynt nie był przeznaczony dla ciebie",

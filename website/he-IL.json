@@ -68,6 +68,7 @@
 	"common.error.server.404": "השרת הזה אינו קיים.",
 	"common.error.user.404": "המשתמש הזה אינו קיים.",
 	"common.error.notMember": "אתה צריך להיות בשרת דיסקורד שלנו כדי לגשת לדף זה",
+	"common.error.failedJoin": "Your changes were not submitted as we were unable to join you to our server, please join manually by pressing {{a}}here{{/a}}.",
 	"common.error.notMod": "המבוך לא נועד עבורך",
 	"common.error.notAssistant": "המבוך לא נועד עבורך",
 	"common.error.notAdmin": "המבוך לא נועד עבורך",
