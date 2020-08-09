@@ -68,6 +68,7 @@
 	"common.error.server.404": "Den här servern finns inte.",
 	"common.error.user.404": "Den här användaren finns inte.",
 	"common.error.notMember": "You need to be in our Discord server to access this page",
+	"common.error.failedJoin": "Your changes were not submitted as we were unable to join you to our server, please join manually by pressing {{a}}here{{/a}}.",
 	"common.error.notMod": "labyrinten var inte menad för dig",
 	"common.error.notAssistant": "labyrinten var inte menad för dig",
 	"common.error.notAdmin": "labyrinten var inte menad för dig",
