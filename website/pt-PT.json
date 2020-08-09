@@ -68,6 +68,7 @@
 	"common.error.server.404": "Este servidor não existe.",
 	"common.error.user.404": "Este utilizador não existe.",
 	"common.error.notMember": "Precisa estar no nosso servidor de Discord para aceder esta página",
+	"common.error.failedJoin": "Your changes were not submitted as we were unable to join you to our server, please join manually by pressing {{a}}here{{/a}}.",
 	"common.error.notMod": "esta página não é destinada a utilizadores comuns, volte para trás",
 	"common.error.notAssistant": "esta página não é destinada a utilizadores comuns, volte para trás",
 	"common.error.notAdmin": "esta página não é destinada a utilizadores comuns, volte para trás",
