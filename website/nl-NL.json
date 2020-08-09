@@ -68,6 +68,7 @@
 	"common.error.server.404": "Deze server bestaat niet.",
 	"common.error.user.404": "Deze gebruiker bestaat niet.",
 	"common.error.notMember": "Je moet in ons Discord server zijn om toegang te krijgen tot dit eindpunt",
+	"common.error.failedJoin": "Your changes were not submitted as we were unable to join you to our server, please join manually by pressing {{a}}here{{/a}}.",
 	"common.error.notMod": "het doolhof was niet voor jou bedoeld",
 	"common.error.notAssistant": "het doolhof was niet voor jou bedoeld",
 	"common.error.notAdmin": "het doolhof was niet voor jou bedoeld",
