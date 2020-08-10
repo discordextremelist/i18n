@@ -150,6 +150,7 @@
 	"common.error.template.perms.notOwner": "Sie können diese Aktion nicht ausführen, da Sie nicht der Eigentümer der Vorlage sind.",
 	"common.error.user.perms.edit": "Sie haben nicht die erforderlichen Berechtigungen, um das Profil dieses Benutzers zu bearbeiten.",
 	"common.error.noPremiumTake": "Sie können diesem Bot kein Premium entziehen, da er kein Premium hat",
+	"common.error.reasonRequired": "You must provide a reason!",
 	"common.success": "Erfolgreich",
 	"common.success.bot.tokenReset": "Der Token für deine Bot's DELAPI wurde erfolgreich erneuert!",
 	"common.img.loadFail": "Konnte Datei %s nicht laden (Avatar/Icon), verwende Standard.",
