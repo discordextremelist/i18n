@@ -66,6 +66,7 @@
 	"common.error.404": "Deze pagina bestaat niet.",
 	"common.error.bot.404": "Deze pagina bestaat niet.",
 	"common.error.server.404": "Deze server bestaat niet.",
+	"common.error.template.404": "This template does not exist.",
 	"common.error.user.404": "Deze gebruiker bestaat niet.",
 	"common.error.notMember": "Je moet in ons Discord server zijn om toegang te krijgen tot dit eindpunt",
 	"common.error.failedJoin": "Your changes were not submitted as we were unable to join you to our server, please join manually by pressing {{a}}here{{ea}}.",
