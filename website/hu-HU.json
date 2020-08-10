@@ -150,6 +150,7 @@
 	"common.error.template.perms.notOwner": "Ezt az akciót nem hajthatód végre ugyanis te nem vagy ennek a szablonnak a tulajdonosa.",
 	"common.error.user.perms.edit": "Neked nincs a megadott jogsultság(ok) hogy szerkezd ennek a felhasználónak a, profilját.",
 	"common.error.noPremiumTake": "Te nem tudod elvenni a prémiumot egy bottól aminek nincs prémiumja.",
+	"common.error.reasonRequired": "You must provide a reason!",
 	"common.success": "Siker",
 	"common.success.bot.tokenReset": "A te botodnak a DELAPI token-ja sikeresen reszetelve!",
 	"common.img.loadFail": "Nem sikerült betölteni %s avatár/ikonját, használjuk az alapot ez helyett.",

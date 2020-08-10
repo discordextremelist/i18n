@@ -150,6 +150,7 @@
 	"common.error.template.perms.notOwner": "U kunt deze actie niet uitvoeren omdat u niet de eigenaar van de template bent.",
 	"common.error.user.perms.edit": "U heeft niet de vereiste toestemming (en) om dit gebruikersprofiel te bewerken.",
 	"common.error.noPremiumTake": "Je kunt geen premium wegnemen van een bot die geen premium heeft",
+	"common.error.reasonRequired": "You must provide a reason!",
 	"common.success": "Success",
 	"common.success.bot.tokenReset": "Jouw bot's DELAPI token is succesvol gereset!",
 	"common.img.loadFail": "Kan item %s avatar / icon niet laden, in plaats daarvan standaard gebruiken.",

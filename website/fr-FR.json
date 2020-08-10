@@ -150,6 +150,7 @@
 	"common.error.template.perms.notOwner": "Vous ne pouvez pas effectuer cette action car vous n'êtes pas le propriétaire du modèle.",
 	"common.error.user.perms.edit": "Vous n'avez pas la(les) autorisation(s) requise(s) pour modifier ce profile d'utilisateur.",
 	"common.error.noPremiumTake": "Vous ne pouvez pas retirer le premium à un bot qui n'est pas premium",
+	"common.error.reasonRequired": "You must provide a reason!",
 	"common.success": "Succès",
 	"common.success.bot.tokenReset": "Le jeton DELAPI de votre bot a été réinitialisé avec succès !",
 	"common.img.loadFail": "Impossible de charger l'avatar/l'icône de %s, celui par défaut est donc utilisé.",

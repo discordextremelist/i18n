@@ -150,6 +150,7 @@
 	"common.error.template.perms.notOwner": "אתה לא יכול לבצע פעולה זו מכיוון שאינך הבעלים של התבנית.",
 	"common.error.user.perms.edit": "אין לך את ההרשאות הנדרשות(s) לערוך את פרופיל המשתמש הזה.",
 	"common.error.noPremiumTake": "אינך יכול לקחת בחזרה premium מבוט שאין לו בכלל premium",
+	"common.error.reasonRequired": "You must provide a reason!",
 	"common.success": "Success",
 	"common.success.bot.tokenReset": "Your bot's DELAPI token has successfully been reset!",
 	"common.img.loadFail": "טעינת פריט %s אווטאר/תמונה נכשלה, תשתמש בברירת מחדל במקום.",

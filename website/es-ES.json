@@ -150,6 +150,7 @@
 	"common.error.template.perms.notOwner": "No puedes hacer esta acción dado que no eres el propietario de la plantilla.",
 	"common.error.user.perms.edit": "No tienes los permisos necesarios para editar este perfil de usuario.",
 	"common.error.noPremiumTake": "No puedes quitarle premium a un bot que no tiene premium",
+	"common.error.reasonRequired": "You must provide a reason!",
 	"common.success": "Exitoso",
 	"common.success.bot.tokenReset": "¡El token DELAPI de tu bot se ha reiniciado correctamente!",
 	"common.img.loadFail": "No se ha podido cargar el avatar/icono de %s, usando el de por defecto.",

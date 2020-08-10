@@ -150,6 +150,7 @@
 	"common.error.template.perms.notOwner": "Bu şablonun sahibi olmadığınız için bu eylemi gerçekleştiremezsiniz!",
 	"common.error.user.perms.edit": "Bu Kullanıcının profilini düzenlemek için gerekli izinlere sahip değilsiniz.",
 	"common.error.noPremiumTake": "Premium özelliği olmayan bir bottan premium özelliğini alamazsınız.",
+	"common.error.reasonRequired": "You must provide a reason!",
 	"common.success": "Başarılı",
 	"common.success.bot.tokenReset": "Botunuzun DEL API Tokeni başarıyla sıfırlandı!",
 	"common.img.loadFail": "%s Avatar/İkon ögesi varsayılan yerine kullanılarak yüklenemedi.",
