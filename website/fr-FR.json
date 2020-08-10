@@ -66,6 +66,7 @@
 	"common.error.404": "Cette page n'existe pas.",
 	"common.error.bot.404": "Ce bot n'existe pas.",
 	"common.error.server.404": "Ce serveur n'existe pas.",
+	"common.error.template.404": "This template does not exist.",
 	"common.error.user.404": "Cet utilisateur n'existe pas.",
 	"common.error.notMember": "Vous devez être sur notre serveur Discord pour accéder à cette page",
 	"common.error.failedJoin": "Vos changements n'ont pas été soumis car nous n'avons pas pu vous joindre à notre serveur, veuillez vous joindre manuellement en appuyant sur {{a}} ici{{ea}}.",
