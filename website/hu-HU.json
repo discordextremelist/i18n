@@ -66,6 +66,7 @@
 	"common.error.404": "A kért oldal nem létezik.",
 	"common.error.bot.404": "Ez a bot nem létezik.",
 	"common.error.server.404": "Ez a szerver nem létezik.",
+	"common.error.template.404": "This template does not exist.",
 	"common.error.user.404": "Ez a felhasználó nem létezik.",
 	"common.error.notMember": "Neked benne kéne lenni a discord szerverünkön hogy hozzaférj ehhez az a oldalhoz",
 	"common.error.failedJoin": "A módosításokat nem nyújtották be, mivel nem tudtunk csatlakozni a szerverhez. Kérem csatlakozzon manuálisan a megnyomásával {{a}}ide{{ea}}.",
