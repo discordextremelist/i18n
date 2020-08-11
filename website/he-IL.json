@@ -382,7 +382,7 @@
 	"page.bots.theme.useCustomColor.details": "This will let you set a custom accent colour for your bot's page.",
 	"page.bots.theme.color": "Custom Accent Colour",
 	"page.bots.theme.color.details": "Overrides the user's global accent colour",
-	"page.bots.theme.bannerURL": "Banner URL",
+	"page.bots.theme.bannerURL": "URL של הבאנר",
 	"page.bots.shortDesc": "תיאור קצר לבוט",
 	"page.bots.shortDesc.placeholder": "I'm an amazing bot that can do this and that and human-cyborg relations and yeah kthx invite me",
 	"page.bots.longDesc": "תיאור ארוך לבוט",
