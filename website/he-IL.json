@@ -377,7 +377,6 @@
 	"page.bots.git": "קוד מקור הבוט",
 	"page.bots.git.view": "קוד מקור",
 	"page.bots.privacyPolicy": "Bot Privacy Policy",
-	"page.bots.privacyPolicy.optional": "This is currently optional but will be required starting %s August due to Discord's Developer ToS",
 	"page.bots.privacyPolicy.required": "This is required as per Discord's Developer ToS, you may input a command or a URL.",
 	"page.bots.theme.useCustomColor": "Use Custom Accent Colour",
 	"page.bots.theme.useCustomColor.details": "This will let you set a custom accent colour for your bot's page.",
