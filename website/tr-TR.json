@@ -377,7 +377,6 @@
 	"page.bots.git": "Bot Kaynak Kodu",
 	"page.bots.git.view": "Kaynak Kodu",
 	"page.bots.privacyPolicy": "Bot Gizlilik Politikası",
-	"page.bots.privacyPolicy.optional": "Bu şu anda isteğe bağlıdır ancak Discord'un Geliştirici Hizmet Şartları nedeniyle %s Ağustos'tan itibaren gerekli olacaktır",
 	"page.bots.privacyPolicy.required": "Bu, Discord'un Geliştirici Hizmet Şartları'na göre gereklidir, bir komut veya URL girebilirsiniz.",
 	"page.bots.theme.useCustomColor": "Özel Vurgu Rengi Kullan",
 	"page.bots.theme.useCustomColor.details": "Bu, botunuzun sayfası için özel bir vurgu rengi ayarlamanıza olanak tanır.",

@@ -377,7 +377,6 @@
 	"page.bots.git": "Código fuente del bot",
 	"page.bots.git.view": "Código fuente",
 	"page.bots.privacyPolicy": "Política de privacidad del bot",
-	"page.bots.privacyPolicy.optional": "Esto es actualmente opcional pero se requerirá a partir de %s Agosto debido a los ToS de desarrollador de Discord",
 	"page.bots.privacyPolicy.required": "This is required as per Discord's Developer ToS, you may input a command or a URL.",
 	"page.bots.theme.useCustomColor": "Usar color de acento personalizado",
 	"page.bots.theme.useCustomColor.details": "Esto le permitirá establecer un color de acento personalizado para la página de su bot.",
