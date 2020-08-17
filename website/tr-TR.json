@@ -120,6 +120,7 @@
 	"common.error.listing.arr.shortDescRequired": "Kısa bir açıklama yazmanız gerekiyor.",
 	"common.error.listing.arr.longDescRequired": "Uzun bir açıklama yazmanız gerekiyor.",
 	"common.error.listing.arr.prefixRequired": "Geçerli ve hali hazırda kullanıma açık bir bot öneki gerekli.",
+	"common.error.listing.arr.privacyPolicyRequired": "A privacy policy is required.",
 	"common.error.listing.arr.notAtMinChars": "Botunuzun uzun açıklamasında en az %s karakter bulunmalıdır.\n",
 	"common.error.listing.arr.inviteHasAdmin": "Sağladığınız bot daveti Yönetici iznini içermekte. Lütfen sadece uygun yetkilendirmeleri tercih edin.",
 	"common.error.listing.arr.widgetbot.serverButNotChannel": "Bir WidgetBot sunucu ID'si sağladınız ancak bir kanal ID'si sağlamadınız, lütfen ikisini de sağlayın!",
