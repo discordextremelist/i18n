@@ -377,7 +377,6 @@
 	"page.bots.git": "Code Source du Bot",
 	"page.bots.git.view": "Code Source",
 	"page.bots.privacyPolicy": "Politiques de Confidentialité du Bot",
-	"page.bots.privacyPolicy.optional": "Ceci est actuellement optionnel mais sera obligatoire à partir du %s d'août en raison des CGU de Discord Développeur",
 	"page.bots.privacyPolicy.required": "Ceci est nécessaire selon le CGU développeur de Discord, vous pouvez entrer une commande ou une URL.",
 	"page.bots.theme.useCustomColor": "Utiliser une Couleur d'Accentuation Personnalisée",
 	"page.bots.theme.useCustomColor.details": "Cela vous permettra de définir une couleur d'accentuation personnalisée pour la page de votre bot.",
