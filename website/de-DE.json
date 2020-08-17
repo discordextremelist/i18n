@@ -120,6 +120,7 @@
 	"common.error.listing.arr.shortDescRequired": "Eine kurze Beschreibung wird benötigt.",
 	"common.error.listing.arr.longDescRequired": "Eine lange Beschreibung ist erforderlich.",
 	"common.error.listing.arr.prefixRequired": "Ein gültiges Bot-Prefix ist erforderlich.",
+	"common.error.listing.arr.privacyPolicyRequired": "A privacy policy is required.",
 	"common.error.listing.arr.notAtMinChars": "Deine lange Bot Beschreibung muss mindestens aus %s Zeichen bestehen.",
 	"common.error.listing.arr.inviteHasAdmin": "Die Einladung ihres Bots verlangt Administrator Berechtigung. Bitte wähle nur die Rechte, die dein Bot wirklich benötigt.",
 	"common.error.listing.arr.widgetbot.serverButNotChannel": "Du hast eine WidgetBot Server-ID angegeben, aber keine Channel-ID, bitte gebe beides an!",

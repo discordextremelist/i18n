@@ -120,6 +120,7 @@
 	"common.error.listing.arr.shortDescRequired": "مطلوب وصف قصير",
 	"common.error.listing.arr.longDescRequired": "مطلوب وصف طويل",
 	"common.error.listing.arr.prefixRequired": "مطلوب بادئة (برفكس) البوت",
+	"common.error.listing.arr.privacyPolicyRequired": "A privacy policy is required.",
 	"common.error.listing.arr.notAtMinChars": "يجب ان يحتوي الوصف الطويل علي احرف علي الاقل",
 	"common.error.listing.arr.inviteHasAdmin": "تمنح دعوة الروبوت التي قدمتها أذونات مسؤول برنامج الروبوت الخاص بك ، يرجى تحديد الأذونات التي يحتاجها برنامج الروبوت الخاص بك فقط.",
 	"common.error.listing.arr.widgetbot.serverButNotChannel": "You provided a WidgetBot server ID but not a channel ID, please provide both!",

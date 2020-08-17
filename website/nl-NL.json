@@ -120,6 +120,7 @@
 	"common.error.listing.arr.shortDescRequired": "Een beschrijving is verplicht.",
 	"common.error.listing.arr.longDescRequired": "Een lange beschrijving is vereist.",
 	"common.error.listing.arr.prefixRequired": "Een geldig prefix is vereist.",
+	"common.error.listing.arr.privacyPolicyRequired": "A privacy policy is required.",
 	"common.error.listing.arr.notAtMinChars": "Je bot's lange beschrijving moet minimaal %s karakters hebben.",
 	"common.error.listing.arr.inviteHasAdmin": "De botuitnodiging die u heeft verstrekt, verleent uw bot beheerdersrechten. Selecteer alleen de rechten die uw bot nodig heeft.",
 	"common.error.listing.arr.widgetbot.serverButNotChannel": "You provided a WidgetBot server ID but not a channel ID, please provide both!",

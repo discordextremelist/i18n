@@ -120,6 +120,7 @@
 	"common.error.listing.arr.shortDescRequired": "דרוש תיאור קצר.",
 	"common.error.listing.arr.longDescRequired": "נדרש תיאור ארוך.",
 	"common.error.listing.arr.prefixRequired": "נדרש קידומת בוט עובדת.",
+	"common.error.listing.arr.privacyPolicyRequired": "A privacy policy is required.",
 	"common.error.listing.arr.notAtMinChars": "Your bot's long description must have at least %s characters.",
 	"common.error.listing.arr.inviteHasAdmin": "The bot invite you provided grants your bot Administrator permissions, please select only the permissions your bot needs.",
 	"common.error.listing.arr.widgetbot.serverButNotChannel": "You provided a WidgetBot server ID but not a channel ID, please provide both!",
