@@ -121,7 +121,7 @@
 	"common.error.listing.arr.longDescRequired": "Uzun bir açıklama yazmanız gerekiyor.",
 	"common.error.listing.arr.prefixRequired": "Geçerli ve hali hazırda kullanıma açık bir bot öneki gerekli.",
 	"common.error.listing.arr.privacyPolicyRequired": "Bot sayfalarında bir gizlilik politikası gereklidir.",
-	"common.error.listing.arr.privacyPolicy.placeholder": "You must put the privacy policy URL or command for your bot's privacy policy, not the placeholder link (discord.bot/privacy).",
+	"common.error.listing.arr.privacyPolicy.placeholder": "Botunuzun gizlilik politikası için gizlilik politikası URL'sini veya komutunu, yer tutucu bağlantı (discord.bot/privacy) yerine koymalısınız.",
 	"common.error.listing.arr.privacyPolicy.discord": "You must put the privacy policy URL or command for your bot's privacy policy, not Discord's privacy policy (discord.com/privacy).",
 	"common.error.listing.arr.privacyPolicy.yardim": "You must put the privacy policy URL or command for your bot's privacy policy, not !yardım.",
 	"common.error.listing.arr.notAtMinChars": "Botunuzun uzun açıklamasında en az %s karakter bulunmalıdır.\n",
