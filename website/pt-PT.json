@@ -120,7 +120,7 @@
 	"common.error.listing.arr.shortDescRequired": "Uma breve descrição é necessária.",
 	"common.error.listing.arr.longDescRequired": "Uma descrição longa é necessária.",
 	"common.error.listing.arr.prefixRequired": "Um prefixo de bot válido é necessário.",
-	"common.error.listing.arr.privacyPolicyRequired": "A privacy policy is required.",
+	"common.error.listing.arr.privacyPolicyRequired": "Uma política de privacidade é necessária.",
 	"common.error.listing.arr.privacyPolicy.placeholder": "You must put the privacy policy URL or command for your bot's privacy policy, not the placeholder link (discord.bot/privacy).",
 	"common.error.listing.arr.privacyPolicy.discord": "You must put the privacy policy URL or command for your bot's privacy policy, not Discord's privacy policy (discord.com/privacy).",
 	"common.error.listing.arr.privacyPolicy.yardim": "You must put the privacy policy URL or command for your bot's privacy policy, not !yardım.",
