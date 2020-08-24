@@ -1,4 +1,5 @@
 # i18n
+[![Crowdin](https://badges.crowdin.net/delly/localized.svg)](https://translate.discordextremelist.xyz/project/delly)  
 Contains the language files for [Discord Extreme List](https://discordextremelist.xyz).
 
 ## How to join the program
