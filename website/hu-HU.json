@@ -468,6 +468,8 @@
 	"page.remove.premadeReasons.cantContactOwner": "Can't Contact Owner",
 	"page.remove.premadeReasons.invalidPrivacyPolicy": "Invalid Privacy Policy",
 	"page.remove.premadeReasons.offline": "Offline",
+	"page.remove.premadeReasons.notLGBT": "Not an LGBT server",
+	"page.remove.premadeReasons.invalidInvite": "Invalid Invite",
 	"page.remove.premadeReasons.shitBot": "Szar Bot",
 	"page.remove.bots.placeholder": "Adj meg egy egyéni indokot arra, hogy miért utasítja el ezt a botot vagy használod az alábbi sablon indokat.",
 	"page.remove.servers.placeholder": "Adj meg egy egyéni indokot arra, hogy miért távolítja el ezt a szervert vagy használd az alábbi sablon indokat.",
