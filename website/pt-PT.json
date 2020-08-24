@@ -468,6 +468,8 @@
 	"page.remove.premadeReasons.cantContactOwner": "Can't Contact Owner",
 	"page.remove.premadeReasons.invalidPrivacyPolicy": "Invalid Privacy Policy",
 	"page.remove.premadeReasons.offline": "Offline",
+	"page.remove.premadeReasons.notLGBT": "Not an LGBT server",
+	"page.remove.premadeReasons.invalidInvite": "Invalid Invite",
 	"page.remove.premadeReasons.shitBot": "Porcaria de Bot",
 	"page.remove.bots.placeholder": "Insira uma razão personalizada para justificar o motivo da remoção deste bot ou use uma razão predefinida abaixo.",
 	"page.remove.servers.placeholder": "Insira uma razão personalizada para justificar o motivo da remoção deste servidor ou use uma razão predefinida abaixo.",
