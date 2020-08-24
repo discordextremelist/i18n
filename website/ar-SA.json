@@ -468,6 +468,8 @@
 	"page.remove.premadeReasons.cantContactOwner": "Can't Contact Owner",
 	"page.remove.premadeReasons.invalidPrivacyPolicy": "Invalid Privacy Policy",
 	"page.remove.premadeReasons.offline": "Offline",
+	"page.remove.premadeReasons.notLGBT": "Not an LGBT server",
+	"page.remove.premadeReasons.invalidInvite": "Invalid Invite",
 	"page.remove.premadeReasons.shitBot": "شيت بوت",
 	"page.remove.bots.placeholder": "أدخل سببًا مخصصًا لسبب إزالة هذا البوت أو استخدام سبب نموذج أدناه.",
 	"page.remove.servers.placeholder": "أدخل سببًا مخصصًا لسبب إزالة هذا السيرفر أو استخدام سبب نموذج أدناه.",
