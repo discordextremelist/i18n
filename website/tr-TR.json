@@ -1,7 +1,7 @@
 {
 	"common.del": "Discord Extreme List",
 	"common.del.subtitle": "Discord'un tarafsız Bot Listesi , Botunuz ve sizin için oldukça büyük bir şans!",
-	"common.dateFormat": "{{hours}}.{{minutes}} {{dateInMonth}}/{{monthNumber}}/{{year}} UTC",
+	"common.dateFormat": "{{hours}}.{{minutes}} {{dateInMonth}}.{{monthNumber}}.{{year}} UTC",
 	"common.dateFormat.am": "Öğleden Önce",
 	"common.dateFormat.pm": "Öğleden Sonra",
 	"common.theme.black": "Siyah (Varsayılan)",
