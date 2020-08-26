@@ -1,7 +1,7 @@
 {
 	"common.del": "Discord Extreme List",
 	"common.del.subtitle": "सभी तरह के बॉट और सर्वर को एक बड़ा मौका देते हुए, Discord कि निष्पक्ष सूचि |",
-	"common.dateFormat": "{{hours}}.{{minutes}} {{dateInMonth}}.{{monthNumber}}.{{year}} UTC",
+	"common.dateFormat": "{{hours}}:{{minutes}} {{dateInMonth}}/{{monthNumber}}/{{year}} UTC",
 	"common.dateFormat.am": "AM",
 	"common.dateFormat.pm": "PM",
 	"common.theme.black": "काला (Default)",

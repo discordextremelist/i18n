@@ -1,7 +1,7 @@
 {
 	"common.del": "Discord Extreme List",
 	"common.del.subtitle": "List Discord tidak ber-bias, memberikan bot dan server peluang yang sama!",
-	"common.dateFormat": "{{hours}}.{{minutes}} {{dateInMonth}}.{{monthNumber}}.{{year}} UTC",
+	"common.dateFormat": "{{hours}}:{{minutes}} {{dateInMonth}}/{{monthNumber}}/{{year}} UTC",
 	"common.dateFormat.am": "AM",
 	"common.dateFormat.pm": "PM",
 	"common.theme.black": "Black (Default)",

@@ -1,7 +1,7 @@
 {
 	"common.del": "דיסקורד רשימת אקסטרים",
 	"common.del.subtitle": "הרשימה הבלתי משוחדת של דיסקורד, נותנת הזדמנות שווה לשרתים ובוטים בכל הגדלים!",
-	"common.dateFormat": "{{hours}}.{{minutes}} {{dateInMonth}}.{{monthNumber}}.{{year}} UTC",
+	"common.dateFormat": "{{hours}}:{{minutes}} {{dateInMonth}}/{{monthNumber}}/{{year}} UTC",
 	"common.dateFormat.am": "בבוקר",
 	"common.dateFormat.pm": "אחרי הבוקר",
 	"common.theme.black": "שחור (ברירת מחדל)",
