@@ -1,7 +1,7 @@
 {
 	"common.del": "Discord Extreme Listi",
 	"common.del.subtitle": "Óhlutdrægur listi Discord, sem gefur vélum og netþjónum af öllum stærðum stór tækifæri!",
-	"common.dateFormat": "{{hours}}.{{minutes}} {{dateInMonth}}.{{monthNumber}}.{{year}} UTC",
+	"common.dateFormat": "{{hours}}:{{minutes}} {{dateInMonth}}/{{monthNumber}}/{{year}} UTC",
 	"common.dateFormat.am": "AM",
 	"common.dateFormat.pm": "PM",
 	"common.theme.black": "Black (Default)",
