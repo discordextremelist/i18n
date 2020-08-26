@@ -1,7 +1,7 @@
 {
 	"common.del": "Discord Extrem Lista",
 	"common.del.subtitle": "Discords opartiska lista, ger alla bots och servrar en stor chans!",
-	"common.dateFormat": "{{hours}}:{{minutes}} {{dateInMonth}}/{{monthNumber}}/{{year}} UTC",
+	"common.dateFormat": "{{hours}}.{{minutes}} {{dateInMonth}}/{{monthNumber}}/{{year}} UTC",
 	"common.dateFormat.am": "Förmiddag",
 	"common.dateFormat.pm": "Eftermiddag",
 	"common.theme.black": "Black (Default)",
