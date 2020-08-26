@@ -1,7 +1,7 @@
 {
 	"common.del": "قائمة الديسكورد المثالية",
 	"common.del.subtitle": "قائمة الديسكورد الغير متحيزه, تعطي البوتات و السيرفرات بكل الاحجام فرصة كبيرة.",
-	"common.dateFormat": "{{hours}}.{{minutes}} {{dateInMonth}}.{{monthNumber}}.{{year}} UTC",
+	"common.dateFormat": "{{minutes}}:{{hours}} {{dateInMonth}}/{{monthNumber}}/{{year}} التوقيت العالمي",
 	"common.dateFormat.am": "صباحا",
 	"common.dateFormat.pm": "مساء",
 	"common.theme.black": "الاسود (الافتراضي)",
