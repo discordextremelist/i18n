@@ -1,7 +1,7 @@
 {
 	"common.del": "Discord Extreme List",
 	"common.del.subtitle": "La liste impartiale de Discord, qui donne une grande chance aux bots et aux serveurs de toutes tailles !",
-	"common.dateFormat": "{{hours}}.{{minutes}} {{dateInMonth}}.{{monthNumber}}.{{year}} UTC",
+	"common.dateFormat": "{{hours}}:{{minutes}} {{dateInMonth}}/{{monthNumber}}/{{year}} UTC",
 	"common.dateFormat.am": "du matin",
 	"common.dateFormat.pm": "de l'après midi",
 	"common.theme.black": "Noir (Par défaut)",
