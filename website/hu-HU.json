@@ -1,7 +1,7 @@
 {
 	"common.del": "Discord Extreme List",
 	"common.del.subtitle": "Discord-nak elfogulatlan listája, megadja a botoknak és a szervereknek a nagy lehetőséget!",
-	"common.dateFormat": "{{hours}}:{{minutes}} {{dateInMonth}}/{{monthNumber}}/{{year}} UTC",
+	"common.dateFormat": "{{hours}}.{{minutes}} {{dateInMonth}}/{{monthNumber}}/{{year}} UTC",
 	"common.dateFormat.am": "DE",
 	"common.dateFormat.pm": "DU",
 	"common.theme.black": "Fekete (Alapértelemezett)",
