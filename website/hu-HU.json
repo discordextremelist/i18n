@@ -136,6 +136,7 @@
 	"common.error.listing.arr.widgetbot.serverID.invalid": "Te egy érvénytelen WidgetBot szerver ID-t adtál meg.",
 	"common.error.listing.arr.widgetbot.serverID.tooLong": "A WidgetBot szerver ID-je nem lehet hosszabb mint 32 karakternél.",
 	"common.error.listing.arr.widgetbot.serverID.nonexistent": "Te egy megadtál egy WidgetBot szerver ID-t ami nem is egy szerver Discord-on.",
+	"common.error.listing.arr.removeYourselfEditor": "You do not need to add yourself as an editor as you are the owner, please remove your ID from the Editors input.",
 	"common.error.server.notInQueue": "Te nem fogadhatod el ezt a botot mert ez a bot nincs a várólistán.",
 	"common.error.server.conflict": "Ez a szerver már szerepel a listán.",
 	"common.error.server.arr.invite.dgg": "A meghívási kódban nem szerepelhet a discord.gg",
