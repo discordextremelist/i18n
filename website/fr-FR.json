@@ -136,6 +136,7 @@
 	"common.error.listing.arr.widgetbot.serverID.invalid": "Vous avez fourni un ID de serveur WidgetBot non valide.",
 	"common.error.listing.arr.widgetbot.serverID.tooLong": "L'ID du serveur WidgetBot ne peut pas dépasser 32 caractères.",
 	"common.error.listing.arr.widgetbot.serverID.nonexistent": "Vous avez fourni un ID de serveur WidgetBot qui n'est pas un serveur réel sur Discord.",
+	"common.error.listing.arr.removeYourselfEditor": "You do not need to add yourself as an editor as you are the owner, please remove your ID from the Editors input.",
 	"common.error.server.notInQueue": "Vous ne pouvez pas refuser un serveur qui n'est pas dans la file d'attente.",
 	"common.error.server.conflict": "Ce serveur a déjà été ajouté à la liste.",
 	"common.error.server.arr.invite.dgg": "Le code d'invitation ne peut pas contenir discord.gg",
