@@ -333,7 +333,7 @@
 	"partials.verificationLevel.1.title": "Must have a verified email on account.",
 	"partials.verificationLevel.1.name": "🟢低",
 	"partials.verificationLevel.2.title": "Must be registered on Discord for longer than 5 minutes.",
-	"partials.verificationLevel.2.name": "🟡 Medium",
+	"partials.verificationLevel.2.name": "🟡 中",
 	"partials.verificationLevel.3.title": "(╯°□°）╯︵ ┻━┻ - Must be a member of the server for longer than 10 minutes.",
 	"partials.verificationLevel.3.name": "🟠 高",
 	"partials.verificationLevel.4.title": "┻━┻ ミヽ(ಠ 益 ಠ)ﾉ彡 ┻━┻ - 你必须有一个验证的电话号码。",
