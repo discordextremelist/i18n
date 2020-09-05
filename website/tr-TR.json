@@ -136,7 +136,7 @@
 	"common.error.listing.arr.widgetbot.serverID.invalid": "Geçersiz bir WidgetBot sunucu ID'si girdiniz.",
 	"common.error.listing.arr.widgetbot.serverID.tooLong": "WidgetBot sunucu ID'si 32 karakterden uzun olamaz.\n",
 	"common.error.listing.arr.widgetbot.serverID.nonexistent": "Discord'da gerçek bir sunucu olmayan bir WidgetBot sunucu ID'si sağladınız.",
-	"common.error.listing.arr.removeYourselfEditor": "You do not need to add yourself as an editor as you are the owner, please remove your ID from the Editors input.",
+	"common.error.listing.arr.removeYourselfEditor": "Sahip olduğunuz için kendinizi Editör olarak eklemenize gerek yoktur, lütfen ID'nizi Editörler girişinden kaldırın.",
 	"common.error.server.notInQueue": "Kuyrukta olmayan bir sunucuyu onaylayamaz veya reddedemezsiniz.",
 	"common.error.server.conflict": "Ah lanet! Bu sunucu zaten listeye eklenmiş!?",
 	"common.error.server.arr.invite.dgg": "Davet bağlantısı/kodu discord.gg içermemeli.",
