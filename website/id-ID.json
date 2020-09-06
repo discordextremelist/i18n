@@ -15,6 +15,8 @@
 	"common.bots.discord": "Bot Discord",
 	"common.bots.random": "Bot Random",
 	"common.bots.subtitle": "Our full list of Discord bots. All of the bots listed here have been approved by our moderation team to ensure that they are high quality.",
+	"common.bots.filter.subtitle": "Select one of the tags below to only show bots that have that tag.",
+	"common.filter": "Filter",
 	"common.servers": "Server",
 	"common.servers.all": "All Servers",
 	"common.servers.discord": "Server Discord",
