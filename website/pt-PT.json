@@ -24,7 +24,7 @@
 	"common.bots.subtitle.filter.music": "Mostrando bots etiquetados com 'Música'.",
 	"common.bots.filter.subtitle": "Selecione uma das etiquetas abaixo para apenas mostrar os bots que tenham essa etiqueta.",
 	"common.filter": "Filtro",
-	"common.filter.clear": "Clear Filter",
+	"common.filter.clear": "Limpar filtro",
 	"common.servers": "Servidores",
 	"common.servers.all": "Todos os Servidores",
 	"common.servers.discord": "Servidores de Discord",
