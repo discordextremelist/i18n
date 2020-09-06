@@ -24,6 +24,7 @@
 	"common.bots.subtitle.filter.music": "Showing bots tagged with 'Music'.",
 	"common.bots.filter.subtitle": "Select one of the tags below to only show bots that have that tag.",
 	"common.filter": "Filter",
+	"common.filter.clear": "Clear Filter",
 	"common.servers": "السيرفرات (الخوادم)",
 	"common.servers.all": "جميع السيرفرات (الخوادم)",
 	"common.servers.discord": "سيرفرات (خوادم) الديسكورد",
