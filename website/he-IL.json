@@ -354,6 +354,7 @@
 	"page.error.critical": "אירעה שגיאה קריטית.",
 	"page.snake.highscore": "ניקוד גבוה:",
 	"page.snake.score": "ציון:",
+	"page.snake.lastScore": "Last Score:",
 	"page.snake.emptiness": "ריקנות כזאת..",
 	"page.snake.desktopOnly": "אין משחק נחש עבור המשתמש הנייד שלך",
 	"page.about.history": "היסטוריה",
