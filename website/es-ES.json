@@ -354,6 +354,7 @@
 	"page.error.critical": "Ha ocurrido un error crítico.",
 	"page.snake.highscore": "Puntuación más alta:",
 	"page.snake.score": "Puntuación:",
+	"page.snake.lastScore": "Last Score:",
 	"page.snake.emptiness": "demasiado vacío..",
 	"page.snake.desktopOnly": "no hay juego de serpientes para tu usuario móvil",
 	"page.about.history": "Historial",
