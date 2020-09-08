@@ -354,6 +354,7 @@
 	"page.error.critical": "Egy kritikus hiba történt.",
 	"page.snake.highscore": "Magas Pontszám:",
 	"page.snake.score": "Pontszám:",
+	"page.snake.lastScore": "Last Score:",
 	"page.snake.emptiness": "olyan üres itt..",
 	"page.snake.desktopOnly": "nincs kígyó játék neked te mobil felhasználó",
 	"page.about.history": "Előzmény",
