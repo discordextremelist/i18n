@@ -354,6 +354,7 @@
 	"page.error.critical": "حدث خطأ فادح.",
 	"page.snake.highscore": "درجة عالية:",
 	"page.snake.score": "درجة:",
+	"page.snake.lastScore": "Last Score:",
 	"page.snake.emptiness": "مثل هذا الفراغ ..",
 	"page.snake.desktopOnly": "لا لعبة الثعبان لمستخدم الجوال الخاص بك",
 	"page.about.history": "التاريخ",
