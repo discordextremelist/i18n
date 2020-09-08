@@ -354,6 +354,7 @@
 	"page.error.critical": "Kritik bir hata oluştu.",
 	"page.snake.highscore": "Yüksek Skor:",
 	"page.snake.score": "Skor:",
+	"page.snake.lastScore": "Last Score:",
 	"page.snake.emptiness": "Böyle bir boşluk..",
 	"page.snake.desktopOnly": "Mobil kullanıcılar için yılan oyunu yok.",
 	"page.about.history": "Tarih",
