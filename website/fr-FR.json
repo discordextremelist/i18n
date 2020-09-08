@@ -23,6 +23,7 @@
 	"common.bots.subtitle.filter.multipurpose": "Affiche les bots avec le tag 'Multifonctions'.",
 	"common.bots.subtitle.filter.music": "Affiche les bots avec le tag 'Musique'.",
 	"common.bots.filter.subtitle": "Sélection un tag ci-dessous pour n'afficher que les bots ayant ce(s) tag(s).",
+	"common.bots.filter.clear": "Réinitialiser les filtres",
 	"common.filter": "Filtre",
 	"common.filter.clear": "Réinitialiser les filtres",
 	"common.servers": "Serveurs",
