@@ -23,6 +23,7 @@
 	"common.bots.subtitle.filter.multipurpose": "Mostrando bots etiquetados con 'Multipropósitos'.",
 	"common.bots.subtitle.filter.music": "Mostrando bots etiquetados con 'Música'.",
 	"common.bots.filter.subtitle": "Seleccione una de las etiquetas a continuación para mostrar solo los bots que tienen esa etiqueta.",
+	"common.bots.filter.clear": "Clear Filter",
 	"common.filter": "Filtro",
 	"common.filter.clear": "Clear Filter",
 	"common.servers": "Servidores",
