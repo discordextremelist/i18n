@@ -354,6 +354,7 @@
 	"page.error.critical": "Une erreur critique est survenue.",
 	"page.snake.highscore": "Meilleur Score :",
 	"page.snake.score": "Score :",
+	"page.snake.lastScore": "Last Score:",
 	"page.snake.emptiness": "tant de vide...",
 	"page.snake.desktopOnly": "pas de jeu snake pour toi utilisateur de mobile",
 	"page.about.history": "Histoire",
