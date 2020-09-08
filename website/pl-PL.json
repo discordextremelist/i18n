@@ -354,6 +354,7 @@
 	"page.error.critical": "A critical error has occurred.",
 	"page.snake.highscore": "High Score:",
 	"page.snake.score": "Wynik:",
+	"page.snake.lastScore": "Last Score:",
 	"page.snake.emptiness": "taka pustka..",
 	"page.snake.desktopOnly": "no snake game for you mobile user",
 	"page.about.history": "Historia",
