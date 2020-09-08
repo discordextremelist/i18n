@@ -354,6 +354,7 @@
 	"page.error.critical": "Ein kritischer Fehler ist aufgetreten.",
 	"page.snake.highscore": "Höchstpunktzahl:",
 	"page.snake.score": "Punktzahl:",
+	"page.snake.lastScore": "Last Score:",
 	"page.snake.emptiness": "solche leere..",
 	"page.snake.desktopOnly": "kein snake spiel für dich handynutzer",
 	"page.about.history": "Geschichte",

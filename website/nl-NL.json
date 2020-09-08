@@ -354,6 +354,7 @@
 	"page.error.critical": "Er is een kritieke fout opgetreden.",
 	"page.snake.highscore": "Hoogste score:",
 	"page.snake.score": "Score:",
+	"page.snake.lastScore": "Last Score:",
 	"page.snake.emptiness": "zo'n leegte..",
 	"page.snake.desktopOnly": "geen snake-game voor je mobiele gebruiker",
 	"page.about.history": "Geschiedenis",

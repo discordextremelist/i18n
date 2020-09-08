@@ -354,6 +354,7 @@
 	"page.error.critical": "Ocorreu um erro crítico.",
 	"page.snake.highscore": "Recorde:",
 	"page.snake.score": "Pontuação:",
+	"page.snake.lastScore": "Last Score:",
 	"page.snake.emptiness": "que vazio...",
 	"page.snake.desktopOnly": "não há jogo da cobra para utilizadores móveis",
 	"page.about.history": "História",

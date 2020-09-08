@@ -354,6 +354,7 @@
 	"page.error.critical": "A critical error has occurred.",
 	"page.snake.highscore": "高分:",
 	"page.snake.score": "Score:",
+	"page.snake.lastScore": "Last Score:",
 	"page.snake.emptiness": "such emptiness..",
 	"page.snake.desktopOnly": "no snake game for you mobile user",
 	"page.about.history": "History",
