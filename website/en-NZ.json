@@ -474,6 +474,7 @@
 	"page.templates.otherInfo": "Other Information",
 	"page.templates.otherInfo.region": "Region:",
 	"page.templates.otherInfo.afkTimeout": "AFK Timeout:",
+	"page.remove.customReason": "Custom Reason",
 	"page.remove.premadeReasons": "Premade Reasons",
 	"page.remove.premadeReasons.tokenLeak": "Token Leak",
 	"page.remove.premadeReasons.appDeleted": "Discord Application Deleted",
