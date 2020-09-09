@@ -489,6 +489,7 @@
 	"page.remove.premadeReasons.offline": "Offline",
 	"page.remove.premadeReasons.notLGBT": "Not an LGBT server",
 	"page.remove.premadeReasons.invalidInvite": "Invalid Invite",
+	"page.remove.premadeReasons.invalidDesc": "Invalid Description",
 	"page.remove.premadeReasons.shitBot": "בוט חרא",
 	"page.remove.bots.placeholder": "Input a custom reason as to why you are removing this bot or use a template reason below.",
 	"page.remove.servers.placeholder": "הזן סיבה מותאמת אישית למה אתה מסיר את השרת הזה או השתמש בסיבת תבנית למטה.",
