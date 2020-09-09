@@ -489,6 +489,7 @@
 	"page.remove.premadeReasons.offline": "Offline",
 	"page.remove.premadeReasons.notLGBT": "Kein LGBT-Server",
 	"page.remove.premadeReasons.invalidInvite": "Ungültige Einladung",
+	"page.remove.premadeReasons.invalidDesc": "Invalid Description",
 	"page.remove.premadeReasons.shitBot": "Schlechter Bot",
 	"page.remove.bots.placeholder": "Gebe einen beliebigen Grund ein, warum du diesen Bot entfernen möchtest oder nutze eine Vorlage von unten.",
 	"page.remove.servers.placeholder": "Gebe einen eigenen oder vorgefertigten Grund ein, wieso du diesen Server ablehnst.",
