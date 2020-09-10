@@ -84,7 +84,7 @@
 	"common.error.template.404": "Esta plantilla no existe.",
 	"common.error.user.404": "Esta usuario no existe.",
 	"common.error.notMember": "Debes estar en nuestro servidor Discord para acceder a esta página",
-	"common.error.failedJoin": "Tus cambios no han sido guardados debido que no hemos podido unirte a nuestro servidor, por favor unete manualmente pulsando {{a}}aquí{{ea}}.",
+	"common.error.failedJoin": "Tus cambios no han sido guardados debido que no hemos podido unirte a nuestro servidor, por favor únete manualmente pulsando {{a}}aquí{{ea}}.",
 	"common.error.notMod": "el laberinto no era para ti",
 	"common.error.notAssistant": "el laberinto no era para ti",
 	"common.error.notAdmin": "el laberinto no era para ti",
