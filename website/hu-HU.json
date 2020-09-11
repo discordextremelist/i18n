@@ -481,7 +481,7 @@
 	"page.remove.customReason": "Custom Reason",
 	"page.remove.premadeReasons": "Előre elkészített indokok",
 	"page.remove.premadeReasons.tokenLeak": "Token leak",
-	"page.remove.premadeReasons.appDeleted": "Discord Application Deleted",
+	"page.remove.premadeReasons.discontinued": "Owner Discontinuted Bot",
 	"page.remove.premadeReasons.clone": "Klón [...]-ből",
 	"page.remove.premadeReasons.fixRefusal": "Megtagadja hogy kijavítsa a problémákat",
 	"page.remove.premadeReasons.fixNoResponse": "Nincs válasz",

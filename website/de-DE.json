@@ -481,7 +481,7 @@
 	"page.remove.customReason": "Custom Reason",
 	"page.remove.premadeReasons": "Vorgefertigte Gründe",
 	"page.remove.premadeReasons.tokenLeak": "Token Leak",
-	"page.remove.premadeReasons.appDeleted": "Discord Application Deleted",
+	"page.remove.premadeReasons.discontinued": "Owner Discontinuted Bot",
 	"page.remove.premadeReasons.clone": "Klon von [...]",
 	"page.remove.premadeReasons.fixRefusal": "Weigerung, Probleme zu beheben",
 	"page.remove.premadeReasons.fixNoResponse": "Keine Antwort",

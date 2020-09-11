@@ -481,7 +481,7 @@
 	"page.remove.customReason": "Özel Neden",
 	"page.remove.premadeReasons": "Önceden Yapılmış Nedenler",
 	"page.remove.premadeReasons.tokenLeak": "Token Sızıntısı",
-	"page.remove.premadeReasons.appDeleted": "Discord Aplikasyonu Silinmiş",
+	"page.remove.premadeReasons.discontinued": "Owner Discontinuted Bot",
 	"page.remove.premadeReasons.clone": "[...]'nın Klonu",
 	"page.remove.premadeReasons.fixRefusal": "Sorunları Düzeltmeyi Reddetme",
 	"page.remove.premadeReasons.fixNoResponse": "Yanıt Yok",
