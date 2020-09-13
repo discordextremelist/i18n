@@ -499,7 +499,7 @@
 	"page.remove.premadeReasons.invalidDesc": "Description Invalide",
 	"page.remove.premadeReasons.shitBot": "Bot de Merde",
 	"page.remove.premadeReasons.notFixed": "Non Fixé",
-	"page.remove.premadeReasons.custom": "Personnalisée",
+	"page.remove.premadeReasons.other": "Autre",
 	"page.remove.bots.placeholder": "Saisissez une raison personnalisée pour laquelle vous retirez ce bot ou utilisez un modèle de raison ci-dessous.",
 	"page.remove.servers.placeholder": "Saisissez une raison personnalisée pour laquelle vous retirez ce serveur ou utilisez un modèle de raison ci-dessous.",
 	"page.remove.templates.placeholder": "Saisissez une raison personnalisée pour laquelle vous retirez ce modèle ou utilisez un modèle de raison ci-dessous.",
