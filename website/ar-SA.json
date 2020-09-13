@@ -499,7 +499,7 @@
 	"page.remove.premadeReasons.invalidDesc": "Invalid Description",
 	"page.remove.premadeReasons.shitBot": "شيت بوت",
 	"page.remove.premadeReasons.notFixed": "Not Fixed",
-	"page.remove.premadeReasons.custom": "مخصص",
+	"page.remove.premadeReasons.other": "اخري",
 	"page.remove.bots.placeholder": "أدخل سببًا مخصصًا لسبب إزالة هذا البوت أو استخدام سبب نموذج أدناه.",
 	"page.remove.servers.placeholder": "أدخل سببًا مخصصًا لسبب إزالة هذا السيرفر أو استخدام سبب نموذج أدناه.",
 	"page.remove.templates.placeholder": "أدخل سببًا مخصصًا لسبب إزالة هذا القالب أو استخدام سبب نموذج أدناه.",
