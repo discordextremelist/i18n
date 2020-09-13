@@ -499,7 +499,7 @@
 	"page.remove.premadeReasons.invalidDesc": "Descripción Inválida",
 	"page.remove.premadeReasons.shitBot": "Bot Basura",
 	"page.remove.premadeReasons.notFixed": "Not Fixed",
-	"page.remove.premadeReasons.custom": "Customizado",
+	"page.remove.premadeReasons.other": "Otro",
 	"page.remove.bots.placeholder": "Ingrese una razón personalizada de por qué está eliminando este bot o use una razón de plantilla a continuación.",
 	"page.remove.servers.placeholder": "Ingrese una razón personalizada de por qué está eliminando este servidor o use una razón de plantilla a continuación.",
 	"page.remove.templates.placeholder": "Ingrese un motivo personalizado de por qué está eliminando esta plantilla o use un motivo de plantilla a continuación.",
