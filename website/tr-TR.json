@@ -499,7 +499,7 @@
 	"page.remove.premadeReasons.invalidDesc": "Geçersiz Açıklama",
 	"page.remove.premadeReasons.shitBot": "Shit Bot",
 	"page.remove.premadeReasons.notFixed": "Hatalar Giderilmedi",
-	"page.remove.premadeReasons.custom": "Rastgele Tercih",
+	"page.remove.premadeReasons.other": "Başka",
 	"page.remove.bots.placeholder": "Bu botu neden kaldırdığınızla ilgili özel bir neden girin veya aşağıdaki şablon nedenlerini kullanın.",
 	"page.remove.servers.placeholder": "Bu sunucuyu neden kaldırdığınızla ilgili özel bir neden girin veya aşağıdaki şablon nedenini kullanın.",
 	"page.remove.templates.placeholder": "Bu şablonu neden kaldırdığınızla ilgili özel bir neden girin veya aşağıdan bir şablon nedeni kullanın.",
