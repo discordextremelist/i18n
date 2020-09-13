@@ -499,7 +499,7 @@
 	"page.remove.premadeReasons.invalidDesc": "Invalid Description",
 	"page.remove.premadeReasons.shitBot": "בוט חרא",
 	"page.remove.premadeReasons.notFixed": "Not Fixed",
-	"page.remove.premadeReasons.custom": "מותאם אישית",
+	"page.remove.premadeReasons.other": "אחר",
 	"page.remove.bots.placeholder": "Input a custom reason as to why you are removing this bot or use a template reason below.",
 	"page.remove.servers.placeholder": "הזן סיבה מותאמת אישית למה אתה מסיר את השרת הזה או השתמש בסיבת תבנית למטה.",
 	"page.remove.templates.placeholder": "הזן סיבה מותאמת אישית למה אתה מסיר את התבנית זו או השתמש בסיבה אחת תבנית למטה.",
