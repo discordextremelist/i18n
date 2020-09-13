@@ -499,7 +499,7 @@
 	"page.remove.premadeReasons.invalidDesc": "Invalid Description",
 	"page.remove.premadeReasons.shitBot": "Szar Bot",
 	"page.remove.premadeReasons.notFixed": "Not Fixed",
-	"page.remove.premadeReasons.custom": "Saját",
+	"page.remove.premadeReasons.other": "Más",
 	"page.remove.bots.placeholder": "Adj meg egy egyéni indokot arra, hogy miért utasítja el ezt a botot vagy használod az alábbi sablon indokat.",
 	"page.remove.servers.placeholder": "Adj meg egy egyéni indokot arra, hogy miért távolítja el ezt a szervert vagy használd az alábbi sablon indokat.",
 	"page.remove.templates.placeholder": "Adj meg egy egyéni indokot arra, hogy miért távolítja el ezt a szablont vagy használd az alábbi sablon indokat.",
