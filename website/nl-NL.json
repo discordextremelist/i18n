@@ -70,6 +70,7 @@
 	"common.votes": "Stemmen",
 	"common.owner": "Eigenaar",
 	"common.listingOwner": "Vermelding Eigenaar",
+	"common.creator": "Creator",
 	"common.editor": "Bewerker",
 	"common.editors": "Editors",
 	"common.warning": "Waarschuwing!",
