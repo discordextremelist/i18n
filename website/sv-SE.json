@@ -70,6 +70,7 @@
 	"common.votes": "Röster",
 	"common.owner": "Ägare",
 	"common.listingOwner": "Listnings Ägare",
+	"common.creator": "Creator",
 	"common.editor": "Ändrare",
 	"common.editors": "Redigerare",
 	"common.warning": "Varning!",
