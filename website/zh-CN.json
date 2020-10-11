@@ -70,6 +70,7 @@
 	"common.votes": "Votes",
 	"common.owner": "Owner",
 	"common.listingOwner": "Listing Owner",
+	"common.creator": "Creator",
 	"common.editor": "Editor",
 	"common.editors": "Editors",
 	"common.warning": "警告！",
