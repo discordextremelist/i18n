@@ -70,6 +70,7 @@
 	"common.votes": "Głosy",
 	"common.owner": "Właściciel",
 	"common.listingOwner": "Listing Owner",
+	"common.creator": "Creator",
 	"common.editor": "Editor",
 	"common.editors": "Editors",
 	"common.warning": "Uwaga!",
