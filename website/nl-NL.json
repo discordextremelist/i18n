@@ -4,7 +4,7 @@
 	"common.dateFormat": "{{hours}}:{{minutes}} {{dateInMonth}}/{{monthNumber}}/{{year}} UTC",
 	"common.dateFormat.am": "AM",
 	"common.dateFormat.pm": "PM",
-	"common.theme.black": "Black (Default)",
+	"common.theme.black": "Zwart (standaard)",
 	"common.theme.dark": "Dark (Classic)",
 	"common.theme.light": "Light",
 	"common.theme.black.full": "Zwarte Thema",
