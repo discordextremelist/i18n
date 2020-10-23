@@ -631,6 +631,7 @@
 	"page.staff.manager.botStat.removed": "Kaldırıldı:",
 	"page.staff.manager.botStat.approved": "Onaylandı:",
 	"page.staff.manager.botStat.declined": "Reddedildi:",
+	"page.staff.manager.botStat.unapproved": "Unapproved:",
 	"page.staff.manager.lastLogin.time": "Son Giriş:",
 	"page.staff.manager.lastAccess.time": "Son Erişim:",
 	"page.staff.manager.lastAccess.page": "Son Sayfa:",

@@ -631,6 +631,7 @@
 	"page.staff.manager.botStat.removed": "Eltávolítva:",
 	"page.staff.manager.botStat.approved": "Elfogadva:",
 	"page.staff.manager.botStat.declined": "Elutasítva:",
+	"page.staff.manager.botStat.unapproved": "Unapproved:",
 	"page.staff.manager.lastLogin.time": "Ultolsó Belépés:",
 	"page.staff.manager.lastAccess.time": "Utoljára hozzáfért:",
 	"page.staff.manager.lastAccess.page": "Ultolsó Oldal:",

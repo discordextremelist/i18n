@@ -631,6 +631,7 @@
 	"page.staff.manager.botStat.removed": "Removed:",
 	"page.staff.manager.botStat.approved": "Approved:",
 	"page.staff.manager.botStat.declined": "Declined:",
+	"page.staff.manager.botStat.unapproved": "Unapproved:",
 	"page.staff.manager.lastLogin.time": "Last Login:",
 	"page.staff.manager.lastAccess.time": "Last Accessed:",
 	"page.staff.manager.lastAccess.page": "Last Page:",
