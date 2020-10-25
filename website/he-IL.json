@@ -546,6 +546,7 @@
 	"page.guidelines.template.listing.2": "התיאור הקצר והארוך של התבנית שלך חייב להיות קשור לתבנית שלך.",
 	"page.guidelines.template.listing.3": "אתה יכול להשתמש ב- HTML בסיסי ו- Markdown בתיאור הארוך של תבנית שלך, HTML בסיסי הוא HTML רגיל ללא יכולות עיצוב או סקריפט.",
 	"page.guidelines.template.other.0": "התבנית שלך חייבת לעמוד בתנאי השירות של הסכמה.",
+	"page.staff.home": "Staff Home",
 	"page.staff.webStats": "סטטיסטיקת האתר",
 	"page.staff.webStats.botCount": "ספירת הבוט",
 	"page.staff.webStats.botCount.unapproved": "ספירת הבוט שלא אושרה",

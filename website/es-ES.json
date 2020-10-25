@@ -546,6 +546,7 @@
 	"page.guidelines.template.listing.2": "La descripción corta y larga de su plantilla debe estar relacionada con su plantilla.",
 	"page.guidelines.template.listing.3": "Puede usar HTML básico y Markdown en la descripción larga de su plantilla, HTML básico es HTML estándar sin ninguna capacidad de estilo o secuencias de comandos.",
 	"page.guidelines.template.other.0": "Su plantilla debe seguir los Términos de servicio de Discord.",
+	"page.staff.home": "Staff Home",
 	"page.staff.webStats": "Estadísticas de la página web",
 	"page.staff.webStats.botCount": "Contador de bots",
 	"page.staff.webStats.botCount.unapproved": "Bots sin aprobación",

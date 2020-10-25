@@ -546,6 +546,7 @@
 	"page.guidelines.template.listing.2": "يجب أن يكون الوصف المختصر والطويل لقالبك مرتبطًا بقالبك.",
 	"page.guidelines.template.listing.3": "يمكنك استخدام Basic HTML و Markdown في الوصف الطويل للقالب الخاص بك ، و Basic HTML هو HTML قياسي بدون أي إمكانيات تصميم أو برمجة نصية.",
 	"page.guidelines.template.other.0": "يجب أن يتبع قالبك بنود خدمة Discord.",
+	"page.staff.home": "Staff Home",
 	"page.staff.webStats": "إحصائيات الموقع",
 	"page.staff.webStats.botCount": "عدد البوت",
 	"page.staff.webStats.botCount.unapproved": "عدد بوت غير مقبول",

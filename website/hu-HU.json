@@ -546,6 +546,7 @@
 	"page.guidelines.template.listing.2": "A te szablonnak a rövid és a hosszú leírás kapcsolatban kell lennie a szablonoddal.",
 	"page.guidelines.template.listing.3": "Te tudod használni a Basic HTML-t és a Markdown a te szablonod hosszú leírásában, Basic HTML egy alapértelmezett HTML skriptelés vagy bármi styling nélkül.",
 	"page.guidelines.template.other.0": "A szablonodnak kell hogy kövesse a Discord Szolgáltatás feltételeit.",
+	"page.staff.home": "Staff Home",
 	"page.staff.webStats": "Weboldal Statiztika",
 	"page.staff.webStats.botCount": "Bot számláló",
 	"page.staff.webStats.botCount.unapproved": "Nem ellenőrzőtt bot számláló",
