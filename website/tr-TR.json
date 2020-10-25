@@ -546,6 +546,7 @@
 	"page.guidelines.template.listing.2": "Şablonunuzun kısa ve uzun açıklaması şablonunuzla ilgili olmalıdır.",
 	"page.guidelines.template.listing.3": "Temel HTML ve Markdown'u şablonunuzun uzun açıklamasında kullanabilirsiniz, Temel HTML herhangi bir stil veya komut dosyası oluşturma yeteneği olmayan standart HTML'dir.",
 	"page.guidelines.template.other.0": "Şablonunuz Discord Hizmet Şartları'na uygun olmalıdır.",
+	"page.staff.home": "Staff Home",
 	"page.staff.webStats": "Website İstatistikleri",
 	"page.staff.webStats.botCount": "Bot Sayısı",
 	"page.staff.webStats.botCount.unapproved": "Doğrulanmamış Bot Sayısı",
