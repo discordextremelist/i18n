@@ -546,7 +546,7 @@
 	"page.guidelines.template.listing.2": "Les descriptions courtes et longues de votre modèle doivent faire référence à ce dernier.",
 	"page.guidelines.template.listing.3": "Vous pouvez utiliser de l'HTML Basique et du Markdown dans la description longue de votre modèle. L'HTML Basique est un HTML standard sans aucune capacité de style ou de script.",
 	"page.guidelines.template.other.0": "Votre modèle doit suivre les Conditions d'Utilisation de Discord.",
-	"page.staff.home": "Staff Home",
+	"page.staff.home": "Accueil du Staff",
 	"page.staff.webStats": "Statistiques du site web",
 	"page.staff.webStats.botCount": "Nombre de Bots",
 	"page.staff.webStats.botCount.unapproved": "Nombre de Bots Désapprouvés",
