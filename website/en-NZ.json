@@ -546,6 +546,7 @@
 	"page.guidelines.template.listing.2": "Your template's short and long description must be related to your template.",
 	"page.guidelines.template.listing.3": "You may use Basic HTML and Markdown in your template's long description, Basic HTML is standard HTML without any styling or scripting abilities.",
 	"page.guidelines.template.other.0": "Your template must follow the Discord Terms of Service.",
+	"page.staff.home": "Staff Home",
 	"page.staff.webStats": "Website Statistics",
 	"page.staff.webStats.botCount": "Bot Count",
 	"page.staff.webStats.botCount.unapproved": "Unapproved Bot Count",
