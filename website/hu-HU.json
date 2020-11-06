@@ -528,7 +528,7 @@
 	"page.guidelines.bot.other.1": "A botodnak kéne nem válaszolni más botokhoz vagy webhookokhoz.",
 	"page.guidelines.bot.other.2": "A botod nem lehet offline egy nagy időszakra és mindig online kell hogy legyen kivéve ha éppen karbantartás folyik.",
 	"page.guidelines.bot.other.3": "A botodnak kell hogy elszökje a @everyone és @here megemlítéseket.",
-	"page.guidelines.bot.other.4": "A te botod nem küldhet automatikusan privát üzeneteket mint példálul:",
+	"page.guidelines.bot.other.4": "Your bot must not automatically send messages such as:",
 	"page.guidelines.bot.other.4.1": "Üdvözlő Üzenetek,",
 	"page.guidelines.bot.other.4.2": "Levelup Üzenetek,",
 	"page.guidelines.bot.other.4.3": "Hírdetések,",
