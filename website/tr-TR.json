@@ -528,7 +528,7 @@
 	"page.guidelines.bot.other.1": "Botunuz diğer botlara veya webhooklara cevap vermemelidir.",
 	"page.guidelines.bot.other.2": "Botunuz uzun bir süre çevrimdışı olmamalı ve bakım dışında her zaman çevrimiçi olmalıdır, bakım sürelerini bize bildirmeniz gerekir.",
 	"page.guidelines.bot.other.3": "Botunuz @everyone ve @here etiketlerini atmamalıdır.",
-	"page.guidelines.bot.other.4": "Botunuz aşağıdaki gibi otomatik mesajlar göndermemelidir:",
+	"page.guidelines.bot.other.4": "Your bot must not automatically send messages such as:",
 	"page.guidelines.bot.other.4.1": "Hoş Geldin - Görüşürüz Mesajları,",
 	"page.guidelines.bot.other.4.2": "Seviye Atlama Mesajları,",
 	"page.guidelines.bot.other.4.3": "Reklamlar,",
