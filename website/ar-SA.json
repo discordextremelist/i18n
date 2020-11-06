@@ -528,7 +528,7 @@
 	"page.guidelines.bot.other.1": "يجب ان لا يستجيب البوت الخاص بك لـ الاخطارات ",
 	"page.guidelines.bot.other.2": "يجب ألا يكون البوت الخاص بك غير متصل لفترة كبيرة من الوقت ويجب أن يكون متصلاً طوال الوقت باستثناء الصيانة.",
 	"page.guidelines.bot.other.3": "يجب ان لا يحتوي بوتك علي المنشن @everyone و @here",
-	"page.guidelines.bot.other.4": "يجب ألا يرسل البوت تلقائيًا رسائل مباشرة مثل:",
+	"page.guidelines.bot.other.4": "Your bot must not automatically send messages such as:",
 	"page.guidelines.bot.other.4.1": "رسائل الترحيب",
 	"page.guidelines.bot.other.4.2": "رسائل Levelup ،",
 	"page.guidelines.bot.other.4.3": "إعلانات ،",
