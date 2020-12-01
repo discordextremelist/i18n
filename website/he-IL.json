@@ -528,7 +528,7 @@
 	"page.guidelines.bot.other.1": "אסור לבוט שלך להגיב לבוטים או לווקי רשת אחרים.",
 	"page.guidelines.bot.other.2": "אסור שהבוט שלך יעבור במצב לא מקוון להרבה זמן גדול והוא חייב להיות מקוון כל הזמן למעט תחזוקה.",
 	"page.guidelines.bot.other.3": "הבוט שלך חייב לברוח מ- @here@ everyone מזכיר.",
-	"page.guidelines.bot.other.4": "Your bot must not automatically send messages such as:",
+	"page.guidelines.bot.other.4": "Your bot must not automatically send messages unless explicitly enabled by server admins, such as:",
 	"page.guidelines.bot.other.4.1": "הודעות ברוך הבא,",
 	"page.guidelines.bot.other.4.2": "הודעות עלית רמה",
 	"page.guidelines.bot.other.4.3": "פרסומות,",
