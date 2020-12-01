@@ -528,7 +528,7 @@
 	"page.guidelines.bot.other.1": "Su bot no debe responder a otros bots o webhooks.",
 	"page.guidelines.bot.other.2": "Su bot no debe desconectarse durante un período de tiempo prolongado y debe estar en línea todo el tiempo excepto por mantenimiento.",
 	"page.guidelines.bot.other.3": "Su bot debe evitar las menciones a @everyone y @here.",
-	"page.guidelines.bot.other.4": "Tu bot no debe enviar mensajes automatizados tales como:",
+	"page.guidelines.bot.other.4": "Your bot must not automatically send messages unless explicitly enabled by server admins, such as:",
 	"page.guidelines.bot.other.4.1": "Mensajes de bienvenida,",
 	"page.guidelines.bot.other.4.2": "Mensajes de subir de nivel,",
 	"page.guidelines.bot.other.4.3": "Publicidad,",
