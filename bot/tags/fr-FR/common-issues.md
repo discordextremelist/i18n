@@ -6,7 +6,7 @@
 5. Les messages de niveau ne sont pas configurables.
 6. Commandes renvoyant du contenu NSFW dans un salon SFW.
 7. Aucun gestionnaire d'erreurs/messages (autorisations manquantes, arguments manquants, arguments erronés, etc.).
-8. Commande "dire" (ou tout autre qui renvoyer ce que l'auteur a dit) en mesure de mentionner tout le monde ou des rôles inmentionnables. (dépend des vérifications des autorisations).
+8. Commande "dire" (ou tout autre qui renvoyer ce que l'auteur a dit) en mesure de mentionner tout le monde ou des rôles ne pouvant pas être mentionnés. (dépend des vérifications des autorisations).
 9. Commandes faisant autre chose que ce qu'elles sont censées faire (par exemple : mute qui ne mute pas, expulser qui n'expulse pas et ainsi de suite (évidemment quand les autorisations du bot sont respectées)).
 10. La politique de confidentialité n'est pas valide.
 
