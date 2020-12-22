@@ -1,4 +1,4 @@
-**Allowed Mentions** Trying to sanitise mentions? Voici quelques exemples de ce que vous devriez utiliser.
+**Mentions autorisées** Essayer d'échapper les mentions ? Voici quelques exemples de ce que vous devriez utiliser.
 
 <https://github.com/discordextremelist/help/blob/master/allowed_mentions/en.md>
 
