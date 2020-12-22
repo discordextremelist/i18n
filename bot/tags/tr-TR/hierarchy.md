@@ -1,9 +1,9 @@
-**What is a role hierarchy?** A role hierarchy is where the bot checks if the author’s role is lower than the targets role. For example, you don't want Moderators being able to ban Administrators.
+**Rol hiyerarşisi nedir?** Rol hiyerarşisi, botun yazarın rolünün hedeflerin rolünden daha düşük olup olmadığını kontrol ettiği mantıktır. Örneğin, Moderatörlerin Yöneticileri yasaklayabilmesini istemezsiniz.
 
-**How can I enable the role hierarchy?** Check if the author’s highest role is less than the target’s highest role. If it is then return an error.
+**Rol hiyerarşisini nasıl etkinleştirebilirim?** Yazarın en yüksek rolünün, seçilen kullanıcının en yüksek rolünden daha az olup olmadığını kontrol edin. Eğer öyleyse bir hata döndürür.
 
-**Why should I add this?**
-1. You need to add this to get your bot approved.
-2. It makes it so that helpers can’t warn/mute admins since that doesn’t seem right.
+**Bunu neden ekleyeyim?**
+1. Botunuzun onaylanmasını sağlamak için bunu eklemelisiniz.
+2. Bu doğru görünmüyor çünkü yardımcılar uyarma/susturmak değil böylece yapar.
 
-**I don’t know how to do this... Someone help me!** Ask in your bots' support server or <#648996487371554834>.
+**Bu nasıl yapılıyor bilmiyorum... Biri bana yardım etsin!** Senin botlarının destek sunucusunda sor veya <#648996487371554834> kanalını kullan.
