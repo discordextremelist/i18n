@@ -12,4 +12,4 @@
 
 **S: Botumu nasıl yeniden gönderirim?** C: Profilinize gidin (<https://discordextremelist.xyz/users/@me>) ve yeniden gönder'e tıklayın.
 
-**Q: When I'm trying to add my bot it tells me that the bot already exists.** A: Either it's archived and you need to resubmit it, or you're using the wrong ID. However if it's the correct ID and it is not archived, contact a Website Administrator.
+**Q: When I'm trying to add my bot it tells me that the bot already exists.** A: Either it's archived and you need to resubmit it, or you're using the wrong ID. Ancak doğru kimlikse ve arşivlenmemişse bir Web Sitesi Yöneticisine başvurun.
