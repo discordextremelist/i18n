@@ -1,9 +1,9 @@
-Hey guys, please <:boost:745415781453529138> **Boost** this server! Boosting gives you **DEL Premium**:
-- a ⭐ on all of your bots (on the bot page and in list pages)
-- the ability to use JS on your bot pages
-- the ability to set custom CSS on your DEL profile
-- a special 💗 badge on your profile
-- the booster role here and access to a secret channel
-- you get listed on the DEL About page!
+Hey çocuklar, lütfen <:boost:745415781453529138> Bu sunucuya **Takviye** sağlayın! Takviye yapmak size **DEL Premium** verir:
+- Bir ⭐ tüm botlarınızda (bot sayfasında ve liste sayfalarında)
+- Bot sayfalarınızda JavaScript kullanma olanağı
+- DEL profilinizde özel CSS ayarlama olanağı
+- Profilinizde özel bir 💗 rozeti
+- Burada takviyeci rolü ve özel bir kanala erişim
+- DEL Hakkında sayfasında yer alırsın
 
-__Let's see if we can get this server to Level 2!__
+__Bakalım bu sunucuyu 2. seviyeye çıkarabilecek miyiz?__
