@@ -2,9 +2,9 @@
 
 **S: Botumu nereye gönderebilirim?** C: Bu adresten gönderebilirsiniz <https://discordextremelist.xyz/bots/submit>.
 
-**Q: Can I submit anything else besides my bot?** A: Yes! Sunucular ve şablonlar gönderebilirsiniz.
+** S: Botum dışında başka bir şey gönderebilir miyim?** C: Kısa yanıt, Evet! Sunucular ve şablonlar gönderebilirsiniz.
 
-**Q: Are you guys looking for new moderators?** A: Not at the moment, but when we'll do we'll make sure to announce that in <#568590840130175007> channel.
+** S: Yeni moderatörler mi arıyorsunuz?** C: Şu anda değil, ancak aradığımız zaman bunu <#568590840130175007> kanalında duyuracağımızdan emin olabilirsiniz.
 
 **S: Moderatör olabilir miyim?** C: Basit cevap - hayır. Neden? Çünkü başvurular kapalı.
 
@@ -12,4 +12,4 @@
 
 **S: Botumu nasıl yeniden gönderirim?** C: Profilinize gidin (<https://discordextremelist.xyz/users/@me>) ve yeniden gönder'e tıklayın.
 
-**Q: When I'm trying to add my bot it tells me that the bot already exists.** A: Either it's archived and you need to resubmit it, or you're using the wrong ID. Ancak doğru kimlikse ve arşivlenmemişse bir Web Sitesi Yöneticisine başvurun.
+** S: Botumu eklemeye çalıştığımda bana botun zaten mevcut olduğunu söylüyor.** C: Ya arşivlendi ve yeniden göndermeniz gerekiyor ya da yanlış kimliği kullanıyorsunuz. Ancak doğru kimlikse ve arşivlenmemişse bir Web Sitesi Yöneticisine başvurun.
