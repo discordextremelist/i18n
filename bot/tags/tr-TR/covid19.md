@@ -1,7 +1,7 @@
-In order to prevent misinformation and inaccuracies, we have strict protocols in place around features relating to COVID-19 as shown below.
+Yanlış bilgi ve yanlışlıkları önlemek için, aşağıda gösterildiği gibi COVID-19 ile ilgili özelliklerin etrafında sıkı protokollere sahibiz.
 
-**COVID-19 Bots** We do not permit COVID-19 bots being submitted, existing bots are exempt from this rule and have been subject to stringent testing.
+**COVID-19 Botları** COVID-19 botlarının gönderilmesine izin vermeyiz, mevcut botlar bu kuraldan muaftır ve sıkı testlere tabi tutulmuştur.
 
-**COVID-19 Statistics** When supplying statistics such as case information you **__MUST__** provide the time these numbers were updated and the source/API used.
+**COVID-19 İstatistikleri** Durum bilgileri gibi istatistikleri sağlarken **__GEREKLİ__** , bu numaraların güncellendiği zamanı ve kaynak/API kullanıldığı zamanı sağlar.
 
-**COVID-19 Information and News** Embedding health advice without inline citations to authorised sources such as the US or Australian Centres of Disease Control and UK or New Zealand Ministry of Health websites is strictly prohibited. Embedding COVID-19 news is outright prohibited.
+**COVID-19 Bilgi ve Haber** ABD veya Avustralya Hastalık Kontrol Merkezleri, İngiltere veya Türkiye Sağlık Bakanlığı web siteleri gibi yetkili kaynaklara satır içi atıflar olmadan sağlık tavsiyesi gömmek Kesinlikle yasak. COVID-19 haberlerinin gömülmesi kesinlikle yasaktır.

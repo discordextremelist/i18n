@@ -1,15 +1,15 @@
-**Common issues that will prevent your bot from being approved**
-1. No role hierarchy checks.
-2. Unknown command errors.
-3. Invite link is generated to ask for administrator.
-4. Commands ask for wrong permissions (For ex: warn command asks for administrator etc).
-5. Level up messages that are not configurable.
-6. Commands returning NSFW content in an SFW channel.
-7. No error handler/messages (missing permissions, missing arguments, wrong arguments and so on).
-8. Say command (or any other that resend what author said) being able to mention everyone or unmentionable roles. (depends on permissions checks).
-9. Commands do what they aren't supposed to do (for ex: mute doesn't mute, kick doesn't kick and so on (obviously when bot isn't missing any permissions)).
-10. Privacy Policy is invalid.
+**Botunuzun onaylanmasını engelleyecek yaygın sorunlar**
+1. Rol hiyerarşisi denetimleri yok.
+2. Bilinmeyen komut hataları.
+3. Davet bağlantısı yönetici istemek için oluşturulur.
+4. Komutlar yanlış izinler ister (Örneğin: Uyarı komutu için Yönetici yetkisi gibi).
+5. Yapılandırılamaz seviye atlama mesajları.
+6. Bir SFW kanalında NSFW içeriğini döndüren komutlar.
+7. Hata işleyicisi/mesaj yok (Eksik izinler, eksik argümanlar, yanlış argümanlar vb.).
+8. Say komutu ile (veya yazarın söylediklerini tekrar gönderen başka) herkesten veya bahsedilemeyen rollerden söz edebilmek. (izin denetimlerine bağlıdır).
+9. Komutlar yapmamaları gereken şeyleri yapar (Örneğin: sessize alma sesi kısmaz, kick kick atmaz vb. (Açıkçası bot herhangi bir izin eksikliğini kontrol etmezse)).
+10. Gizlilik Politikası geçersiz.
 
-**I refuse to fix any of the issues** If you refuse to fix the issues that will prevent bot from approval - we'll deny your bot.
+**Sorunlardan herhangi birini düzeltmeyi reddediyorum** Bot'un onaylanmasını engelleyecek sorunları düzeltmeyi reddederseniz - botunuzu reddederiz.
 
-**I refused to fix listed issues and my bot was denied but I switched my mind** Fix the issues and resubmit your bot at <https://discordextremelist.xyz/users/@me>.
+**Listelenen sorunları düzeltmeyi reddettim ve botum reddedildi ama fikrimi değiştirdim** Sorunları düzeltin ve [https://discordextremelist.xyz/users/@me bağlantısı yardımı ile botunuzu yeniden gönderin](https://discordextremelist.xyz/users/@me).
