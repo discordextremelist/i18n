@@ -1,6 +1,6 @@
-**Q: Who are we?** A: We are Discord bot list (<https://discordextremelist.xyz>).
+**Q : Qui sommes-nous ?** R : Nous sommes une liste de bot Discord (<https://discordextremelist.xyz>).
 
-**Q: Where can I submit my bot at?** A: You can submit it at <https://discordextremelist.xyz/bots/submit>.
+**Q : Où puis-je soumettre mon bot à ?** R : Vous pouvez le soumettre sur <https://discordextremelist.xyz/bots/submit>.
 
 **Q: Can I submit anything else besides my bot?** A: Yes! You can submit servers and templates.
 
