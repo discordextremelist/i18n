@@ -2,4 +2,4 @@ files:
   - source: /website/en-NZ.json
     translation: /website/%locale%.json
   - source: /bot/tags/en-NZ/**.md
-    translation: /bot/tags/%locale%/%original_file_name%.md
+    translation: /bot/tags/%locale%/%original_file_name%
