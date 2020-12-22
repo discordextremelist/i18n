@@ -12,4 +12,4 @@
 
 **Jag vägrar att åtgärda något av problemen** Om du vägrar att åtgärda de problem som förhindrar bot från godkännande - kommer vi att neka din bot.
 
-**I refused to fix listed issues and my bot was denied but I switched my mind** Fix the issues and resubmit your bot at <https://discordextremelist.xyz/users/@me>.
+**Jag vägrade att lösa problemen och min bot var nekad men jag ändrade mig** Lös problemen och återinlämna din bott på <https://discordextremelist.xyz/users/@me>.
