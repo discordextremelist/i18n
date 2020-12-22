@@ -126,6 +126,7 @@
 	"common.error.bot.arr.fetchError": "Bot bilgisi Discord'dan getirilirken bir hata oluştu",
 	"common.error.bot.arr.notFound": "Bu ID'ye sahip bir bot yok.",
 	"common.error.bot.arr.isUser": "Hey! Bot listesine kullanıcı ekleyemezsiniz..",
+	"common.error.bot.arr.scopesNotInInvite": "The provided invite URL doesn't include all the selected scopes.",
 	"common.error.bot.arr.twitterInvalid": "Sağlanan Twitter kullanıcı adı geçersiz.",
 	"common.error.bot.arr.prefixTooLong": "Sağlanan bot öneki çok uzun.",
 	"common.error.bot.arr.privacyTooLong": "Çok uzun bir gizlilik politikası bağlantısı veya komutu sağladınız. Gizlilik Politikası alanına metin girmeyin, yalnızca bir URL veya bot komutu girin.",
