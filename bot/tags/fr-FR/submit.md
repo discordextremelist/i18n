@@ -1,7 +1,7 @@
-Having trouble locating the submit button? Well here you go!
+Vous rencontrez des difficultés à trouver le bouton d'envoi ? Et bien voilà !
 
-**Submit a bot:** <https://discordextremelist.xyz/en-US/bots/submit>
+**Soumettre un bot :** <https://discordextremelist.xyz/en-US/bots/submit>
 
-**Submit a server:** <https://discordextremelist.xyz/en-US/servers/submit>
+**Soumettre un serveur :** <https://discordextremelist.xyz/en-US/servers/submit>
 
-**Submit a template:** <https://discordextremelist.xyz/en-US/templates/submit>
+**Soumettre un modèle :** <https://discordextremelist.xyz/en-US/templates/submit>
