@@ -126,6 +126,7 @@
 	"common.error.bot.arr.fetchError": "Da ist ein Fehler aufgetreten beim abrufen der Bot-information von Discord",
 	"common.error.bot.arr.notFound": "Es gibt keinen Bot mit dieser ID.",
 	"common.error.bot.arr.isUser": "Sie können der Bot-Liste keine Benutzer hinzufügen.",
+	"common.error.bot.arr.scopesNotInInvite": "The provided invite URL doesn't include all the selected scopes.",
 	"common.error.bot.arr.twitterInvalid": "Der angegebene Twitter Benutzername ist ungültig.",
 	"common.error.bot.arr.prefixTooLong": "Das angegebene Bot-Präfix ist zu lang.",
 	"common.error.bot.arr.privacyTooLong": "Deine angegebene URL der Datenschutzerklärung oder der Befehl ist zu lang. Gib keinen Text in das Datenschutzerklärungsfeld ein, sondern nur eine URL oder einen Befehl.",
