@@ -1,7 +1,7 @@
-**Common issues that will prevent your bot from being approved**
-1. No role hierarchy checks.
-2. Unknown command errors.
-3. Invite link is generated to ask for administrator.
+**Problèmes courants qui empêcheront l'approbation de votre bot**
+1. Aucune vérification hiérarchique des rôles.
+2. Erreurs de commande inconnues.
+3. Le lien d'invitation est généré en demandant la permission administrateur.
 4. Commands ask for wrong permissions (For ex: warn command asks for administrator etc).
 5. Level up messages that are not configurable.
 6. Commands returning NSFW content in an SFW channel.
