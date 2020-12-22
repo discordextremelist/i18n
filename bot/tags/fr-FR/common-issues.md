@@ -2,14 +2,14 @@
 1. Aucune vérification hiérarchique des rôles.
 2. Erreurs de commande inconnues.
 3. Le lien d'invitation est généré en demandant la permission administrateur.
-4. Commands ask for wrong permissions (For ex: warn command asks for administrator etc).
-5. Level up messages that are not configurable.
-6. Commands returning NSFW content in an SFW channel.
-7. No error handler/messages (missing permissions, missing arguments, wrong arguments and so on).
-8. Say command (or any other that resend what author said) being able to mention everyone or unmentionable roles. (depends on permissions checks).
-9. Commands do what they aren't supposed to do (for ex: mute doesn't mute, kick doesn't kick and so on (obviously when bot isn't missing any permissions)).
-10. Privacy Policy is invalid.
+4. Les commandes demandent de mauvaises autorisations (Par exemple : la commande warn demande l'administrateur, etc.).
+5. Les messages de niveau ne sont pas configurables.
+6. Commandes renvoyant du contenu NSFW dans un salon SFW.
+7. Aucun gestionnaire d'erreurs/messages (autorisations manquantes, arguments manquants, arguments erronés, etc.).
+8. Commande "dire" (ou tout autre qui renvoyer ce que l'auteur a dit) en mesure de mentionner tout le monde ou des rôles inmentionnables. (dépend des vérifications des autorisations).
+9. Commandes faisant autre chose que ce qu'elles sont censées faire (par exemple : mute qui ne mute pas, expulser qui n'expulse pas et ainsi de suite (évidemment quand les autorisations du bot sont respectées)).
+10. La politique de confidentialité n'est pas valide.
 
-**I refuse to fix any of the issues** If you refuse to fix the issues that will prevent bot from approval - we'll deny your bot.
+**Je refuse de résoudre l'un des problèmes** Si vous refusez de résoudre les problèmes qui empêchent l'approbation du bot - nous refuserons votre bot.
 
-**I refused to fix listed issues and my bot was denied but I switched my mind** Fix the issues and resubmit your bot at <https://discordextremelist.xyz/users/@me>.
+**J'ai refusé de résoudre les problèmes énumérés et mon bot a été refusé mais j'ai changé d'avis** Résoudre les problèmes et soumettre à nouveau votre bot à <https://discordextremelist.xyz/users/@me>.
