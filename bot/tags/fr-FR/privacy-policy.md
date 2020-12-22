@@ -1,15 +1,15 @@
-Bonjour ! Due to a change of Discord's Developer Terms of Service (<https://discord.dev/legal>) you now need a Privacy Policy for your bot!
+Bonjour ! En raison d'un changement des Conditions d'Utilisation Développeur de Discord (<https://discord.dev/legal>), vous avez maintenant besoin d'une politique de confidentialité pour votre bot !
 
-**What is a Privacy Policy?** According to Wikipedia, "A privacy policy is a statement or legal document that discloses some or all of the ways a party gathers, uses, discloses, and manages a customer or client's data."
+**Qu'est-ce qu'une politique de confidentialité ?** Selon Wikipédia, « Une politique de confidentialité est un contrat qui décrit comment une société retient, traite, publie et efface les données transmises par ses clients. »
 
-**What does my Privacy Policy need to have?** Please read this message for information about what your privacy policy needs to include: https://advaith.is-in-hyper.space/1faafadb0f.png
+**Qu'est-ce que ma politique de confidentialité doit avoir ?** Veuillez lire ce message pour plus d'informations sur ce que votre politique de confidentialité doit inclure : https://advaith.is-in-hyper.space/1faafadb0f.png
 
-**Why do I need to add this?** You need a valid privacy policy in order to submit a bot on Discord Extreme List and in order to follow Discord's Developer Terms of Service.
+**Pourquoi dois-je ajouter ceci ?** Vous avez besoin d'une politique de confidentialité valide pour soumettre un bot sur Discord Extreme List et pour suivre les Conditions d'Utilisation Développeurs de Discord.
 
-**How can I add one? Do I need a website?** No, you just need to have one accessible to your users, If that's a website, GitHub Gist, command, etc.
+**Comment puis-je en ajouter une ? Ai-je besoin d'un site Web ?** Non, vous avez juste besoin d'en avoir une accessible à vos utilisateurs, Si c'est un site Web, GitHub Gist, commande, etc.
 
-**What if I don't store data?** You *still* need a privacy policy that says "We do not store data" followed by a way to contact you.
+**Que faire si je ne stocke pas de données ?** Vous *devez* quand même fournir une politique de confidentialité qui dit « Nous ne stockons pas de données » suivie d'un moyen de vous contacter.
 
-**I need help with this!** First, have a look at some examples and read all the text above, then feel free to send a message to a staff member! Please __do not__ ping a staff member and just wait for a reply. Thank you for the patience!
+**J'ai besoin d'aide pour cela !** Tout d'abord, jetez un coup d'œil à quelques exemples et lisez tout le texte ci-dessus, puis n'hésitez pas à envoyer un message à un membre du personnel ! S'il vous plaît __ne memntionnez pas__ un membre du personnel et attendez juste une réponse. Merci pour votre patience !
 
-**Example Privacy Policies** A list of good valid example privacy policies can be found here: <https://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71>
+**Exemples de politiques de confidentialité** Une liste d'exemples de politiques de confidentialité valides peut être trouvée ici : <https://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71>
