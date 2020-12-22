@@ -1,5 +1,5 @@
 **Quand mon bot sera-t-il examiné ?**
 
-We currently **do not** have an **ETA** as to when your bot will be reviewed. It will most likely take **over** a week.
+Nous **n'avons pas** actuellement d'**ETA** quant à la date à laquelle votre bot sera examiné. Il faudra probablement **1** semaine.
 
-Continually asking us as to when your bot will be reviewed will result in your bot being declined.
+Si vous nous demandez constamment à quel moment votre bot sera examiné, il sera refusé.
