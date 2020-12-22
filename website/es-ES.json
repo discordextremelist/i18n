@@ -126,6 +126,7 @@
 	"common.error.bot.arr.fetchError": "Se produjo un error al obtener la información del bot de Discord",
 	"common.error.bot.arr.notFound": "No hay ningún bot con esa id.",
 	"common.error.bot.arr.isUser": "No puedes añadir usuarios a la lista de bots.",
+	"common.error.bot.arr.scopesNotInInvite": "The provided invite URL doesn't include all the selected scopes.",
 	"common.error.bot.arr.twitterInvalid": "El nombre de usuario de Twitter es invalido.",
 	"common.error.bot.arr.prefixTooLong": "El prefijo del bot que nos provees es muy largo.",
 	"common.error.bot.arr.privacyTooLong": "El link o comando para ver tu política de privacidad que nos provees es muy largo. No pongas tu política de privacidad en la zona de URL o comando, simplemente pon un link o comando en el cual nosotros podamos ver tu política de privacidad.",

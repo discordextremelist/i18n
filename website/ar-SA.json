@@ -126,6 +126,7 @@
 	"common.error.bot.arr.fetchError": "الخطأ في معلومات البوت من الديسكورد.",
 	"common.error.bot.arr.notFound": "لا يوجد بوت مع هذا الايدي.",
 	"common.error.bot.arr.isUser": "انت لا تمتلك القدرة علي اضافة اعضاء في قائمة البوت.",
+	"common.error.bot.arr.scopesNotInInvite": "The provided invite URL doesn't include all the selected scopes.",
 	"common.error.bot.arr.twitterInvalid": "اسم مستخدم Twitter المقدم غير صالح.",
 	"common.error.bot.arr.prefixTooLong": "بادئة البوت المقدمة طويلة جدًا.",
 	"common.error.bot.arr.privacyTooLong": "لقد قدمت رابط سياسة الخصوصية أو أمرًا طويلاً جدًا لا تضع نصًا في حقل سياسة الخصوصية ، فقط ضع عنوان URL أو أمر bot.",

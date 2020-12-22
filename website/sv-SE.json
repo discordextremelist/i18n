@@ -126,6 +126,7 @@
 	"common.error.bot.arr.fetchError": "Det uppstod ett fel med att hämta bottinformationen från Discord",
 	"common.error.bot.arr.notFound": "Det finns ingen bott med detta ID.",
 	"common.error.bot.arr.isUser": "Du kan inte lägga till användar på bott listan.",
+	"common.error.bot.arr.scopesNotInInvite": "The provided invite URL doesn't include all the selected scopes.",
 	"common.error.bot.arr.twitterInvalid": "De valda Twitter användarnamnet är ogiltigt.",
 	"common.error.bot.arr.prefixTooLong": "Den valda bot prefixen är för lång.",
 	"common.error.bot.arr.privacyTooLong": "Du valde en integritetspolicy länk eller kommando som är för lång. Snälla skriv inte text i Integritetspolicy fältet, skriv bara en URL eller ett bott kommando.",

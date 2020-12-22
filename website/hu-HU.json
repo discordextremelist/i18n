@@ -126,6 +126,7 @@
 	"common.error.bot.arr.fetchError": "Egy hiba történt a bot infó vonzása a discordról",
 	"common.error.bot.arr.notFound": "Nem található ilyen bot ezzel az ID-val.",
 	"common.error.bot.arr.isUser": "Te nem adhatsz felhasználókat a bot listához.",
+	"common.error.bot.arr.scopesNotInInvite": "The provided invite URL doesn't include all the selected scopes.",
 	"common.error.bot.arr.twitterInvalid": "The provided Twitter username is invalid.",
 	"common.error.bot.arr.prefixTooLong": "The provided bot prefix is too long.",
 	"common.error.bot.arr.privacyTooLong": "You provided a privacy policy link or command that's too long. Do not put text into the Privacy Policy field, only put a URL or a bot command.",
