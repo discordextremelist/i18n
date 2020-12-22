@@ -126,6 +126,7 @@
 	"common.error.bot.arr.fetchError": "There was an error fetching the bot info from Discord",
 	"common.error.bot.arr.notFound": "Nie ma bota z tym ID.",
 	"common.error.bot.arr.isUser": "Nie możesz dodawać użytkowników do listy botów.",
+	"common.error.bot.arr.scopesNotInInvite": "The provided invite URL doesn't include all the selected scopes.",
 	"common.error.bot.arr.twitterInvalid": "The provided Twitter username is invalid.",
 	"common.error.bot.arr.prefixTooLong": "The provided bot prefix is too long.",
 	"common.error.bot.arr.privacyTooLong": "You provided a privacy policy link or command that's too long. Do not put text into the Privacy Policy field, only put a URL or a bot command.",
