@@ -1,0 +1,1 @@
+Bara för att en funktion i din bot fungerar på din server betyder **inte** att det fungerar i vår.
