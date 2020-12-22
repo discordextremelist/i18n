@@ -144,7 +144,7 @@
 	"common.error.listing.arr.shortDescRequired": "Eine kurze Beschreibung wird benötigt.",
 	"common.error.listing.arr.shortDescTooLong": "Die kurze Beschreibung ist zu lang, maximum 200 Zeichen.",
 	"common.error.listing.arr.longDescRequired": "Eine lange Beschreibung ist erforderlich.",
-	"common.error.listing.arr.prefixRequired": "Ein gültiges Bot-Prefix ist erforderlich.",
+	"common.error.listing.arr.prefixRequired": "A valid bot prefix is required if the bot doesn't support slash commands.",
 	"common.error.listing.arr.privacyPolicyRequired": "Eine Datenschutzerklärung ist erforderlich.",
 	"common.error.listing.arr.privacyPolicy.placeholder": "Du musst eine URL für die Datenschutzerklärung angeben oder einen Befehl für deinen Bot mit der Datenschutzbestimmung, nicht den Platzhalter-Link (discord.bot/datenschutz).",
 	"common.error.listing.arr.privacyPolicy.discord": "Du musst eine URL für die Datenschutzerklärung angeben oder einen Befehl für deinen Bot mit der Datenschutzbestimmung, nicht die Discord Datenschutzbestimmung (discord.com/privacy).",
