@@ -1,4 +1,4 @@
-**Allowed Mentions** Trying to sanitise mentions? Here are some examples of what you should use.
+**İzin Verilen Bahsetmeler** Bahsetmeleri sterilize etmeye mi çalışıyorsunuz? Here are some examples of what you should use.
 
 <https://github.com/discordextremelist/help/blob/master/allowed_mentions/en.md>
 
