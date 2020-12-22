@@ -144,7 +144,7 @@
 	"common.error.listing.arr.shortDescRequired": "Kısa bir açıklama yazmanız gerekiyor.",
 	"common.error.listing.arr.shortDescTooLong": "Kısa açıklama çok uzun, maksimum 200 karakterdir.",
 	"common.error.listing.arr.longDescRequired": "Uzun bir açıklama yazmanız gerekiyor.",
-	"common.error.listing.arr.prefixRequired": "Geçerli ve hali hazırda kullanıma açık bir bot öneki gerekli.",
+	"common.error.listing.arr.prefixRequired": "A valid bot prefix is required if the bot doesn't support slash commands.",
 	"common.error.listing.arr.privacyPolicyRequired": "Bot sayfalarında bir gizlilik politikası gereklidir.",
 	"common.error.listing.arr.privacyPolicy.placeholder": "Botunuzun gizlilik politikası için gizlilik politikası URL'sini veya komutunu, yer tutucu bağlantı (discord.bot/privacy) yerine koymalısınız.",
 	"common.error.listing.arr.privacyPolicy.discord": "Discord'un gizlilik politikası (discord.com/privacy) yerine botunuzun gizlilik politikası için gizlilik politikası URL'sini veya komutunu koymalısınız.",

@@ -144,7 +144,7 @@
 	"common.error.listing.arr.shortDescRequired": "Une description courte est requise.",
 	"common.error.listing.arr.shortDescTooLong": "Le description courte est trop longue, le maximum est de 200 caractères.",
 	"common.error.listing.arr.longDescRequired": "Une description longue est requise.",
-	"common.error.listing.arr.prefixRequired": "Un préfixe valide pour le bot est requis.",
+	"common.error.listing.arr.prefixRequired": "A valid bot prefix is required if the bot doesn't support slash commands.",
 	"common.error.listing.arr.privacyPolicyRequired": "Une politique de protection de la vie privée est nécessaire.",
 	"common.error.listing.arr.privacyPolicy.placeholder": "Vous devez indiquer l'URL ou la commande de la politique de confidentialité de votre bot, et non le lien d'indication (discord.bot/privacy).",
 	"common.error.listing.arr.privacyPolicy.discord": "Vous devez indiquer l'URL ou la commande de la politique de confidentialité de votre bot, et non le lien de Discord (discord.com/privacy).",
