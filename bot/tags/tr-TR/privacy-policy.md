@@ -1,15 +1,15 @@
 Merhaba! Discord'un Geliştirici Hizmet Şartları'nda (<https://discord.dev/legal>) yapılan bir değişiklik nedeniyle artık botunuz için bir Gizlilik Politikasına ihtiyacınız var!
 
-**What is a Privacy Policy?** According to Wikipedia, "A privacy policy is a statement or legal document that discloses some or all of the ways a party gathers, uses, discloses, and manages a customer or client's data."
+**Gizlilik Politikası Nedir?** Vikipedi'ye göre, “Gizlilik politikası, bir tarafın veya müşterinin verilerini toplama, kullanma, ifşa etme ve yönetebilme yollarının bir kısmını veya tamamını sunan bir beyan veya yasal belgedir.”
 
-**What does my Privacy Policy need to have?** Please read this message for information about what your privacy policy needs to include: https://advaith.is-in-hyper.space/1faafadb0f.png
+**Gizlilik Politikamın neye sahip olması gerekiyor?** Gizlilik politikanızın neler içermesi gerektiğine dair bilgi için lütfen bu mesajı okuyun: https://advaith.is-in-hyper.space/1faafadb0f.png
 
-**Why do I need to add this?** You need a valid privacy policy in order to submit a bot on Discord Extreme List and in order to follow Discord's Developer Terms of Service.
+**Neden bunu eklemem gerekiyor?** Discord Extreme Listesi'nde bot göndermek ve Discord'un Geliştirici Hizmet Şartlarını takip etmek için geçerli bir gizlilik politikasına ihtiyacınız vardır.
 
-**How can I add one? Do I need a website?** No, you just need to have one accessible to your users, If that's a website, GitHub Gist, command, etc.
+**Nasıl bir tane ekleyebilirim? Bir web sitesine ihtiyacım var mı?** Hayır, sadece kullanıcılarınız için erişilebilir olması gerekir, Eğer bu bir web sitesi ise, GitHub Gist, komut, vb.
 
-**What if I don't store data?** You *still* need a privacy policy that says "We do not store data" followed by a way to contact you.
+**Veri depolamazsam ne olur?** Bu durumda sizin *hala* “Verileri saklamıyoruz” diyen bir gizlilik politikasına ihtiyacınız var ve ardından sizinle iletişim kurmanın bir yoluna ihtiyacınız var.
 
-**I need help with this!** First, have a look at some examples and read all the text above, then feel free to send a message to a staff member! Please __do not__ ping a staff member and just wait for a reply. Thank you for the patience!
+**Bu konuda yardıma ihtiyacım var!** İlk olarak, bazı örneklere bir göz atın ve yukarıdaki tüm metni okuyun, sonra bir personele mesaj göndermekten çekinmeyin! Lütfen herhangi bir Personel ekibi üyesini __etiketlemeyin__, sadece yanıt vermesini bekleyin. Sabrınız için teşekkür ederiz!
 
-**Example Privacy Policies** A list of good valid example privacy policies can be found here: <https://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71>
+**Örnek Gizlilik Politikaları** İyi geçerli örnek gizlilik politikalarının listesi burada bulunabilir: <https://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71>

@@ -1,5 +1,5 @@
-**When will my bot be reviewed?**
+**Botum ne zaman gözden geçirilecek?**
 
-We currently **do not** have an **ETA** as to when your bot will be reviewed. It will most likely take **over** a week.
+Botunuzun ne zaman inceleneceği konusunda şu anda **ayrıntılı bilgiye** sahip değiliz. Büyük olasılık ile bir **haftadan** kısa sürecektir.
 
-Continually asking us as to when your bot will be reviewed will result in your bot being declined.
+Botunuzun ne zaman gözden geçirileceğini sürekli olarak sormanız botunuzun reddedilmesine neden olur.
