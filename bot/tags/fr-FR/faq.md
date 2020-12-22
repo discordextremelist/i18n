@@ -2,14 +2,14 @@
 
 **Q : Où puis-je soumettre mon bot à ?** R : Vous pouvez le soumettre sur <https://discordextremelist.xyz/bots/submit>.
 
-**Q: Can I submit anything else besides my bot?** A: Yes! You can submit servers and templates.
+**Q : Puis-je soumettre autre chose que mon bot ?** R : Oui ! Vous pouvez soumettre des serveurs et des modèles.
 
-**Q: Are you guys looking for new moderators?** A: Not at the moment, but when we'll do we'll make sure to announce that in <#568590840130175007> channel.
+**Q : Êtes-vous à la recherche de nouveaux modérateurs ?** R : Pas pour le moment, mais quand nous le ferons, nous nous assurerons de l'annoncer dans le salon <#568590840130175007>.
 
-**Q: Can I become a moderator?** A: Simple answer - no. Why? Because applications are closed.
+**Q : Puis-je devenir modérateur ?** R : Réponse simple - non. Pourquoi ? Parce que les demandes sont fermées.
 
-**Q: What are the approval times?** A: Current approval time is <5 days.
+**Q : Quels sont les délais d'approbation ?** R : Le délai d'approbation actuel est de <5 jours.
 
-**Q: How do I resubmit my bot?** A: Go to your profile (<https://discordextremelist.xyz/users/@me>) and click resubmit.
+**Q : Comment puis-je soumettre à nouveau mon bot ?** R : Accédez à votre profil (<https://discordextremelist.xyz/users/@me>) et cliquez sur Soumettre à nouveau.
 
-**Q: When I'm trying to add my bot it tells me that the bot already exists.** A: Either it's archived and you need to resubmit it, or you're using the wrong ID. However if it's the correct ID and it is not archived, contact a Website Administrator.
+**Q : Quand j'essaie d'ajouter mon bot, il me dit que le bot existe déjà.** R : Soit il est archivé et vous devez le soumettre à nouveau, soit vous utilisez le mauvais ID. Toutefois, si l'ID est correct et qu'il n'est pas archivé, contactez un administrateur du site.
