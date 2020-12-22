@@ -1,4 +1,4 @@
-**İzin Verilen Bahsetmeler** Bahsetmeleri sterilize etmeye mi çalışıyorsunuz? Here are some examples of what you should use.
+**İzin Verilen Bahsetmeler** Bahsetmeleri sterilize etmeye mi çalışıyorsunuz? İşte ne kullanmanız gerektiğine dair bazı örnekler.
 
 <https://github.com/discordextremelist/help/blob/master/allowed_mentions/en.md>
 
