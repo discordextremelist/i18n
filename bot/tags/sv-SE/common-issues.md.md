@@ -1,15 +1,15 @@
-**Common issues that will prevent your bot from being approved**
-1. No role hierarchy checks.
-2. Unknown command errors.
-3. Invite link is generated to ask for administrator.
-4. Commands ask for wrong permissions (For ex: warn command asks for administrator etc).
-5. Level up messages that are not configurable.
-6. Commands returning NSFW content in an SFW channel.
-7. No error handler/messages (missing permissions, missing arguments, wrong arguments and so on).
-8. Say command (or any other that resend what author said) being able to mention everyone or unmentionable roles. (depends on permissions checks).
-9. Commands do what they aren't supposed to do (for ex: mute doesn't mute, kick doesn't kick and so on (obviously when bot isn't missing any permissions)).
-10. Privacy Policy is invalid.
+**Vanliga problem som hindrar din bot från att godkännas**
+1. Inga roller hierarki kontroller.
+2. Okända kommandofel.
+3. Bjud in länk skapas för att fråga efter administratör.
+4. Kommandon frågar efter fel behörigheter (För ex: varningskommandot frågar efter administratör etc.).
+5. Nivå upp meddelanden som inte kan konfigureras.
+6. Kommandon som returnerar NSFW-innehåll i en SFW-kanal.
+7. Ingen felhanterare/meddelanden (saknade behörigheter, saknade argument, felaktiga argument och så vidare).
+8. Säg kommando (eller någon annan som skicka om vad författaren sa) att kunna nämna alla eller obestridliga roller. (beror på behörighetskontroller).
+9. Kommandon gör vad de inte ska göra (för ex: mute stänger inte av ljudet, sparkar inte och så vidare (uppenbarligen när bot inte saknar några behörigheter)).
+10. Sekretesspolicy är ogiltig.
 
-**I refuse to fix any of the issues** If you refuse to fix the issues that will prevent bot from approval - we'll deny your bot.
+**Jag vägrar att åtgärda något av problemen** Om du vägrar att åtgärda de problem som förhindrar bot från godkännande - kommer vi att neka din bot.
 
 **I refused to fix listed issues and my bot was denied but I switched my mind** Fix the issues and resubmit your bot at <https://discordextremelist.xyz/users/@me>.

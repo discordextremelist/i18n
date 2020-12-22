@@ -1,15 +1,15 @@
-Hello! Due to a change of Discord's Developer Terms of Service (<https://discord.dev/legal>) you now need a Privacy Policy for your bot!
+Hej! På grund av en ändring av Discords användarvillkor för utvecklare (<https://discord.dev/legal>) behöver du nu en integritetspolicy för din bot!
 
-**What is a Privacy Policy?** According to Wikipedia, "A privacy policy is a statement or legal document that discloses some or all of the ways a party gathers, uses, discloses, and manages a customer or client's data."
+**Vad är en sekretesspolicy?** Enligt Wikipedia: ”En integritetspolicy är ett uttalande eller ett juridiskt dokument som avslöjar några eller alla sätt en part samlar in, använder, avslöjar och hanterar en kunds eller kunds data.”
 
-**What does my Privacy Policy need to have?** Please read this message for information about what your privacy policy needs to include: https://advaith.is-in-hyper.space/1faafadb0f.png
+**Vad behöver min sekretesspolicy ha?** Läs det här meddelandet för information om vad din sekretesspolicy behöver innehålla: https://advaith.is-in-hyper.space/1faafadb0f.png
 
-**Why do I need to add this?** You need a valid privacy policy in order to submit a bot on Discord Extreme List and in order to follow Discord's Developer Terms of Service.
+**Varför behöver jag lägga till detta?** Du behöver en giltig sekretesspolicy för att kunna skicka in en bot på Discord Extreme List och för att följa Discord's Developer användarvillkor.
 
-**How can I add one? Do I need a website?** No, you just need to have one accessible to your users, If that's a website, GitHub Gist, command, etc.
+**Hur kan jag lägga till en? Behöver jag en webbplats?** Nej, du behöver bara ha en tillgänglig för dina användare, Om det är en webbplats, GitHub Gist, kommando, etc.
 
-**What if I don't store data?** You *still* need a privacy policy that says "We do not store data" followed by a way to contact you.
+**Vad händer om jag inte lagrar data?** Du *fortfarande* behöver en sekretesspolicy som säger ”Vi lagrar inte data” följt av ett sätt att kontakta dig.
 
-**I need help with this!** First, have a look at some examples and read all the text above, then feel free to send a message to a staff member! Please __do not__ ping a staff member and just wait for a reply. Thank you for the patience!
+**Jag behöver hjälp med detta!** Ta först en titt på några exempel och läs all text ovan, och skicka sedan gärna ett meddelande till en anställd! Vänligen __inte__ ping en anställd och bara vänta på ett svar. Tack för tålamodet!
 
-**Example Privacy Policies** A list of good valid example privacy policies can be found here: <https://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71>
+**Exempel Integritetspolicyer** En lista över bra giltiga exempel sekretesspolicyer finns här: <https://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71>

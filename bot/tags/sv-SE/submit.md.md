@@ -1,7 +1,7 @@
-Having trouble locating the submit button? Well here you go!
+Har du problem med att hitta knappen Skicka? Nåväl, här har du!
 
-**Submit a bot:** <https://discordextremelist.xyz/en-US/bots/submit>
+**Skicka in en bot:** <https://discordextremelist.xyz/en-US/bots/submit>
 
-**Submit a server:** <https://discordextremelist.xyz/en-US/servers/submit>
+**Skicka en server:** <https://discordextremelist.xyz/en-US/servers/submit>
 
-**Submit a template:** <https://discordextremelist.xyz/en-US/templates/submit>
+**Skicka in en mall:** <https://discordextremelist.xyz/en-US/templates/submit>
