@@ -1,5 +1,5 @@
-**Allowed Mentions** Trying to sanitise mentions? Here are some examples of what you should use.
+**Allowed Mentions** Trying to sanitise mentions? Voici quelques exemples de ce que vous devriez utiliser.
 
 <https://github.com/discordextremelist/help/blob/master/allowed_mentions/en.md>
 
-If you would like to contribute an example for a library not listed, please make a pull request.
+Si vous souhaitez fournir un exemple pour une bibliothèque non répertoriée, veuillez faire une pull request.
