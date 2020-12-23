@@ -1,15 +1,15 @@
-Hello! Due to a change of Discord's Developer Terms of Service (<https://discord.dev/legal>) you now need a Privacy Policy for your bot!
+שלום! עקב שינוי תנאי המפתח של המשיח (<https://discord.dev/legal>) אתה זקוק כעת למדיניות פרטיות עבור בוט שלך!
 
-**What is a Privacy Policy?** According to Wikipedia, "A privacy policy is a statement or legal document that discloses some or all of the ways a party gathers, uses, discloses, and manages a customer or client's data."
+**מהי מדיניות פרטיות?** על פי ויקיפדיה, "מדיניות פרטיות היא הצהרה או מסמך משפטי החושף חלק או את כל הדרכים שבהן צד אוסף, משתמש, חושף ומנהל נתונים של לקוח או לקוח."
 
-**What does my Privacy Policy need to have?** Please read this message for information about what your privacy policy needs to include: https://advaith.is-in-hyper.space/1faafadb0f.png
+**מה דרושה למדיניות הפרטיות שלי?** אנא קרא הודעה זו לקבלת מידע על מה שמדיניות הפרטיות שלך צריכה לכלול: https://advaith.is-in-hyper.space/1faafadb0f.png
 
-**Why do I need to add this?** You need a valid privacy policy in order to submit a bot on Discord Extreme List and in order to follow Discord's Developer Terms of Service.
+**למה אני צריך להוסיף את זה?** אתה זקוק למדיניות פרטיות תקפה על מנת לשלוח בוט ברשימה קיצונית Discord וכדי לציית לתנאי השירות של המפתחים של דיסקורד.
 
-**How can I add one? Do I need a website?** No, you just need to have one accessible to your users, If that's a website, GitHub Gist, command, etc.
+**כיצד ניתן להוסיף אחד? האם אני צריך אתר אינטרנט?** לא, אתה רק צריך אחד נגיש למשתמשים שלך, אם זה אתר אינטרנט, GitHub Gist, פקודה, וכו '
 
-**What if I don't store data?** You *still* need a privacy policy that says "We do not store data" followed by a way to contact you.
+**מה אם אני לא מאחסן נתונים?** אתה *עדיין* צריך מדיניות פרטיות שאומר "אנחנו לא מאחסנים נתונים" ואחריו דרך ליצור איתך קשר.
 
-**I need help with this!** First, have a look at some examples and read all the text above, then feel free to send a message to a staff member! Please __do not__ ping a staff member and just wait for a reply. Thank you for the patience!
+**אני צריך עזרה עם זה!** ראשית, תסתכל על כמה דוגמאות ולקרוא את כל הטקסט לעיל, ואז אל תהסס לשלוח הודעה לחבר צוות! נא __לא__ לאותת חבר צוות ופשוט לחכות לתשובה. תודה על הסבלנות!
 
-**Example Privacy Policies** A list of good valid example privacy policies can be found here: <https://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71>
+**מדיניות פרטיות לדוגמה** רשימה של מדיניות פרטיות לדוגמה תקפה טובה ניתן למצוא כאן: <https://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71>
