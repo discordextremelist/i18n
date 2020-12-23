@@ -1,9 +1,9 @@
-**What is a role hierarchy?** A role hierarchy is where the bot checks if the author’s role is lower than the targets role. For example, you don't want Moderators being able to ban Administrators.
+**Mi az a szerephierarchia?** . A szerephierarchia az, ahol a bot ellenőrzi, hogy a szerző szerepe alacsonyabb-e a célszerepkörnél. Például nem szeretné, hogy a Moderátorok betilthessék a Rendszergazdákat.
 
-**How can I enable the role hierarchy?** Check if the author’s highest role is less than the target’s highest role. If it is then return an error.
+**Hogyan engedélyezhetem a szerepkör-hierarchiát?** Ellenőrizze, hogy a szerző legmagasabb szerep kisebb-e, mint a célpont legmagasabb szerepe. Ha ez így van, akkor visszaad egy hibát.
 
-**Why should I add this?**
-1. You need to add this to get your bot approved.
-2. It makes it so that helpers can’t warn/mute admins since that doesn’t seem right.
+**Miért kellene ezt hozzáadnom?**
+1. Ezt hozzá kell adnod ahhoz, hogy jóváhagyd a botodat.
+2. Lehetővé teszi, hogy a segítők ne figyelmeztse/némítsa az adminisztrátorokat, mivel ez nem tűnik helyesnek.
 
-**I don’t know how to do this... Someone help me!** Ask in your bots' support server or <#648996487371554834>.
+**I don’t know how to do this... Valaki segítsen!** Kérdezze meg a botok támogatási szerverét vagy <648996487371554834>.
