@@ -1,15 +1,15 @@
-Hello! Due to a change of Discord's Developer Terms of Service (<https://discord.dev/legal>) you now need a Privacy Policy for your bot!
+Hallo! Aufgrund einer Änderung der Nutzungsbedingungen für Entwickler von Discord (<https://discord.dev/legal>) benötigen Sie jetzt eine Datenschutzrichtlinie für Ihren Bot!
 
-**What is a Privacy Policy?** According to Wikipedia, "A privacy policy is a statement or legal document that discloses some or all of the ways a party gathers, uses, discloses, and manages a customer or client's data."
+**Was ist eine Datenschutzrichtlinie?** Laut Wikipedia ist „eine Datenschutzrichtlinie eine Erklärung oder ein Rechtsdokument, das einige oder alle Möglichkeiten offenlegt, wie eine Partei die Daten eines Kunden oder Kunden sammelt, verwendet, offenlegt und verwaltet.“
 
-**What does my Privacy Policy need to have?** Please read this message for information about what your privacy policy needs to include: https://advaith.is-in-hyper.space/1faafadb0f.png
+**Was muss meine Datenschutzrichtlinie haben?** Bitte lesen Sie diese Nachricht, um Informationen darüber zu erhalten, was Ihre Datenschutzrichtlinie enthalten muss: https://advaith.is-in-hyper.space/1faafadb0f.png
 
-**Why do I need to add this?** You need a valid privacy policy in order to submit a bot on Discord Extreme List and in order to follow Discord's Developer Terms of Service.
+**Warum muss ich das hinzufügen?** Du benötigst eine gültige Datenschutzrichtlinie, um einen Bot auf Discord Extreme List einzureichen und die Nutzungsbedingungen für Discord für Entwickler zu befolgen.
 
-**How can I add one? Do I need a website?** No, you just need to have one accessible to your users, If that's a website, GitHub Gist, command, etc.
+**Wie kann ich einen hinzufügen? Brauche ich eine Website?** Nein, Sie müssen nur einen für Ihre Benutzer zugänglich sein, wenn das eine Website, GitHub Gist, Befehl usw. ist.
 
-**What if I don't store data?** You *still* need a privacy policy that says "We do not store data" followed by a way to contact you.
+**Was passiert, wenn ich keine Daten speichere?** Sie *benötigen noch* eine Datenschutzerklärung mit der Aufschrift „Wir speichern keine Daten“, gefolgt von einer Möglichkeit, Sie zu kontaktieren.
 
-**I need help with this!** First, have a look at some examples and read all the text above, then feel free to send a message to a staff member! Please __do not__ ping a staff member and just wait for a reply. Thank you for the patience!
+**Ich brauche Hilfe dabei!** Sehen Sie sich zuerst einige Beispiele an und lesen Sie den gesamten obigen Text, dann senden Sie eine Nachricht an einen Mitarbeiter! Please __do not__ ping a staff member and just wait for a reply. Danke für die Geduld!
 
-**Example Privacy Policies** A list of good valid example privacy policies can be found here: <https://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71>
+**Beispiel Datenschutzrichtlinien** Eine Liste guter gültiger Beispiel-Datenschutzrichtlinien finden Sie hier: <https://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71>
