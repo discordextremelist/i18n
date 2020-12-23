@@ -1,1 +1,1 @@
-**#** Only English is used in this channel. 🇬🇧 Please use <#710308345021595679> channel to speak **LANGUAGE_HERE**.
+**#** Ebben a csatornában csak az angol nyelvet használják. 🇬🇧 Használja a <710308345021595679> csatornát, hogy beszéljen **LANGUAGE_HERE**.
