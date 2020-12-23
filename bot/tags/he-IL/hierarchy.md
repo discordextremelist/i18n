@@ -1,9 +1,9 @@
-**What is a role hierarchy?** A role hierarchy is where the bot checks if the author’s role is lower than the targets role. For example, you don't want Moderators being able to ban Administrators.
+**מהי היררכיית תפקידים?** היררכיית תפקידים היא המקום שבו הבוט בודק אם תפקידו של המחבר נמוך יותר מאשר תפקיד המטרות. לדוגמה, אינך מעוניין שמנהלים יוכלו לאסור מנהלי מערכת.
 
-**How can I enable the role hierarchy?** Check if the author’s highest role is less than the target’s highest role. If it is then return an error.
+**How can I enable the role hierarchy?** Check if the author’s highest role is less than the target’s highest role. אם זה אז להחזיר שגיאה.
 
-**Why should I add this?**
-1. You need to add this to get your bot approved.
-2. It makes it so that helpers can’t warn/mute admins since that doesn’t seem right.
+**למה אני צריך להוסיף את זה?**
+1. אתה צריך להוסיף את זה כדי לקבל אישור בוט שלך.
+2. זה עושה את זה כך שעוזרים לא יכולים להתריע/אילם מנהלים שכן זה לא נראה נכון.
 
-**I don’t know how to do this... Someone help me!** Ask in your bots' support server or <#648996487371554834>.
+**אני לא יודע איך לעשות את זה... שמישהו יעזור לי!** שאל בשרת התמיכה של הבוטים שלך או <648996487371554834>.

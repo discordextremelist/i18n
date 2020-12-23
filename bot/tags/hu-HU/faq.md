@@ -1,15 +1,15 @@
-**Q: Who are we?** A: We are Discord bot list (<https://discordextremelist.xyz>).
+**K: Kik vagyunk mi?** A: Mi vagyunk Discord bot lista (<https://discordextremelist.xyz>).
 
-**Q: Where can I submit my bot at?** A: You can submit it at <https://discordextremelist.xyz/bots/submit>.
+**K: Hol küldhetem el a botomat?** A: Akkor küldje el a <https://discordextremelist.xyz/bots/submit>.
 
-**Q: Can I submit anything else besides my bot?** A: Yes! You can submit servers and templates.
+**K: Beküldhetek mást is a botomon kívül?** A: Igen! Küldhet kiszolgálókat és sablonokat.
 
-**Q: Are you guys looking for new moderators?** A: Not at the moment, but when we'll do we'll make sure to announce that in <#568590840130175007> channel.
+**K: Új moderátorokat keresnek?** A: Jelenleg nem, de amikor megtesszük, biztosak vagyunk benne, hogy ezt a <568590840130175007> csatornában jelentjük be.
 
-**Q: Can I become a moderator?** A: Simple answer - no. Why? Because applications are closed.
+**K: Lehetek moderátor?** A: Egyszerű válasz - nem. Miért? Mert a jelentkezések le vannak zárva.
 
-**Q: What are the approval times?** A: Current approval time is <5 days.
+**K: Mik a jóváhagyási idők?** A: A jelenlegi jóváhagyási idő <5 nap.
 
-**Q: How do I resubmit my bot?** A: Go to your profile (<https://discordextremelist.xyz/users/@me>) and click resubmit.
+**K: Hogyan küldhetem el újra a botomat?** A: Menjen a profiljába (<https://discordextremelist.xyz/users/@me>), és kattintson az újraküldésre.
 
-**Q: When I'm trying to add my bot it tells me that the bot already exists.** A: Either it's archived and you need to resubmit it, or you're using the wrong ID. However if it's the correct ID and it is not archived, contact a Website Administrator.
+**K: Amikor megpróbálom hozzáadni a botomat, azt mondja, hogy a bot már létezik.** V: Vagy archiválva van, és újra be kell küldenie, vagy rossz azonosítót használ. Ha azonban ez a helyes azonosító, és nincs archiválva, forduljon a webhely rendszergazdájához.

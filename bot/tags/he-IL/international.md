@@ -1,1 +1,1 @@
-**#** Only English is used in this channel. 🇬🇧 Please use <#710308345021595679> channel to speak **LANGUAGE_HERE**.
+**#** רק אנגלית משמשת בערוץ זה. 🇬🇧 השתמש <710308345021595679> בערוץ לדבר **LANGAGE_HERE**

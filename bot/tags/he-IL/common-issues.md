@@ -1,15 +1,15 @@
-**Common issues that will prevent your bot from being approved**
-1. No role hierarchy checks.
-2. Unknown command errors.
-3. Invite link is generated to ask for administrator.
-4. Commands ask for wrong permissions (For ex: warn command asks for administrator etc).
-5. Level up messages that are not configurable.
-6. Commands returning NSFW content in an SFW channel.
-7. No error handler/messages (missing permissions, missing arguments, wrong arguments and so on).
-8. Say command (or any other that resend what author said) being able to mention everyone or unmentionable roles. (depends on permissions checks).
-9. Commands do what they aren't supposed to do (for ex: mute doesn't mute, kick doesn't kick and so on (obviously when bot isn't missing any permissions)).
-10. Privacy Policy is invalid.
+**בעיות נפוצות שימנעו את אישור הבוט**
+1. אין היררכיית תפקידים בודקת.
+2. שגיאות פקודה לא ידועות.
+3. קישור הזמן נוצר כדי לבקש מנהל מערכת.
+4. פקודות לבקש הרשאות שגויות (עבור לשעבר: להזהיר פקודה מבקשת מנהל וכו).
+5. רמת הודעות שאינן ניתנות להגדרה.
+6. פקודות החזרת תוכן NSFW בערוץ SFW.
+7. אין מטפל שגיאות/הודעות (הרשאות חסרות, טיעונים חסרים, טיעונים שגויים וכן הלאה).
+8. אמור פקודה (או כל סוג אחר שישלח מחדש את מה שאמר המחבר) להיות מסוגל להזכיר את כולם או תפקידים בלתי מוזכרים. (תלוי בבדיקות הרשאות).
+9. פקודות לעשות את מה שהם לא אמורים לעשות (למשל: אילם לא להשתיק, בעיטה לא לבעוט וכן הלאה (כמובן כאשר בוט לא חסר כל הרשאות)).
+10. מדיניות הפרטיות אינה חוקית.
 
-**I refuse to fix any of the issues** If you refuse to fix the issues that will prevent bot from approval - we'll deny your bot.
+**אני מסרב לתקן את כל הבעיות** אם תסרב לתקן את הבעיות שימנעו את אישור בוט - נדחה את בוט שלך.
 
-**I refused to fix listed issues and my bot was denied but I switched my mind** Fix the issues and resubmit your bot at <https://discordextremelist.xyz/users/@me>.
+**סירבתי לתקן את הבעיות המפורטות ואת בוט שלי נדחתה אבל עברתי את דעתי** לתקן את הבעיות ולשלוח מחדש בוט שלך ב <https://discordextremelist.xyz/users/@me>.

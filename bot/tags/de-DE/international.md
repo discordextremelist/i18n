@@ -1,1 +1,1 @@
-**#** Only English is used in this channel. 🇬🇧 Please use <#710308345021595679> channel to speak **LANGUAGE_HERE**.
+**#** In diesem Kanal wird nur Englisch verwendet. 🇬🇧 Please use <#710308345021595679> channel to speak **LANGUAGE_HERE**.

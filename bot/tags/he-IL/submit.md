@@ -1,7 +1,7 @@
-Having trouble locating the submit button? Well here you go!
+מתקשה לאתר את כפתור השליחה? ובכן הנה לך!
 
-**Submit a bot:** <https://discordextremelist.xyz/en-US/bots/submit>
+**שלח בוט:** <https://discordextremelist.xyz/en-US/bots/submit>
 
-**Submit a server:** <https://discordextremelist.xyz/en-US/servers/submit>
+**שלח שרת:** <https://discordextremelist.xyz/en-US/servers/submit>
 
-**Submit a template:** <https://discordextremelist.xyz/en-US/templates/submit>
+**שלח תבנית:** <https://discordextremelist.xyz/en-US/templates/submit>
