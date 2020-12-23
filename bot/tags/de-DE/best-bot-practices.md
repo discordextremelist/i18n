@@ -1,3 +1,3 @@
-**Best Bot Practises** This is a document that contains basic requirements for all public bots being listed on DEL.
+**Best Bot Practits** Dies ist ein Dokument, das grundlegende Anforderungen für alle öffentlichen Bots enthält, die in DEL gelistet sind.
 
 <https://github.com/discordextremelist/help/blob/master/discord-bot-best-practises/en.md>
