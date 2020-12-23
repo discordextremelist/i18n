@@ -1,15 +1,15 @@
-Hello! Due to a change of Discord's Developer Terms of Service (<https://discord.dev/legal>) you now need a Privacy Policy for your bot!
+Helló! A Discord fejlesztői szolgáltatási feltételeinek (<https://discord.dev/legal>) megváltozása miatt most szüksége van egy adatvédelmi szabályzatra a botjához!
 
-**What is a Privacy Policy?** According to Wikipedia, "A privacy policy is a statement or legal document that discloses some or all of the ways a party gathers, uses, discloses, and manages a customer or client's data."
+**Mi az az Adatvédelmi Szabályzat?** A Wikipédia szerint „Az adatvédelmi politika olyan nyilatkozat vagy jogi dokumentum, amely felfedi, hogy egy fél milyen módon gyűjti, használja, közzéteszi és kezeli az ügyfél vagy ügyfél adatait.”
 
-**What does my Privacy Policy need to have?** Please read this message for information about what your privacy policy needs to include: https://advaith.is-in-hyper.space/1faafadb0f.png
+**Mire van szüksége az Adatvédelmi szabályzatomnak?** Kérjük, olvassa el ezt az üzenetet arról, hogy mit kell tartalmaznia az adatvédelmi irányelveinek: https://advaith.is-in-hyper.space/1faafadb0f.png
 
-**Why do I need to add this?** You need a valid privacy policy in order to submit a bot on Discord Extreme List and in order to follow Discord's Developer Terms of Service.
+**Miért kell ezt hozzáadnom?** . Érvényes adatvédelmi szabályzatra van szüksége ahhoz, hogy egy botot beküldjön a Discord Extreme List listájára, és kövesse a Discord fejlesztői szolgáltatási feltételeit.
 
-**How can I add one? Do I need a website?** No, you just need to have one accessible to your users, If that's a website, GitHub Gist, command, etc.
+**Hogyan adhatok hozzá egyet? Szükségem van egy weboldalra?** Nem, csak meg kell, hogy egy elérhető a felhasználók, Ha ez egy weboldal, GitHub Gist, parancs, stb..
 
-**What if I don't store data?** You *still* need a privacy policy that says "We do not store data" followed by a way to contact you.
+**Mi történik, ha nem tárolok adatokat?** Ön *még* kell egy adatvédelmi politika, amely kimondja, hogy „Mi nem tárolja az adatokat”, majd egy módja, hogy kapcsolatba lépjen Önnel.
 
-**I need help with this!** First, have a look at some examples and read all the text above, then feel free to send a message to a staff member! Please __do not__ ping a staff member and just wait for a reply. Thank you for the patience!
+**Segítségre van szükségem ezzel!** Először is, vessen egy pillantást néhány példára, és olvassa el az összes fenti szöveget, majd nyugodtan küldjön üzenetet a személyzet tagjának! Kérjük __ne__ ping a személyzet tagja, és csak várni a választ. Köszönöm a türelmet!
 
-**Example Privacy Policies** A list of good valid example privacy policies can be found here: <https://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71>
+**Példa Adatvédelmi irányelvek** A jó érvényes példa adatvédelmi irányelveit itt találja: <https://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71>
