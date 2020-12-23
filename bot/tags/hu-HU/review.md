@@ -1,5 +1,5 @@
-**When will my bot be reviewed?**
+**Mikor fogják felülvizsgálni a botomat?**
 
-We currently **do not** have an **ETA** as to when your bot will be reviewed. It will most likely take **over** a week.
+Jelenleg **nincs** **ETA** , hogy mikor lesz felül a bot. Ez valószínűleg **több mint** egy héten.
 
-Continually asking us as to when your bot will be reviewed will result in your bot being declined.
+Folyamatosan arra kér minket, hogy mikor fogják ellenőrizni a botodat, az azt eredményezi, hogy a botodat elutasítják.
