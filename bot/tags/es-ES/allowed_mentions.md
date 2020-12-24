@@ -1,5 +1,5 @@
-**Allowed Mentions** Trying to sanitise mentions? Here are some examples of what you should use.
+**Menciones añadidas** ¿Intenta desinfectar menciones? Aquí hay algunos ejemplos de lo que debe usar.
 
-<https://github.com/discordextremelist/help/blob/master/allowed_mentions/en.md>
+[https://github.com/discordextremelist/help/blob/master/allowed_mentions/es.md](https://github.com/discordextremelist/help/blob/master/allowed_mentions/en.md)
 
-If you would like to contribute an example for a library not listed, please make a pull request.
+Si te gustaría contribuir un ejemplo para una librería no listada, por favor abre un pull request.
