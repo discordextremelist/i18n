@@ -1,6 +1,6 @@
-In order to prevent misinformation and inaccuracies, we have strict protocols in place around features relating to COVID-19 as shown below.
+Con el fin de evitar información errónea e imprecisiones, tenemos en vigor protocolos estrictos en torno a las características relacionadas al COVID-19 como se muestra a continuación.
 
-**COVID-19 Bots** We do not permit COVID-19 bots being submitted, existing bots are exempt from this rule and have been subject to stringent testing.
+**Bots sobre el COVID-19** No permitimos que se envíen bots sobre el COVID-19, aquellos existentes están exceptos de esta regla y han sido sometidos a pruebas rigurosas.
 
 **COVID-19 Statistics** When supplying statistics such as case information you **__MUST__** provide the time these numbers were updated and the source/API used.
 
