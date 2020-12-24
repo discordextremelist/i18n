@@ -3,7 +3,7 @@
 - La habilidad de utilizar JS en la página de tu bot.
 - La habilidad de personalizar el CSS de tu perfil de DEL.
 - Una insignia de 💗 especial en tu perfil
-- the booster role here and access to a secret channel
-- you get listed on the DEL About page!
+- El rol booster aquí y acceso a un canal secreto.
+- Aparecerás listado en la página "acerca de" en DEL!
 
-__Let's see if we can get this server to Level 2!__
+__Veamos si podemos llevar a este servidor al Nivel 2!__
