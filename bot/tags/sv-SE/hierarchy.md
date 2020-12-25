@@ -1,6 +1,6 @@
-**Vad är en rollhierarki?** En rollhierarki är där roboten kontrollerar om författarens roll är lägre än målrollen. Du vill till exempel inte att moderatorer ska kunna förbjuda administratörer.
+**Vad är en rollhierarki?** En rollhierarki är där boten kontrollerar om användarens roll är lägre än målets roll. Du vill till exempel inte att Moderatorer ska kunna bannlysa Administratörer.
 
-**Hur aktiverar jag rollhierarkin?** Kontrollera om författarens högsta roll är mindre än målets högsta roll. Om det är sedan returnera ett fel.
+**Hur aktiverar jag rollhierarkin?** Kontrollera om författarens högsta roll är lägre än målets högsta roll. Om det är så, returnera ett fel.
 
 **Varför ska jag lägga till detta?**
 1. Du måste lägga till detta för att få din bot godkänd.
