@@ -4,7 +4,7 @@ Hej! På grund av en ändring av Discords användarvillkor för utvecklare (<htt
 
 **Vad behöver min sekretesspolicy ha?** Läs det här meddelandet för information om vad din sekretesspolicy behöver innehålla: https://advaith.is-in-hyper.space/1faafadb0f.png
 
-**Varför behöver jag lägga till detta?** Du behöver en giltig sekretesspolicy för att kunna skicka in en bot på Discord Extreme List och för att följa Discord's Developer användarvillkor.
+**Varför behöver jag lägga till detta?** Du behöver en giltig sekretesspolicy för att kunna registrera en bot på Discord Extreme List och för att följa Discord's Utvecklar användarvillkor.
 
 **Hur kan jag lägga till en? Behöver jag en webbplats?** Nej, du behöver bara ha en tillgänglig för dina användare, Om det är en webbplats, GitHub Gist, kommando, etc.
 
