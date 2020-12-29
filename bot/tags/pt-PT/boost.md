@@ -1,5 +1,5 @@
-Hey guys, please <:boost:745415781453529138> **Boost** this server! Boosting gives you **DEL Premium**:
-- a ⭐ on all of your bots (on the bot page and in list pages)
+Ei pessoal, <:boost:745415781453529138> **Impulsionem** este servidor! Impulsionar dá-lhe **DEL Premium**:
+- uma ⭐ em todos os seus bots (na página do bot e nas páginas de lista)
 - the ability to use JS on your bot pages
 - the ability to set custom CSS on your DEL profile
 - a special 💗 badge on your profile
