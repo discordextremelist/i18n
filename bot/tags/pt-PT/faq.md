@@ -12,4 +12,4 @@
 
 **Q: Como eu ressubmeto o meu bot?** R: Vá no seu perfil (<https://discordextremelist.xyz/users/@me>) e clique ressubmeter.
 
-**Q: When I'm trying to add my bot it tells me that the bot already exists.** A: Either it's archived and you need to resubmit it, or you're using the wrong ID. However if it's the correct ID and it is not archived, contact a Website Administrator.
+**Q: Quando tento adicionar o meu bot, diz-me que o bot já existe.** R: Ou está arquivado e precisa ressubmetê-lo ou está a usar o ID incorreto. No entanto, se for o ID correto e não estiver arquivado, contacte um administrador  do sítio Web.
