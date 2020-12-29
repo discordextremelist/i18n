@@ -1,4 +1,4 @@
-**Allowed Mentions** Trying to sanitise mentions? Here are some examples of what you should use.
+**Menções Permitidas** Tentando sanitizar menções? Aqui estão alguns exemplos do que deve usar.
 
 <https://github.com/discordextremelist/help/blob/master/allowed_mentions/en.md>
 
