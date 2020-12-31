@@ -83,6 +83,7 @@
 	"common.jsDisabled": "ATENCIÓN! Actualmente tiene Javascript deshabilitado, nuestro sitio no funciona correctamente con JavaScript deshabilitado.",
 	"common.page": "Página",
 	"common.copyID": "Copiar ID",
+	"common.copyOwnerID": "Copy Owner ID",
 	"common.error": "Error",
 	"common.error.dapiFail": "Se produjo un error al consultar la API de Discord.",
 	"common.error.404": "Esta página no existe.",
