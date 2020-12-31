@@ -74,6 +74,8 @@
 	"common.votes": "Röster",
 	"common.owner": "Ägare",
 	"common.listingOwner": "Listnings Ägare",
+	"common.members": "Members",
+	"common.online": "Online",
 	"common.creator": "Skapare",
 	"common.editor": "Ändrare",
 	"common.editors": "Redaktörer",

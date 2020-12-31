@@ -74,6 +74,8 @@
 	"common.votes": "Voti",
 	"common.owner": "Proprietario",
 	"common.listingOwner": "Listing Owner",
+	"common.members": "Members",
+	"common.online": "Online",
 	"common.creator": "Creator",
 	"common.editor": "Editor",
 	"common.editors": "Editors",
