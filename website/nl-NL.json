@@ -83,6 +83,7 @@
 	"common.jsDisabled": "WAARSCHUWING! U heeft momenteel JavaScript uitgeschakeld, onze site zal niet correct werken als JavaScript is uitgeschakeld.",
 	"common.page": "Pagina",
 	"common.copyID": "Kopieer ID",
+	"common.copyOwnerID": "Copy Owner ID",
 	"common.error": "Fout",
 	"common.error.dapiFail": "Er is een fout opgetreden bij het opvragen van de Discord API.",
 	"common.error.404": "Deze pagina bestaat niet.",
