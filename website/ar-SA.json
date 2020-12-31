@@ -83,6 +83,7 @@
 	"common.jsDisabled": "تحذير! تم تعطيل الجافا سكربت, ولن يعمل موقعنا بشكل صحيح لتعطيل الجافا سكربت",
 	"common.page": "صفحة",
 	"common.copyID": "نسخ الايدي",
+	"common.copyOwnerID": "Copy Owner ID",
 	"common.error": "خطأ",
 	"common.error.dapiFail": "حدث خطأ عند الاستعلام عن Discord API.",
 	"common.error.404": "هذه الصفحة غير موجودة.",
