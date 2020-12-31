@@ -83,6 +83,7 @@
 	"common.jsDisabled": "VARNING! Du har för tillfället JavaScript inaktiverat, våran hemsida kommer inte att fungera korrekt utan att JavaScript är påslaget.",
 	"common.page": "Sida",
 	"common.copyID": "Kopiera ID",
+	"common.copyOwnerID": "Copy Owner ID",
 	"common.error": "Fel",
 	"common.error.dapiFail": "Ett fel inträffade när vi kallade Discord API:n.",
 	"common.error.404": "Den här sidan finns inte.",
