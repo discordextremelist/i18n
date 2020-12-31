@@ -74,6 +74,8 @@
 	"common.votes": "Votes",
 	"common.owner": "Pemilik",
 	"common.listingOwner": "Listing Owner",
+	"common.members": "Members",
+	"common.online": "Online",
 	"common.creator": "Creator",
 	"common.editor": "Penyunting",
 	"common.editors": "Penyunting lainnya",
