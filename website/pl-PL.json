@@ -74,6 +74,8 @@
 	"common.votes": "Głosy",
 	"common.owner": "Właściciel",
 	"common.listingOwner": "Listing Owner",
+	"common.members": "Members",
+	"common.online": "Online",
 	"common.creator": "Twórca",
 	"common.editor": "Edytor",
 	"common.editors": "Edytorzy",
