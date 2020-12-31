@@ -83,6 +83,7 @@
 	"common.jsDisabled": "אזהרה! הJavascript שיש לך כרגע מושבת האתר שלנו לא יתפקד כראוי כאשר הJavaScript מושבת.",
 	"common.page": "עמוד",
 	"common.copyID": "עתק מזהה",
+	"common.copyOwnerID": "Copy Owner ID",
 	"common.error": "שגיאה",
 	"common.error.dapiFail": "אירעה שגיאה בעת שהשתמש את הדיסקורד איפלי.",
 	"common.error.404": "העמוד הזה אינו קיים.",

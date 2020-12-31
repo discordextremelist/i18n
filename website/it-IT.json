@@ -83,6 +83,7 @@
 	"common.jsDisabled": "WARNING! You currently have JavaScript disabled, our site will not function correctly with JavaScript disabled.",
 	"common.page": "Pagina",
 	"common.copyID": "Copy ID",
+	"common.copyOwnerID": "Copy Owner ID",
 	"common.error": "Errore",
 	"common.error.dapiFail": "An error occurred when querying the Discord API.",
 	"common.error.404": "Questa pagina non esiste.",

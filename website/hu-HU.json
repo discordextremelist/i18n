@@ -83,6 +83,7 @@
 	"common.jsDisabled": "FIGYELEM! Neked jelenleg kivan kapcsolva a JavaScript ami azt jelenti hogy a mi weboldalunk nem fog mükődni ha kivan kapcsolva a JavaScript.",
 	"common.page": "Oldal",
 	"common.copyID": "ID másolása",
+	"common.copyOwnerID": "Copy Owner ID",
 	"common.error": "Hiba",
 	"common.error.dapiFail": "Egy hiba történt miközben megprobáltuk lekérdezni a Discord API-t.",
 	"common.error.404": "A kért oldal nem létezik.",
