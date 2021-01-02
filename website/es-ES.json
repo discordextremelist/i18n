@@ -516,6 +516,7 @@
 	"page.remove.premadeReasons.offline": "Offline",
 	"page.remove.premadeReasons.notLGBT": "No es un servidor LGTB",
 	"page.remove.premadeReasons.invalidInvite": "Invitación inválida",
+	"page.remove.premadeReasons.templateDeleted": "Plantilla Eliminada",
 	"page.remove.premadeReasons.invalidDesc": "Descripción Inválida",
 	"page.remove.premadeReasons.shitBot": "Bot Basura",
 	"page.remove.premadeReasons.notFixed": "No esta arreglado",
