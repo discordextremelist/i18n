@@ -516,6 +516,7 @@
 	"page.remove.premadeReasons.offline": "Niedostępny",
 	"page.remove.premadeReasons.notLGBT": "Not an LGBT server",
 	"page.remove.premadeReasons.invalidInvite": "Nieprawidłowe zaproszenie",
+	"page.remove.premadeReasons.templateDeleted": "Template Deleted",
 	"page.remove.premadeReasons.invalidDesc": "Nieprawidłowy opis",
 	"page.remove.premadeReasons.shitBot": "Gówniany bot",
 	"page.remove.premadeReasons.notFixed": "Not Fixed",
