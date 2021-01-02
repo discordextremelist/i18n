@@ -516,6 +516,7 @@
 	"page.remove.premadeReasons.offline": "Çevrimdışı",
 	"page.remove.premadeReasons.notLGBT": "LGBT Sunucusu değil",
 	"page.remove.premadeReasons.invalidInvite": "Geçersiz Davet",
+	"page.remove.premadeReasons.templateDeleted": "Şablon Silindi",
 	"page.remove.premadeReasons.invalidDesc": "Geçersiz Açıklama",
 	"page.remove.premadeReasons.shitBot": "Shit Bot",
 	"page.remove.premadeReasons.notFixed": "Hatalar Giderilmedi",
