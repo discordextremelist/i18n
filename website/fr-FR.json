@@ -516,6 +516,7 @@
 	"page.remove.premadeReasons.offline": "Hors-Ligne",
 	"page.remove.premadeReasons.notLGBT": "N'est pas un serveur LGBT",
 	"page.remove.premadeReasons.invalidInvite": "Invitation Invalide",
+	"page.remove.premadeReasons.templateDeleted": "Modèle Supprimé",
 	"page.remove.premadeReasons.invalidDesc": "Description Invalide",
 	"page.remove.premadeReasons.shitBot": "Bot de Merde",
 	"page.remove.premadeReasons.notFixed": "Non Fixé",
