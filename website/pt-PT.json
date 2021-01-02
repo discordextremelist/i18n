@@ -516,6 +516,7 @@
 	"page.remove.premadeReasons.offline": "Fora de Linha",
 	"page.remove.premadeReasons.notLGBT": "Não é um servidor LGBT",
 	"page.remove.premadeReasons.invalidInvite": "Convite Inválido",
+	"page.remove.premadeReasons.templateDeleted": "Modelo Eliminado",
 	"page.remove.premadeReasons.invalidDesc": "Descrição Inválida",
 	"page.remove.premadeReasons.shitBot": "Porcaria de Bot",
 	"page.remove.premadeReasons.notFixed": "Não Afixado",
