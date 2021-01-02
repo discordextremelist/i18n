@@ -516,6 +516,7 @@
 	"page.remove.premadeReasons.offline": "offline",
 	"page.remove.premadeReasons.notLGBT": "Nem LGBT-kiszolgáló",
 	"page.remove.premadeReasons.invalidInvite": "Érvénytelen meghívó",
+	"page.remove.premadeReasons.templateDeleted": "Sablon Törölve",
 	"page.remove.premadeReasons.invalidDesc": "Érvénytelen leírás",
 	"page.remove.premadeReasons.shitBot": "Szar Bot",
 	"page.remove.premadeReasons.notFixed": "Nem rögzített",
