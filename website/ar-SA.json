@@ -516,6 +516,7 @@
 	"page.remove.premadeReasons.offline": "Offline",
 	"page.remove.premadeReasons.notLGBT": "Not an LGBT server",
 	"page.remove.premadeReasons.invalidInvite": "Invalid Invite",
+	"page.remove.premadeReasons.templateDeleted": "تم مسح القالب",
 	"page.remove.premadeReasons.invalidDesc": "Invalid Description",
 	"page.remove.premadeReasons.shitBot": "شيت بوت",
 	"page.remove.premadeReasons.notFixed": "لم يتم تصليحة",
