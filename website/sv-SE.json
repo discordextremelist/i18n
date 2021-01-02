@@ -516,6 +516,7 @@
 	"page.remove.premadeReasons.offline": "Offline",
 	"page.remove.premadeReasons.notLGBT": "Inte en HBT-server",
 	"page.remove.premadeReasons.invalidInvite": "Ogiltig inbjudan",
+	"page.remove.premadeReasons.templateDeleted": "Mall borttagen",
 	"page.remove.premadeReasons.invalidDesc": "Ogiltig beskrivning",
 	"page.remove.premadeReasons.shitBot": "Skit Bot",
 	"page.remove.premadeReasons.notFixed": "Inte fast",

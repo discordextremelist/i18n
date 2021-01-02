@@ -516,6 +516,7 @@
 	"page.remove.premadeReasons.offline": "לא מחובר",
 	"page.remove.premadeReasons.notLGBT": "לא שרת של הקהילה הגאה",
 	"page.remove.premadeReasons.invalidInvite": "ההזמנה לא עובדת",
+	"page.remove.premadeReasons.templateDeleted": "התבנית נמחקה",
 	"page.remove.premadeReasons.invalidDesc": "התיאור לא טוב",
 	"page.remove.premadeReasons.shitBot": "בוט חרא",
 	"page.remove.premadeReasons.notFixed": "לא תוקן",
