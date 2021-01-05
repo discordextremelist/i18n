@@ -375,6 +375,7 @@
 	"partials.verificationLevel.3.name": "🟠 Alto",
 	"partials.verificationLevel.4.title": "┻━┻ ミヽ(ಠ 益 ಠ)ﾉ彡 ┻━┻ - Precisa ter o número de telemóvel verificado.",
 	"partials.verificationLevel.4.name": "🔴 Muito Alto",
+	"page.home.seizureWarning": "SEIZURE WARNING! Clicking OK will trigger flashing colors; close this page if it can be harmful to you.",
 	"page.error.critical": "Ocorreu um erro crítico.",
 	"page.snake.highscore": "Recorde:",
 	"page.snake.score": "Pontuação:",
