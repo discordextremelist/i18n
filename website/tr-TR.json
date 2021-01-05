@@ -375,6 +375,7 @@
 	"partials.verificationLevel.3.name": "🟠 Yüksek",
 	"partials.verificationLevel.4.title": "┻━┻ ミヽ(ಠ 益 ಠ)ﾉ彡 ┻━┻  Doğrulanmış bir telefon numarasına sahip olması gerekir.",
 	"partials.verificationLevel.4.name": "🔴 Çok Yüksek",
+	"page.home.seizureWarning": "SEIZURE WARNING! Clicking OK will trigger flashing colors; close this page if it can be harmful to you.",
 	"page.error.critical": "Kritik bir hata oluştu.",
 	"page.snake.highscore": "Yüksek Skor:",
 	"page.snake.score": "Skor:",
