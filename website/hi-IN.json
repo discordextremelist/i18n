@@ -375,6 +375,7 @@
 	"partials.verificationLevel.3.name": "🟠 High",
 	"partials.verificationLevel.4.title": "┻━┻ ミヽ(ಠ 益 ಠ)ﾉ彡 ┻━┻ - Must have a verified phone number.",
 	"partials.verificationLevel.4.name": "🔴 Very High",
+	"page.home.seizureWarning": "SEIZURE WARNING! Clicking OK will trigger flashing colors; close this page if it can be harmful to you.",
 	"page.error.critical": "A critical error has occurred.",
 	"page.snake.highscore": "High Score:",
 	"page.snake.score": "Score:",
