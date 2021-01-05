@@ -375,6 +375,7 @@
 	"partials.verificationLevel.3.name": "🟠 Hög",
 	"partials.verificationLevel.4.title": "┻━┻ ミヽ(ಠ 益 ಠ)ﾉ彡 ┻━┻ - Måste ha verifierat telefon nummer.",
 	"partials.verificationLevel.4.name": "🔴 Väldigt Hög",
+	"page.home.seizureWarning": "SEIZURE WARNING! Clicking OK will trigger flashing colors; close this page if it can be harmful to you.",
 	"page.error.critical": "Ett kritiskt fel har uppstått.",
 	"page.snake.highscore": "Rekord:",
 	"page.snake.score": "Poäng:",

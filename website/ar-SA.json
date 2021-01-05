@@ -375,6 +375,7 @@
 	"partials.verificationLevel.3.name": "🟠 عالي",
 	"partials.verificationLevel.4.title": "┻━┻ ミヽ(ಠ 益 ಠ)ﾉ彡 ┻━┻ - يجب ان تفعل الحساب برقم جوال",
 	"partials.verificationLevel.4.name": "🔴عالي جداً",
+	"page.home.seizureWarning": "SEIZURE WARNING! Clicking OK will trigger flashing colors; close this page if it can be harmful to you.",
 	"page.error.critical": "حدث خطأ فادح.",
 	"page.snake.highscore": "درجة عالية:",
 	"page.snake.score": "درجة:",
