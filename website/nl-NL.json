@@ -375,6 +375,7 @@
 	"partials.verificationLevel.3.name": "🟠 Hoog",
 	"partials.verificationLevel.4.title": "┻━┻ ミ ヽ (ಠ 益 ಠ) ﾉ 彡 ┻━┻ - Moet een geverifieerd telefoonnummer hebben.",
 	"partials.verificationLevel.4.name": "🔴 Zeer hoog",
+	"page.home.seizureWarning": "SEIZURE WARNING! Clicking OK will trigger flashing colors; close this page if it can be harmful to you.",
 	"page.error.critical": "Er is een kritieke fout opgetreden.",
 	"page.snake.highscore": "Hoogste score:",
 	"page.snake.score": "Score:",
