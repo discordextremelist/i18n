@@ -13,6 +13,7 @@
 	"common.home": "Accueil",
 	"common.bot": "Bot",
 	"common.slashCommands": "Commandes Slash",
+	"common.optional": "Optional",
 	"common.bots": "Bots",
 	"common.bots.discord": "Bots Discord",
 	"common.bots.random": "Bots Aléatoires",
