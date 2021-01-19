@@ -1,12 +1,12 @@
 Hallo! Wegens een wijziging van Discord's Developer Terms of Service (<https://discord.dev/legal>) heb je nu een privacybeleid nodig voor je bot!
 
-**What is a Privacy Policy?** According to Wikipedia, "A privacy policy is a statement or legal document that discloses some or all of the ways a party gathers, uses, discloses, and manages a customer or client's data."
+**Wat is een Privacybeleid?** Volgens Wikipedia: „Een privacybeleid is een verklaring of juridisch document dat enkele of alle manieren onthult waarop een partij gegevens van een klant of klant verzamelt, gebruikt, openbaar maakt en beheert.”
 
-**What does my Privacy Policy need to have?** Please read this message for information about what your privacy policy needs to include: https://advaith.is-in-hyper.space/1faafadb0f.png
+**Wat moet mijn privacybeleid hebben?** Lees alstublieft dit bericht voor meer informatie over wat jou privacybeleid moet bevatten: https://advaith.is-in-hyper.space/1faafadb0f.png
 
-**Why do I need to add this?** You need a valid privacy policy in order to submit a bot on Discord Extreme List and in order to follow Discord's Developer Terms of Service.
+**Waarom moet ik dit hebben?** Je moet een privacybeleid hebben om een bot bij Discord Extreme List in te dienen en om Discord's Developer Terms of Service te volgen.
 
-**How can I add one? Do I need a website?** No, you just need to have one accessible to your users, If that's a website, GitHub Gist, command, etc.
+**Hoe kan ik er een maken? Heb ik een website nodig?** Nee, je hoeft alleen maar iets te hebben wat toegankelijkis voor je gebruikers. Bijvoorbeeld een website, GitHub Gist, een command, etc.
 
 **What if I don't store data?** You *still* need a privacy policy that says "We do not store data" followed by a way to contact you.
 
