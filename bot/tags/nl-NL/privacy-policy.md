@@ -8,8 +8,8 @@ Hallo! Wegens een wijziging van Discord's Developer Terms of Service (<https://d
 
 **Hoe kan ik er een maken? Heb ik een website nodig?** Nee, je hoeft alleen maar iets te hebben wat toegankelijkis voor je gebruikers. Bijvoorbeeld een website, GitHub Gist, een command, etc.
 
-**What if I don't store data?** You *still* need a privacy policy that says "We do not store data" followed by a way to contact you.
+**Wat als ik geen gegevens opsla?** U moet *alsnog* een privacybeleid hebben die "We slaan geen gegevens op" zegt, gevolgd door een manier om contact met u op te nemen.
 
-**I need help with this!** First, have a look at some examples and read all the text above, then feel free to send a message to a staff member! Please __do not__ ping a staff member and just wait for a reply. Thank you for the patience!
+**Ik heb hier hulp bij nodig!** Kijk eerst naar enkele voorbeelden en lees de bovenstaande text, voel je daarna vrij om een bericht te sturen naar een staflid! Gelieve __niet__ een staflid te pingen. Wacht geduldig op een antwoord. Bedankt voor uw geduld!
 
-**Example Privacy Policies** A list of good valid example privacy policies can be found here: <https://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71>
+**Voorbeelden van een privacybeleid** Een lijst met goede en geldige voorbeelden van een Privacybeleid kunt u hier vinden: <https://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71>

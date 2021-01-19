@@ -1,5 +1,5 @@
-**When will my bot be reviewed?**
+**Wanneer wordt mijn bot beoordeeld?**
 
-We currently **do not** have an **ETA** as to when your bot will be reviewed. It will most likely take **over** a week.
+Momenteel hebben we **geen ETA** met betrekking tot wanneer u bot zal worden beoordeeld. Waarschijnlijk zal het **meer dan** een week duren.
 
 Continually asking us as to when your bot will be reviewed will result in your bot being declined.
