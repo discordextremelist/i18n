@@ -1,9 +1,9 @@
-Hey guys, please <:boost:745415781453529138> **Boost** this server! Boosting gives you **DEL Premium**:
-- a ⭐ on all of your bots (on the bot page and in list pages)
-- the ability to use JS on your bot pages
-- the ability to set custom CSS on your DEL profile
-- a special 💗 badge on your profile
-- the booster role here and access to a secret channel
-- you get listed on the DEL About page!
+Hallo, alstublieft <:boost:745415781453529138> **Boost** deze server! Boosting geeft je **DEL Premium**:
+- een ⭐ op al je bots (op de bot pagina en in lijst pagina's)
+- de mogelijkheid om JS te gebruiken op uw botpagina's
+- de mogelijkheid om aangepaste CSS in te stellen op uw DEL profiel
+- een speciale 💗 badge op jouw profiel
+- de booster rol hier en toegang tot een geheim kanaal
+- je wordt weergegeven op de DEL about pagina!
 
-__Let's see if we can get this server to Level 2!__
+__Laten we kijken of we deze server naar niveau 2 kunnen krijgen!__
