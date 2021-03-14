@@ -133,6 +133,7 @@
 	"common.error.bot.arr.clientIDIsUser": "O ID do cliente que forneceu é um ID de Utilizador. Apenas forneça um ID do cliente se este for diferente do ID do bot do utilizador. O campo de \"ID do cliente\" é apenas para bot antigos; se não souber o que colocar, deixe em branco.",
 	"common.error.bot.arr.fetchError": "Houve um erro ao obter a informação do bot do Discord",
 	"common.error.bot.arr.notFound": "Não existe um bot com esse ID.",
+	"common.error.bot.arr.notPublic": "This bot is not public. You must enable \"Public Bot\" in the Developer Portal.",
 	"common.error.bot.arr.isUser": "Não pode adicionar utilizadores a uma lista de bots.",
 	"common.error.bot.arr.scopesNotInInvite": "O URL de convite fornecido não inclui todos os escopos selecionados.",
 	"common.error.bot.arr.twitterInvalid": "O nome d'utilizador do Twitter fornecido é inválido.",

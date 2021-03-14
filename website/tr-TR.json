@@ -133,6 +133,7 @@
 	"common.error.bot.arr.clientIDIsUser": "Girdiğiniz ID bir kullanıcı ID'sidir. Client ID'yi yalnızca botun kullanıcı ID'sinden farklıysa girin. Client ID alanı yalnızca eski botlar içindir; ne koyacağınızı bilmiyorsanız, boş bırakın.",
 	"common.error.bot.arr.fetchError": "Bot bilgisi Discord'dan getirilirken bir hata oluştu",
 	"common.error.bot.arr.notFound": "Bu ID'ye sahip bir bot yok.",
+	"common.error.bot.arr.notPublic": "This bot is not public. You must enable \"Public Bot\" in the Developer Portal.",
 	"common.error.bot.arr.isUser": "Hey! Bot listesine kullanıcı ekleyemezsiniz..",
 	"common.error.bot.arr.scopesNotInInvite": "Sağlanan davet URL'si seçilen kapsamların tümünü içermiyor.",
 	"common.error.bot.arr.twitterInvalid": "Sağlanan Twitter kullanıcı adı geçersiz.",

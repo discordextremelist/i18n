@@ -133,6 +133,7 @@
 	"common.error.bot.arr.clientIDIsUser": "ID:t du valde är ett användar ID. Välj bara ett klient ID om det är annorlunda från din bots användar ID. Klient ID fältet är bara för gamla bottar; om du inte vet vad du ska skriva, lämna det tommt.",
 	"common.error.bot.arr.fetchError": "Det uppstod ett fel med att hämta bottinformationen från Discord",
 	"common.error.bot.arr.notFound": "Det finns ingen bot med detta ID.",
+	"common.error.bot.arr.notPublic": "This bot is not public. You must enable \"Public Bot\" in the Developer Portal.",
 	"common.error.bot.arr.isUser": "Du kan inte lägga till användar på bott listan.",
 	"common.error.bot.arr.scopesNotInInvite": "Den angivna inbjudnings-URL:en innehåller inte alla markerade omfång.",
 	"common.error.bot.arr.twitterInvalid": "De valda Twitter användarnamnet är ogiltigt.",

@@ -133,6 +133,7 @@
 	"common.error.bot.arr.clientIDIsUser": "الكلاينت ايدي لقد ارسلته انه العضو ايدي. فقط ارسل الكلاينت ايدي اذ كان مختلف عن البوت مستخدم ايدي. مكان الكلاينت ايدي انه فقط للبوتات القديمه؛ اذ كنت لا تعرف ماذا يمكنك ان تضع هنا اتركها فارغا.",
 	"common.error.bot.arr.fetchError": "الخطأ في معلومات البوت من الديسكورد.",
 	"common.error.bot.arr.notFound": "لا يوجد بوت مع هذا الايدي.",
+	"common.error.bot.arr.notPublic": "This bot is not public. You must enable \"Public Bot\" in the Developer Portal.",
 	"common.error.bot.arr.isUser": "انت لا تمتلك القدرة علي اضافة اعضاء في قائمة البوت.",
 	"common.error.bot.arr.scopesNotInInvite": "The provided invite URL doesn't include all the selected scopes.",
 	"common.error.bot.arr.twitterInvalid": "اسم مستخدم Twitter المقدم غير صالح.",
