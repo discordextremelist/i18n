@@ -134,6 +134,7 @@
 	"common.error.bot.arr.fetchError": "Det uppstod ett fel med att hämta bottinformationen från Discord",
 	"common.error.bot.arr.notFound": "Det finns ingen bot med detta ID.",
 	"common.error.bot.arr.notPublic": "This bot is not public. You must enable \"Public Bot\" in the Developer Portal.",
+	"common.error.bot.arr.noBot": "You selected the Bot scope, but your application does not have a bot.",
 	"common.error.bot.arr.isUser": "Du kan inte lägga till användar på bott listan.",
 	"common.error.bot.arr.scopesNotInInvite": "Den angivna inbjudnings-URL:en innehåller inte alla markerade omfång.",
 	"common.error.bot.arr.twitterInvalid": "De valda Twitter användarnamnet är ogiltigt.",
