@@ -134,6 +134,7 @@
 	"common.error.bot.arr.fetchError": "Da ist ein Fehler aufgetreten beim abrufen der Bot-information von Discord",
 	"common.error.bot.arr.notFound": "Es gibt keinen Bot mit dieser ID.",
 	"common.error.bot.arr.notPublic": "This bot is not public. You must enable \"Public Bot\" in the Developer Portal.",
+	"common.error.bot.arr.noBot": "You selected the Bot scope, but your application does not have a bot.",
 	"common.error.bot.arr.isUser": "Sie können der Bot-Liste keine Benutzer hinzufügen.",
 	"common.error.bot.arr.scopesNotInInvite": "Die bereitgestellte Einladungs-URL enthält nicht alle ausgewählten Bereiche.",
 	"common.error.bot.arr.twitterInvalid": "Der angegebene Twitter Benutzername ist ungültig.",

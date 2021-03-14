@@ -134,6 +134,7 @@
 	"common.error.bot.arr.fetchError": "Egy hiba történt a bot infó vonzása a discordról",
 	"common.error.bot.arr.notFound": "Nem található ilyen bot ezzel az ID-val.",
 	"common.error.bot.arr.notPublic": "This bot is not public. You must enable \"Public Bot\" in the Developer Portal.",
+	"common.error.bot.arr.noBot": "You selected the Bot scope, but your application does not have a bot.",
 	"common.error.bot.arr.isUser": "Te nem adhatsz felhasználókat a bot listához.",
 	"common.error.bot.arr.scopesNotInInvite": "A megadott meghívó URL-címe nem tartalmazza az összes kijelölt kört.",
 	"common.error.bot.arr.twitterInvalid": "A megadott Twitter felhasználónév érvénytelen.",
