@@ -133,6 +133,7 @@
 	"common.error.bot.arr.clientIDIsUser": "מזהה הלקוח שסיפקת הוא מזהה משתמש. ספק מזהה לקוח רק אם הוא שונה ממזהה המשתמש של ה-bot. שדה זיהוי הלקוח הוא רק עבור בוטים ישנים; אם אתה לא יודע מה לשים, להשאיר אותו ריק.",
 	"common.error.bot.arr.fetchError": "אירעה שגיאה בהבאת מידע בוט מהמחלוקת",
 	"common.error.bot.arr.notFound": "אין בוט עם ה\"איי-די\" הזה",
+	"common.error.bot.arr.notPublic": "This bot is not public. You must enable \"Public Bot\" in the Developer Portal.",
 	"common.error.bot.arr.isUser": "אתה לא יכול להוסף עוד משתמשים לרשימת הבוטים.",
 	"common.error.bot.arr.scopesNotInInvite": "כתובת ה-URL של ההזמנה שסופקה אינה כוללת את כל הטווחים שנבחרו.",
 	"common.error.bot.arr.twitterInvalid": "שם המשתמש בטוויטר שסופק אינו חוקי.",
