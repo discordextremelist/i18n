@@ -60,7 +60,7 @@
 	"common.login.subtitle": "Belépés folyamatban...",
 	"common.login.continue": "Folytatás",
 	"common.login.join": "Csatlakozz a DEL Discord szerverére",
-	"common.login.notice": "Azzal hogy rákattintasz hogy \"Folytatás\" azzal beleegyezzel a mi szolgáltatási feltételek, adatvédelmi irányelvek és webhely-irányelvekkel.",
+	"common.login.notice": "By clicking continue you agree to our Terms of Service, Privacy Policy, and Website Guidelines.",
 	"common.loading": "Betöltés",
 	"common.delete": "Törlés",
 	"common.archive": "Archive",
