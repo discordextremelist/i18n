@@ -177,6 +177,7 @@
 	"common.error.listing.arr.removeYourselfEditor": "Vous n'avez pas besoin de vous ajouter en tant qu'éditeur puisque vous en êtes le propriétaire, veuillez retirer votre identifiant de la saisie des éditeurs.",
 	"common.error.server.notInQueue": "Vous ne pouvez pas refuser un serveur qui n'est pas dans la file d'attente.",
 	"common.error.server.conflict": "Ce serveur a déjà été ajouté à la liste.",
+	"common.error.server.invite.expires": "This invite is set to expire. Invites must be permanent.",
 	"common.error.server.arr.invite.dgg": "Le code d'invitation ne peut pas contenir discord.gg",
 	"common.error.server.arr.invite.sameServer": "Le code d'invitation utilisé doit provenir du même serveur que celui utilisé lors de la soumission !",
 	"common.error.server.arr.previewChannel.invalid": "Vous avez fourni un ID de salon de prévisualiserion non valide.",
