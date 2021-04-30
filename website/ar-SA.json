@@ -177,6 +177,7 @@
 	"common.error.listing.arr.removeYourselfEditor": "You do not need to add yourself as an editor as you are the owner, please remove your ID from the Editors input.",
 	"common.error.server.notInQueue": "You cannot approve or decline a server that is not in the queue.",
 	"common.error.server.conflict": "تمت إضافة هذا السيرفر بالفعل إلى القائمة.",
+	"common.error.server.invite.expires": "This invite is set to expire. Invites must be permanent.",
 	"common.error.server.arr.invite.dgg": "لا يمكن أن يحتوي رمز الدعوة على discord.gg",
 	"common.error.server.arr.invite.sameServer": "يجب أن يكون رمز الدعوة المستخدم من نفس السيرفر المستخدم أثناء الإرسال!",
 	"common.error.server.arr.previewChannel.invalid": "لقد قدمت ايدي قناة معاينة غير صالح.",
