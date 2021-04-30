@@ -177,6 +177,7 @@
 	"common.error.listing.arr.removeYourselfEditor": "Du behöver inte lägga till dig själv som en redaktör om du är ägaren, snälla ta bort ditt ID från Redaktörsfältet.",
 	"common.error.server.notInQueue": "Du kan inte neka eller godkänna en server som inte är i kön.",
 	"common.error.server.conflict": "Denna server är redan på listan.",
+	"common.error.server.invite.expires": "This invite is set to expire. Invites must be permanent.",
 	"common.error.server.arr.invite.dgg": "Inbjudnings koden kan inte innehålla discord.gg",
 	"common.error.server.arr.invite.sameServer": "Inbjudningskoden måste vara från samma server som den använda under inlämningen!",
 	"common.error.server.arr.previewChannel.invalid": "Du valde ett ogiltigt förhandsvisningskanal ID.",
