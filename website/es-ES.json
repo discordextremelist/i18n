@@ -177,6 +177,7 @@
 	"common.error.listing.arr.removeYourselfEditor": "No tienes que ponerte a ti mismo/a como un editor dado que eres el propietario/a, por favor elimina tu ID de la lista de editores.",
 	"common.error.server.notInQueue": "No puedes aprobar o rechazar un servidor que no está en la cola.",
 	"common.error.server.conflict": "Este servidor ya ha sido añadido a la lista.",
+	"common.error.server.invite.expires": "This invite is set to expire. Invites must be permanent.",
 	"common.error.server.arr.invite.dgg": "El código de invitación no puede contener discord.gg",
 	"common.error.server.arr.invite.sameServer": "El código de invitación debe del mismo servidor del que se está enviando en el formulario!",
 	"common.error.server.arr.previewChannel.invalid": "Has proporcionado una ID de canal de previsualización inválida.",
