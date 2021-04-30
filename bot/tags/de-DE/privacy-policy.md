@@ -10,6 +10,6 @@ Hallo! Aufgrund einer Änderung der Nutzungsbedingungen für Entwickler von Disc
 
 **Was passiert, wenn ich keine Daten speichere?** Sie *benötigen noch* eine Datenschutzerklärung mit der Aufschrift „Wir speichern keine Daten“, gefolgt von einer Möglichkeit, Sie zu kontaktieren.
 
-**Ich brauche Hilfe dabei!** Sehen Sie sich zuerst einige Beispiele an und lesen Sie den gesamten obigen Text, dann senden Sie eine Nachricht an einen Mitarbeiter! Please __do not__ ping a staff member and just wait for a reply. Danke für die Geduld!
+**Ich brauche Hilfe dabei!** Sehen Sie sich zuerst einige Beispiele an und lesen Sie den gesamten obigen Text, dann senden Sie eine Nachricht an einen Mitarbeiter! Bitte __erwähne keine__ Teammitglieder und warte auf eine Antwort. Danke für die Geduld!
 
 **Beispiel Datenschutzrichtlinien** Eine Liste guter gültiger Beispiel-Datenschutzrichtlinien finden Sie hier: <https://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71>
