@@ -177,6 +177,7 @@
 	"common.error.listing.arr.removeYourselfEditor": "אתה לא צריך להוסיף את עצמך כעורך כפי שאתה הבעלים, אנא הסר את תעודת הזהות שלך מתוך קלט העורכים.",
 	"common.error.server.notInQueue": "אין אפשרות לאשר או לדחות שרת שאינו נמצא בתור.",
 	"common.error.server.conflict": "השרת הזה נוסף כבר לרשימה.",
+	"common.error.server.invite.expires": "This invite is set to expire. Invites must be permanent.",
 	"common.error.server.arr.invite.dgg": "קוד ההזמנה אינו יכול להכיל discord.gg",
 	"common.error.server.arr.invite.sameServer": "קוד ההזמנה חייב להיות מאותו השרת מזה ששימש במהלך ההגשה!",
 	"common.error.server.arr.previewChannel.invalid": "סיפקת מזהה ערוץ תצוגה מקדימה לא חוקי.",
