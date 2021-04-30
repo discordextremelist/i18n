@@ -177,6 +177,7 @@
 	"common.error.listing.arr.removeYourselfEditor": "Nem kell szerkesztőként hozzáadnia magát, mivel Ön a tulajdonos, kérjük, távolítsa el az azonosítóját a Szerkesztők bemenetéből.",
 	"common.error.server.notInQueue": "Te nem fogadhatod el ezt a botot mert ez a bot nincs a várólistán.",
 	"common.error.server.conflict": "Ez a szerver már szerepel a listán.",
+	"common.error.server.invite.expires": "This invite is set to expire. Invites must be permanent.",
 	"common.error.server.arr.invite.dgg": "A meghívási kódban nem szerepelhet a discord.gg",
 	"common.error.server.arr.invite.sameServer": "Ez a meghívási kód már használva van egy másik szerveren az egyik van használva!",
 	"common.error.server.arr.previewChannel.invalid": "Te egy érvénytelen WidgetBot bemutató csatorna ID-t adtál meg.",
