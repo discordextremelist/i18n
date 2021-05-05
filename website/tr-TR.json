@@ -177,7 +177,7 @@
 	"common.error.listing.arr.removeYourselfEditor": "Sahip olduğunuz için kendinizi Editör olarak eklemenize gerek yoktur, lütfen ID'nizi Editörler girişinden kaldırın.",
 	"common.error.server.notInQueue": "Kuyrukta olmayan bir sunucuyu onaylayamaz veya reddedemezsiniz.",
 	"common.error.server.conflict": "Ah lanet! Bu sunucu zaten listeye eklenmiş!?",
-	"common.error.server.invite.expires": "This invite is set to expire. Invites must be permanent.",
+	"common.error.server.invite.expires": "Bu davetin süresi dolmak üzere. Oluşturulan davetiyeler kalıcı olmalı.",
 	"common.error.server.arr.invite.dgg": "Davet bağlantısı/kodu discord.gg içermemeli.",
 	"common.error.server.arr.invite.sameServer": "Kullanılan davet bağlantısı/kodu , gönderim sırasında kullanılan sunucu ile aynı olmalıdır!",
 	"common.error.server.arr.previewChannel.invalid": "Geçersiz bir önizleme kanalı ID'si sağladınız.",
