@@ -4,4 +4,4 @@ Al fine di prevenire disinformazione e inesattezze, abbiamo protocolli rigorosi 
 
 **Statistiche sul COVID-19** Quando si forniscono statistiche come informazioni sui casi si **__DEVE__** fornire l'ora in cui questi dati sono stati aggiornati e la sorgente/API utilizzata.
 
-**COVID-19 Information and News** Embedding health advice without inline citations to authorised sources such as the US or Australian Centres of Disease Control and UK or New Zealand Ministry of Health websites is strictly prohibited. Embedding COVID-19 news is outright prohibited.
+**Informazioni e notizie sul COVID-19** Incorporare consulenza sanitaria senza citazioni a fonti autorizzate come gli Stati Uniti o l'Australian Centres of Disease Control e i siti web del Ministero della Salute del Regno Unito o Nuova Zelanda è severamente proibito. Aggiungere notizie sul COVID-19 è assolutamente vietato.
