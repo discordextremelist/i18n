@@ -408,7 +408,7 @@
 	"page.bots.generalInfo.editors.placeholder": "csodálatosemberekid menőemberekid legjobbbarátid",
 	"page.bots.generalInfo.editors.notice": "Nem tartalmazza a te saját ID-dat.",
 	"page.bots.generalInfo.prefix": "Bot Prefix",
-	"page.bots.generalInfo.prefix.view": "Prefix",
+	"page.bots.generalInfo.prefix.view": "Előtag",
 	"page.bots.generalInfo.library": "Bot Könyvtára",
 	"page.bots.generalInfo.library.view": "Könyvtár",
 	"page.bots.tag.fun": "Szórakozás",
