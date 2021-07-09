@@ -1,9 +1,9 @@
-**What is a role hierarchy?** A role hierarchy is where the bot checks if the author’s role is lower than the targets role. For example, you don't want Moderators being able to ban Administrators.
+**¿Qué es una jerarquía de roles?** Una jerarquía de roles es donde el bot comprueba si el rol del autor es inferior al rol objetivo. Por ejemplo, no quieres que los moderadores puedan prohibir a los administradores.
 
-**How can I enable the role hierarchy?** Check if the author’s highest role is less than the target’s highest role. If it is then return an error.
+**¿Cómo puedo habilitar la jerarquía de roles?** Comprueba si el rol más alto del autor es inferior al rol más alto del objetivo. Si es así, devuelve un error.
 
-**Why should I add this?**
-1. You need to add this to get your bot approved.
-2. It makes it so that helpers can’t warn/mute admins since that doesn’t seem right.
+**¿Por qué debo añadir esto?**
+1. Necesitas añadir esto para que tu bot se apruebe.
+2. Lo hace para que los ayudantes no puedan advertir/silenciar a los administradores ya que eso no parece correcto.
 
-**I don’t know how to do this... Someone help me!** Ask in your bots' support server or <#648996487371554834>.
+**No sé cómo hacer esto... ¡Alguien me ayude!** Pregunte en el servidor de soporte de sus robots o <648996487371554834>.
