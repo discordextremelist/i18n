@@ -1,1 +1,1 @@
-Just because a feature of your bot works in your server, **doesn't** mean it works in ours.
+Solo porque una característica de tu bot funcione en tu servidor, **no** significa que funciona en el nuestro.
