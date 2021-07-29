@@ -12,4 +12,4 @@
 
 **Ich weigere mich, eines der Probleme zu beheben** Wenn Sie sich weigern, die Probleme zu beheben, die die Genehmigung des Bots verhindern, verweigern wir Ihren Bot.
 
-**I refused to fix listed issues and my bot was denied but I switched my mind** Fix the issues and resubmit your bot at <https://discordextremelist.xyz/users/@me>.
+**Ich habe mich geweigert, die aufgeführten Probleme zu beheben und mein Bot wurde abgelehnt, aber ich habe meine Meinung geändert** Beheben Sie die Probleme und reichen Sie Ihren Bot erneut unter <https://discordextremelist.xyz/users/@me> ein.
