@@ -4,4 +4,4 @@ A félretájékoztatás és a pontatlanságok megelőzése érdekében szigorú 
 
 **COVID-19 Statisztika** Amikor a statisztikai adatok, mint például az eseti információk Ön **__KÜL__** adja meg a számok frissítésének idejét és a felhasznált forrás/API használatát.
 
-**COVID-19 Information and News** Az egészségügyi tanácsadás beágyazása olyan engedélyezett forrásokba, mint az Egyesült Államok vagy az Ausztrál Betegségvédelmi Központ, valamint az Egyesült Királyság vagy Új-Zéland Egészségügyi Minisztériuma honlapjai szigorúan tilos. Beágyazás COVID-19 hírek egyenesen tilos.
+**COVID-19 Információk és Hírek** Az egészségügyi tanácsadás beágyazása olyan engedélyezett forrásokba, mint az Egyesült Államok vagy az Ausztrál Betegségvédelmi Központ, valamint az Egyesült Királyság vagy Új-Zéland Egészségügyi Minisztériuma honlapjai szigorúan tilos. Beágyazás COVID-19 hírekről egyenesen tilos.
