@@ -549,7 +549,7 @@
 	"page.guidelines.bot.listing.2": "A te botodnak a rövid és a hosszú leírás kapcsolatban kell lennie a botoddal.",
 	"page.guidelines.bot.listing.3": "Te talán használhatsz HTML-t és Markdown-t a botod hosszú leírásában, ha the botod ellenőrzive van akkor te tudod használni a skript tagokat.",
 	"page.guidelines.bot.other.0": "A te botodnak kell hogy kövesse a Discord Felhasználási feltételek, és a fejlesztő használati feltételei és az adatvédelmi irányelvekeit.",
-	"page.guidelines.bot.other.1": "A botodnak kéne nem válaszolni más botokhoz vagy webhookokhoz.",
+	"page.guidelines.bot.other.1": "Your bot must not respond to other bots for permission-locked or loopable features.",
 	"page.guidelines.bot.other.2": "A botod nem lehet offline egy nagy időszakra és mindig online kell hogy legyen kivéve ha éppen karbantartás folyik.",
 	"page.guidelines.bot.other.3": "A botodnak kell hogy elszökje a @everyone és @here megemlítéseket.",
 	"page.guidelines.bot.other.4": "A bot nem küldhet automatikusan üzeneteket, kivéve, ha a kiszolgáló rendszergazdái kifejezetten engedélyezik, például:",
