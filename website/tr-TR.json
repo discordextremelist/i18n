@@ -549,7 +549,7 @@
 	"page.guidelines.bot.listing.2": "\nBotunuzun kısa ve uzun açıklaması botunuzla ilgili olmalıdır, hey bu çok zor olmasa!",
 	"page.guidelines.bot.listing.3": "Botunuzun uzun açıklamasında HTML ve Markdown kullanabilirsiniz, botunuz Doğrulanmışsa komut dosyası etiketlerini kullanabilirsiniz, bu harika!",
 	"page.guidelines.bot.other.0": "Botunuz Discord Kullanım Şartları, Geliştirici Kullanım Şartları ve Gizlilik Politikası'na uymalı ve uygun olmalıdır.",
-	"page.guidelines.bot.other.1": "Botunuz diğer botlara veya webhooklara cevap vermemelidir.",
+	"page.guidelines.bot.other.1": "Your bot must not respond to other bots for permission-locked or loopable features.",
 	"page.guidelines.bot.other.2": "Botunuz uzun bir süre çevrimdışı olmamalı ve bakım dışında her zaman çevrimiçi olmalıdır, bakım sürelerini bize bildirmeniz gerekir.",
 	"page.guidelines.bot.other.3": "Botunuz @everyone ve @here etiketlerini atmamalıdır.",
 	"page.guidelines.bot.other.4": "Sunucu yöneticileri tarafından açıkça etkinleştirilmediği sürece botunuz otomatik olarak ileti göndermemelidir:",
