@@ -549,7 +549,7 @@
 	"page.guidelines.bot.listing.2": "Your bot's short and long description must be related to your bot.",
 	"page.guidelines.bot.listing.3": "You may use HTML and Markdown in your bot's long description, if your bot is Verified you will be able to use script tags.",
 	"page.guidelines.bot.other.0": "Your bot must follow the Discord Terms of Use, Developer Terms of Use and Privacy Policy.",
-	"page.guidelines.bot.other.1": "Your bot must not respond to other bots or webhooks.",
+	"page.guidelines.bot.other.1": "Your bot must not respond to other bots for permission-locked or loopable features.",
 	"page.guidelines.bot.other.2": "Your bot must not go offline for a large period of time and it must be online all the time except for maintenance.",
 	"page.guidelines.bot.other.3": "Your bot must escape @everyone and @here mentions.",
 	"page.guidelines.bot.other.4": "Your bot must not automatically send messages unless explicitly enabled by server admins, such as:",
