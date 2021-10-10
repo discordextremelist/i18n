@@ -549,7 +549,7 @@
 	"page.guidelines.bot.listing.2": "يجب أن يكون وصف بوتك القصير والطويل مرتبطًا ببوتك.",
 	"page.guidelines.bot.listing.3": "يمكنك استخدام HTML و Markdown في الوصف الطويل البوت الخاص بك ، إذا تم التحقق من البوت الخاص بك ، فستتمكن من استخدام علامات البرنامج النصي.",
 	"page.guidelines.bot.other.0": "يجب أن يتبع البوت الخاص بك شروط استخدام Discord وشروط استخدام Developer وسياسة الخصوصية.",
-	"page.guidelines.bot.other.1": "يجب ان لا يستجيب البوت الخاص بك لـ الاخطارات ",
+	"page.guidelines.bot.other.1": "Your bot must not respond to other bots for permission-locked or loopable features.",
 	"page.guidelines.bot.other.2": "يجب ألا يكون البوت الخاص بك غير متصل لفترة كبيرة من الوقت ويجب أن يكون متصلاً طوال الوقت باستثناء الصيانة.",
 	"page.guidelines.bot.other.3": "يجب ان لا يحتوي بوتك علي المنشن @everyone و @here",
 	"page.guidelines.bot.other.4": "Your bot must not automatically send messages unless explicitly enabled by server admins, such as:",
