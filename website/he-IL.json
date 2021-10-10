@@ -549,7 +549,7 @@
 	"page.guidelines.bot.listing.2": "התיאור הקצר והארוך של הבוט שלך חייב להיות קשור לבוט שלך.",
 	"page.guidelines.bot.listing.3": "אתה יכול להשתמש ב- HTML וב- Markdown בתיאור הארוך של הבוט שלך, אם הבוט שלך מאומת תוכל להשתמש בתגי סקריפט.",
 	"page.guidelines.bot.other.0": "על הבוט שלך לעמוד בתנאי השימוש של דיסקורד ובתנאי השימוש במפתחים ובמדיניות הפרטיות.",
-	"page.guidelines.bot.other.1": "אסור לבוט שלך להגיב לבוטים או לווקי רשת אחרים.",
+	"page.guidelines.bot.other.1": "Your bot must not respond to other bots for permission-locked or loopable features.",
 	"page.guidelines.bot.other.2": "אסור שהבוט שלך יעבור במצב לא מקוון להרבה זמן גדול והוא חייב להיות מקוון כל הזמן למעט תחזוקה.",
 	"page.guidelines.bot.other.3": "הבוט שלך חייב לברוח מ- @here@ everyone מזכיר.",
 	"page.guidelines.bot.other.4": "על בוט שלך לא לשלוח הודעות באופן אוטומטי, אלא אם כן מופעלת במפורש על-ידי מנהלי שרתים, כגון:",

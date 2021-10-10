@@ -549,7 +549,7 @@
 	"page.guidelines.bot.listing.2": "La descrizione breve e lunga del tuo bot deve essere correlata al tuo bot.",
 	"page.guidelines.bot.listing.3": "Puoi usare HTML e Markdown nella descrizione lunga del tuo bot, e se il tuo bot è verificato potrai usare tag script.",
 	"page.guidelines.bot.other.0": "Il tuo bot deve seguire i Termini di utilizzo della Discord, i Termini di utilizzo degli sviluppatori e l'Informativa sulla privacy.",
-	"page.guidelines.bot.other.1": "Il tuo bot non deve rispondere ad altri bot o webhook.",
+	"page.guidelines.bot.other.1": "Your bot must not respond to other bots for permission-locked or loopable features.",
 	"page.guidelines.bot.other.2": "Il tuo bot non deve andare offline per un lungo periodo di tempo e deve essere sempre online, tranne che per la manutenzione.",
 	"page.guidelines.bot.other.3": "Il tuo bot non deve fare il ping di @everyone e @here.",
 	"page.guidelines.bot.other.4": "Il tuo bot non deve inviare automaticamente messaggi a meno che non sia esplicitamente abilitato dagli amministratori del server, come ad esempio:",

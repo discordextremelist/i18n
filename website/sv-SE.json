@@ -549,7 +549,7 @@
 	"page.guidelines.bot.listing.2": "Din robots korta och långa beskrivning måste vara relaterad till din bot.",
 	"page.guidelines.bot.listing.3": "Du kan använda HTML och Markdown i din robots långa beskrivning. Om din bot är Verified kommer du att kunna använda skripttaggar.",
 	"page.guidelines.bot.other.0": "Din bot måste följa Discords användningsvillkor, användarvillkor för utvecklare och sekretesspolicy.",
-	"page.guidelines.bot.other.1": "Din bot får inte svara på andra robotar eller webhooks.",
+	"page.guidelines.bot.other.1": "Your bot must not respond to other bots for permission-locked or loopable features.",
 	"page.guidelines.bot.other.2": "Din bot får inte gå offline under en lång tid och den måste vara online hela tiden förutom underhåll.",
 	"page.guidelines.bot.other.3": "Din bot måste fly @everyone och @here nämner.",
 	"page.guidelines.bot.other.4": "Din bot får inte skicka meddelanden automatiskt om de inte uttryckligen har aktiverats av serveradministratörer, till exempel:",
