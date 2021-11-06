@@ -286,6 +286,7 @@
 	"common.tags.lgbt": "Communauté LGBT",
 	"common.nav.logoAlt": "Logo de Discord Extreme List",
 	"common.nav.more": "Plus",
+	"common.nav.more.siteRepo": "Website Repository",
 	"common.nav.more.docs": "Documentation de l'API",
 	"common.nav.more.about": "À propos",
 	"common.nav.more.about.subtitle": "Information à propos de DEL et des contributeurs formidables qui font que DEL est là",
