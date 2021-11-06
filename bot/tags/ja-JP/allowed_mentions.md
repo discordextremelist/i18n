@@ -1,5 +1,5 @@
-**Allowed Mentions** Trying to sanitise mentions? Here are some examples of what you should use.
+**許可されたメンション** メンションをサニタイズしようとしていますか？ ここでは、使用すべきものの例をいくつか示します。
 
-<https://github.com/discordextremelist/help/blob/master/allowed_mentions/en.md>
+<https://github.com/discordextremelist/help/blob/master/allowed_mentions/jp.md>
 
-If you would like to contribute an example for a library not listed, please make a pull request.
+リストにないライブラリの例を寄稿したい場合は、プルリクエストをしてください。
