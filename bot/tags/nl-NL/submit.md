@@ -4,4 +4,4 @@ Heb je problemen met het vinden van de verzend knop? Kijk hier!
 
 **Verstuur een server:** <https://discordextremelist.xyz/en-US/servers/submit>
 
-**Verstuur een template** <https://discordextremelist.xyz/en-US/templates/submit>
+**Dien een template in** <https://discordextremelist.xyz/en-US/templates/submit>
