@@ -2,4 +2,4 @@
 
 Momenteel hebben we **geen ETA** met betrekking tot wanneer u bot zal worden beoordeeld. Waarschijnlijk zal het **meer dan** een week duren.
 
-Continu vragen wanneer je bot wordt beoordeeld zal uitlopen op afwijzing van je bot.
+Continu vragen naar wanneer je bot wordt beoordeeld zal resulteren op de afwijzing van je bot.

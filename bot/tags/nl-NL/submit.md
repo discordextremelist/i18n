@@ -1,7 +1,7 @@
-Heb je problemen met het vinden van de verzend knop? Kijk hier!
+Heb je problemen met het vinden van de verzendknop? Nou, hier heb je ze!
 
-**Verstuur een bot:** <https://discordextremelist.xyz/en-US/bots/submit>
+**Dien een bot in:** <https://discordextremelist.xyz/en-US/bots/submit>
 
-**Verstuur een server:** <https://discordextremelist.xyz/en-US/servers/submit>
+**Dien een server in:** <https://discordextremelist.xyz/en-US/servers/submit>
 
 **Dien een template in** <https://discordextremelist.xyz/en-US/templates/submit>
