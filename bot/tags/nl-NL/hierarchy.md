@@ -1,9 +1,9 @@
-**What is a role hierarchy?** A role hierarchy is where the bot checks if the author’s role is lower than the targets role. For example, you don't want Moderators being able to ban Administrators.
+**Wat is een rolhiërarchie?** Een rolhiërarchie is waar de bot controleert of de rol van de auteur lager is dan de doel-rol. Je wilt bijvoorbeeld niet dat Moderators beheerders kunnen verbannen.
 
-**How can I enable the role hierarchy?** Check if the author’s highest role is less than the target’s highest role. If it is then return an error.
+**Hoe kan ik de rolhiërarchie inschakelen?** Controleer of de hoogste rol van de auteur minder is dan de hoogste rol van het doel. Als dat zo is, retourneer je een fout.
 
-**Why should I add this?**
-1. You need to add this to get your bot approved.
-2. It makes it so that helpers can’t warn/mute admins since that doesn’t seem right.
+**Waarom zou ik dit toevoegen?**
+1. Je moet dit toevoegen om je bot te laten goedkeuren.
+2. Het maakt het zo dat helpers beheerders niet kunnen waarschuwen/dempen, omdat dat niet juist lijkt.
 
-**I don’t know how to do this... Someone help me!** Ask in your bots' support server or <#648996487371554834>.
+**Ik weet niet hoe ik dit moet doen... Iemand helpt me!** Vraag het in de ondersteuningsserver van je bot of <#648996487371554834>.
