@@ -1,15 +1,15 @@
-**Q: Who are we?** A: We are Discord bot list (<https://discordextremelist.xyz>).
+**Q: Wie zijn wij?** A: We zijn Discord-botlijst (<https://discordextremelist.xyz>).
 
-**Q: Where can I submit my bot at?** A: You can submit it at <https://discordextremelist.xyz/bots/submit>.
+**Q: Waar kan ik mijn bot indienen?** A: Je kunt het indienen op <https://discordextremelist.xyz/bots/submit>.
 
-**Q: Can I submit anything else besides my bot?** A: Yes! You can submit servers and templates.
+**Q: Kan ik nog iets anders indienen dan mijn bot?** A: Ja! Je kunt servers en templates indienen.
 
-**Q: Are you guys looking for new moderators?** A: Not at the moment, but when we'll do we'll make sure to announce that in <#568590840130175007> channel.
+**Q: Zijn jullie op zoek naar nieuwe moderators?** A: Op dit moment niet, maar wanneer we dat doen, zullen we dat in het <#568590840130175007>-kanaal aankondigen.
 
-**Q: Can I become a moderator?** A: Simple answer - no. Why? Because applications are closed.
+**Q: Kan ik moderator worden?** A: Eenvoudig antwoord - nee. Waarom? Omdat applicaties gesloten zijn.
 
-**Q: What are the approval times?** A: Current approval time is <5 days.
+**Q: Wat zijn de goedkeuringstijden?** A: Huidige goedkeuringstijd is <5 dagen.
 
-**Q: How do I resubmit my bot?** A: Go to your profile (<https://discordextremelist.xyz/users/@me>) and click resubmit.
+**Q: Hoe dien ik mijn bot opnieuw in?** A: Ga naar je profiel (<https://discordextremelist.xyz/users/@me>) en klik op opnieuw indienen.
 
-**Q: When I'm trying to add my bot it tells me that the bot already exists.** A: Either it's archived and you need to resubmit it, or you're using the wrong ID. However if it's the correct ID and it is not archived, contact a Website Administrator.
+**Q: Wanneer ik mijn bot probeer toe te voegen, vertelt het me dat de bot al bestaat.** A: Of het is gearchiveerd en je moet het opnieuw indienen, of je gebruikt de verkeerde ID. Als dit echter de juiste ID is en niet is gearchiveerd, neem dan contact op met een websitebeheerder.
