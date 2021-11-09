@@ -1,7 +1,7 @@
-In order to prevent misinformation and inaccuracies, we have strict protocols in place around features relating to COVID-19 as shown below.
+Om verkeerde informatie en onnauwkeurigheden te voorkomen, hebben we strikte protocollen opgesteld rond functies met betrekking tot COVID-19, zoals hieronder weergegeven.
 
-**COVID-19 Bots** We do not permit COVID-19 bots being submitted, existing bots are exempt from this rule and have been subject to stringent testing.
+**COVID-19 Bots** We staan niet toe dat COVID-19-bots worden ingediend, bestaande bots zijn vrijgesteld van deze regel en zijn onderworpen aan strenge tests.
 
-**COVID-19 Statistics** When supplying statistics such as case information you **__MUST__** provide the time these numbers were updated and the source/API used.
+**COVID-19 Statistieken** Bij het leveren van statistieken zoals case-informatie **__MOET__** je de de tijd en de bron/API van deze nummers weergeven.
 
-**COVID-19 Information and News** Embedding health advice without inline citations to authorised sources such as the US or Australian Centres of Disease Control and UK or New Zealand Ministry of Health websites is strictly prohibited. Embedding COVID-19 news is outright prohibited.
+**COVID-19 Informatie en nieuws** Het embedden van gezondheidsadviezen zonder inline citaten aan geautoriseerde bronnen zoals de Amerikaanse of Australische Centres of Disease Control en websites van het Britse of Nieuw-Zeelandse ministerie van Volksgezondheid is ten strengste verboden. Het embedden van COVID-19-nieuws is ronduit verboden.
