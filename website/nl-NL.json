@@ -455,7 +455,7 @@
 	"page.bots.invite.main": "Hoofd Server Uitnodiging",
 	"page.bots.invite.staff": "Test Server Uitnodiging",
 	"page.bots.shards": "Shards",
-	"page.bots.warning.delete": "Deleting a bot is irreversible. If you click Delete, your bot's data will be immediately erased from our database with no way of restoring it. Alternatively, you can click Archive to remove the bot from the site without deleting its data, so you can resubmit it in the future. Or, you can click Hide to keep its page active while removing it from list pages.",
+	"page.bots.warning.delete": "Het verwijderen van een bot is onomkeerbaar. Als je op Verwijderen klikt, worden de gegevens van je bot onmiddellijk uit onze database gewist zonder dat deze kunnen worden hersteld. Je kan ook klikken op Archief om de bot van de site te verwijderen zonder de gegevens ervan te verwijderen, zodat je deze in de toekomst opnieuw kunt indienen. Je kan ook op Verbergen klikken om de pagina actief te houden terwijl je deze van lijstpagina's verwijdert.",
 	"page.bots.submit.resubmitNote": "This is for submitting a bot to DEL for the first time. If your bot has been previously declined or removed by staff, don't use this page. Instead, go to {{{a}}}your archived bots{{{ea}}} and click resubmit.",
 	"page.bots.edit.title": "Edit Bot",
 	"page.bots.edit.subtitle": "Editing bot %s",
