@@ -1,15 +1,15 @@
-**Common issues that will prevent your bot from being approved**
-1. No role hierarchy checks.
-2. Unknown command errors.
-3. Invite link is generated to ask for administrator.
-4. Commands ask for wrong permissions (For ex: warn command asks for administrator etc).
-5. Level up messages that are not configurable.
-6. Commands returning NSFW content in an SFW channel.
-7. No error handler/messages (missing permissions, missing arguments, wrong arguments and so on).
-8. Say command (or any other that resend what author said) being able to mention everyone or unmentionable roles. (depends on permissions checks).
-9. Commands do what they aren't supposed to do (for ex: mute doesn't mute, kick doesn't kick and so on (obviously when bot isn't missing any permissions)).
-10. Privacy Policy is invalid.
+**Veelvoorkomende problemen die voorkomen dat je bot wordt goedgekeurd**
+1. Geen rolhiërarchie controles.
+2. Onbekende commando-fouten.
+3. Uitnodigingslink wordt gegenereerd om de beheerder te vragen te stellen.
+4. Commando's vragen om verkeerde machtigingen (bijvoorbeeld: waarschuwingscommando vraagt om administrator enz.).
+5. Niveau omhoog-berichten die niet configureerbaar zijn.
+6. Commando's die NSFW-inhoud retourneren in een SFW-kanaal.
+7. Geen fout-afhandelaar/berichten (ontbrekende permissies, ontbrekende argumenten, verkeerde argumenten, etc.).
+8. Zeg commando (of een ander dat opnieuw verzendt wat de auteur zei) om iedereen of onnoemelijke rollen te noemen. (hangt af van permissiescontrole).
+9. Commando's doen niet wat ze moeten doen (bijvoorbeeld: dempen; dempt niet, kick; kickt niet enz. (uiteraard wanneer de bot geen permissies mist)).
+10. Ongeldig privacybeleid.
 
-**I refuse to fix any of the issues** If you refuse to fix the issues that will prevent bot from approval - we'll deny your bot.
+**Ik weiger een van de problemen op te lossen** Als je weigert de problemen op te lossen die bot van goedkeuring weerhouden - keuren we je bot af.
 
-**I refused to fix listed issues and my bot was denied but I switched my mind** Fix the issues and resubmit your bot at <https://discordextremelist.xyz/users/@me>.
+**Ik weigerde opgesomde problemen op te lossen en mijn bot werd geweigerd, maar ik veranderde van gedachten** Los de problemen op en dien je bot opnieuw in op <https://discordextremelist.xyz/users/@me>.
