@@ -19,7 +19,7 @@
 	"common.bots.random": "Bot Aleatorios",
 	"common.bots.subtitle": "Nuestra lista completa de bots de Discord. Todos los bots enumerados aquí han sido aprobados por nuestro equipo de moderación para garantizar que sean de alta calidad.",
 	"common.bots.title.slashcommands": "Discord Application Command Bots",
-	"common.bots.subtitle.filter.slashcommands": "Our full list of Discord bots which integrate with Discord by supporting {{{a}}}Slash Commands{{{ea}}} and/or {{{a2}}}Context Menus{{{ea}}}! All of the bots listed here have been approved by our moderation team to ensure that they are high quality.",
+	"common.bots.subtitle.filter.slashcommands": "Our full list of Discord bots that integrate with Discord by supporting {{{a}}}Slash Commands{{{ea}}} and/or {{{a2}}}Context Menus{{{ea}}}! All of the bots listed here have been approved by our moderation team to ensure that they are high quality.",
 	"common.bots.title.fun": "Bots Divertidos de Discord",
 	"common.bots.subtitle.filter.fun": "Nuestra lista completa de bots divertidos de Discord. Todos los bots enumerados aquí han sido aprobados por nuestro equipo de moderación para garantizar que sean de alta calidad.",
 	"common.bots.title.social": "Bots Sociales de Discord",
