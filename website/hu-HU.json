@@ -19,7 +19,7 @@
 	"common.bots.random": "Véletlen Botok",
 	"common.bots.subtitle": "A mi listánk tele vannak discord botokkal, az összes botok ide kerülnek listázásra és azokat elfogadjuk a mi moderációs csapattal hogy annak biztosítása érdekében, hogy magas minőségűek legyenek.",
 	"common.bots.title.slashcommands": "Discord Application Command Bots",
-	"common.bots.subtitle.filter.slashcommands": "Our full list of Discord bots which integrate with Discord by supporting {{{a}}}Slash Commands{{{ea}}} and/or {{{a2}}}Context Menus{{{ea}}}! All of the bots listed here have been approved by our moderation team to ensure that they are high quality.",
+	"common.bots.subtitle.filter.slashcommands": "Our full list of Discord bots that integrate with Discord by supporting {{{a}}}Slash Commands{{{ea}}} and/or {{{a2}}}Context Menus{{{ea}}}! All of the bots listed here have been approved by our moderation team to ensure that they are high quality.",
 	"common.bots.title.fun": "Discord Szórakoztató Botok",
 	"common.bots.subtitle.filter.fun": "A Discord szórakoztató botok teljes listája. Az itt felsorolt összes botot moderációs csapatunk jóváhagyta annak érdekében, hogy kiváló minőségűek legyenek.",
 	"common.bots.title.social": "Discord Közösségi Botok",
