@@ -1,4 +1,4 @@
-**Common issues that will prevent your bot from being approved**
+**المُشكلات الشائعة التي ستمنع البوت الخاص بك من الموافقة**
 1. No role hierarchy checks.
 2. Unknown command errors.
 3. Invite link is generated to ask for administrator.
