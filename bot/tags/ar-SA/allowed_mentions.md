@@ -1,5 +1,5 @@
-**Allowed Mentions** Trying to sanitise mentions? Here are some examples of what you should use.
+**الإشعارات المسموح بها** تُحاول تنظيف الإشعارات؟ هُناك بعض الأمثلة علي ما يجب عليك فعله
 
 <https://github.com/discordextremelist/help/blob/master/allowed_mentions/en.md>
 
-If you would like to contribute an example for a library not listed, please make a pull request.
+إذا كُنت ترغب في المُساهمة ثمال مكتبة غير مُدرجة في القائمة, يرجي تقديم طلب.
