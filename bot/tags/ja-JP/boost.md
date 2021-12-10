@@ -1,8 +1,8 @@
-Hey guys, please <:boost:745415781453529138> **Boost** this server! Boosting gives you **DEL Premium**:
-- a ⭐ on all of your bots (on the bot page and in list pages)
-- the ability to use JS on your bot pages
-- the ability to set custom CSS on your DEL profile
-- a special 💗 badge on your profile
+やあみんな、お願いします <:boost:745415781453529138> **このサーバーを** ブースト！ ブーストすると **DEL プレミアム**
+- :star: すべてのボット（ボットページとリストページ）
+- ボットページでJSを使用する機能
+- DELプロファイルにカスタムCSSを設定する能力
+- プロフィールに特別な 💗 バッジ
 - the booster role here and access to a secret channel
 - you get listed on the DEL About page!
 
