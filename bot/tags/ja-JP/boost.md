@@ -3,7 +3,7 @@
 - ボットページでJSを使用する機能
 - DELプロファイルにカスタムCSSを設定する能力
 - プロフィールに特別な 💗 バッジ
-- the booster role here and access to a secret channel
-- you get listed on the DEL About page!
+- ここでブースターの役割と秘密のチャンネルへのアクセス
+- あなたはDELについてのページにリストされています!
 
-__Let's see if we can get this server to Level 2!__
+__このサーバーをレベル2にできるか見てみよう！__
