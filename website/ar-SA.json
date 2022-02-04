@@ -346,7 +346,7 @@
 	"common.footer.copyright": "&copy; حقوق الطبع والنشر 2019{{currentYear}}{{names}}AGPL-3.0 رخصة مفتوحة المصدر.",
 	"common.footer.copyright.title.0": "Click this text to show more licensing information.",
 	"common.footer.copyright.title.1": "انقر فوق هذا الارتباط لعرض ترخيص AGPL-3.0.",
-	"common.footer.trademark": "\"Discord Extreme List\" ، \"discordextremelist.xyz\" (غير حساسة لحالة الأحرف) هي علامات تجارية لشركة Cairo Mitchell-Acason ، يحظر استخدام هذه العلامات التجارية دون موافقة كتابية مسبقة.",
+	"common.footer.trademark": "\"Discord Extreme List\", \"discordextremelist.xyz\" (case-insensitive) are trademarks of {{name}}, the usage of these trademarks is prohibited without prior written approval.",
 	"common.footer.discordDisclaimer": "لا تنتمي Discord Extreme List إلى Discord، Inc. بأي شكل",
 	"common.social": "اجتماعي",
 	"common.social.facebook": "فيسبوك",
