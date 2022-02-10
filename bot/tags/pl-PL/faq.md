@@ -6,7 +6,7 @@
 
 **Q: Czy szukacie nowych moderatorów?** A: Aktualnie nie, ale kiedy będziemy szukać to napewno ogłosimy to w kanale <#568590840130175007>.
 
-**Q: Can I become a moderator?** A: Simple answer - no. Why? Because applications are closed.
+**Q: Czy mogę zostać moderatorem?** A: Prosta odpowiedź - nie. Dlaczego? Because applications are closed.
 
 **Q: What are the approval times?** A: Current approval time is <5 days.
 
