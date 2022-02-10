@@ -1,10 +1,10 @@
-**Q: Who are we?** A: We are Discord bot list (<https://discordextremelist.xyz>).
+**Q: Kim jesteśmy?** A: Jesteśmy listą botów na Discordzie (<https://discordextremelist.xyz>).
 
 **Q: Where can I submit my bot at?** A: You can submit it at <https://discordextremelist.xyz/bots/submit>.
 
-**Q: Can I submit anything else besides my bot?** A: Yes! You can submit servers and templates.
+**Q: Czy mogę dodać coś innego niż mój bot?** A: Oczywiście! Możesz dodać serwery i szablony.
 
-**Q: Are you guys looking for new moderators?** A: Not at the moment, but when we'll do we'll make sure to announce that in <#568590840130175007> channel.
+**Q: Czy szukacie nowych moderatorów?** A: Aktualnie nie, ale kiedy będziemy szukać to napewno ogłosimy to w kanale <#568590840130175007>.
 
 **Q: Can I become a moderator?** A: Simple answer - no. Why? Because applications are closed.
 
