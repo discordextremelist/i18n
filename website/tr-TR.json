@@ -20,7 +20,7 @@
 	"common.bots.random": "Rastgele Botlar",
 	"common.bots.subtitle": "Discord botlarımızın tam listesi. Burada listelenen botların tümü, yüksek kalitede olmalarını sağlamak için denetim ekibimiz tarafından onaylanmıştır.",
 	"common.bots.title.applicationCommands": "Discord Uygulama Komut Botları",
-	"common.bots.subtitle.filter.applicationCommands": "Our full list of Discord bots that integrate with Discord by supporting {{{a}}}Slash Commands{{{ea}}} and/or {{{a2}}}Context Menus{{{ea}}}! All of the bots listed here have been approved by our moderation team to ensure that they are high quality.",
+	"common.bots.subtitle.filter.applicationCommands": "{{{a}}}Slash Komutlarını{{{ea}}} ve/veya {{{a2}}}Bağlam Menülerini{{{ea}}} destekleyerek Discord ile entegre olan Discord botlarının listelendiği tam listemiz! Burada listelenen tüm botlar, yüksek kalitede olduklarından emin olmak için denetleme ekibimiz tarafından onaylanmıştır.",
 	"common.bots.title.fun": "Discord Eğlence Botları",
 	"common.bots.subtitle.filter.fun": "Discord Eğlence botlarımızın tam listesi. Burada listelenen botların tümü, yüksek kalitede olmalarını sağlamak için denetim ekibimiz tarafından onaylanmıştır.",
 	"common.bots.title.social": "Discord Sosyal Botlar",
