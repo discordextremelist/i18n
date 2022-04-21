@@ -3,3 +3,5 @@ files:
     translation: /website/%locale%.json
   - source: /bot/tags/en-NZ/**.md
     translation: /bot/tags/%locale%/%original_file_name%
+  - source: /website/files/en-NZ/**.md
+    translation: /website/files/%locale%/%original_file_name%.md
