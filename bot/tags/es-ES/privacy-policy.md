@@ -1,4 +1,4 @@
-¡Hola! Debido a un cambio de los Términos de servicio para desarrolladores de Discord (<https://discord.dev/legal>), ahora necesita una política de privacidad para su bot!
+¡Hola! ¡Hola! Debido a un cambio de los Términos de servicio para desarrolladores de Discord (<https://discord.dev/legal>), ahora necesita una política de privacidad para su bot!
 
 **¿Qué es una política de privacidad?** Según Wikipedia, «Una política de privacidad es una declaración o documento legal que revela algunas o todas las formas en que una parte recopila, usa, divulga y administra los datos de un cliente o cliente»
 
@@ -10,6 +10,6 @@
 
 **¿Qué pasa si no almaceno datos?** Usted *todavía* necesita una política de privacidad que diga «No almacenamos datos», seguido de una forma de contactar con usted.
 
-**¡Necesito ayuda con esto!** Primero, echa un vistazo a algunos ejemplos y lee todo el texto anterior, ¡luego siéntete libre de enviar un mensaje a un miembro del personal! Por favor, __no haga ping a__ a un miembro del personal y espere una respuesta. Gracias por la paciencia!
+**¡Necesito ayuda con esto!** Primero, echa un vistazo a algunos ejemplos y lee todo el texto anterior, ¡luego siéntete libre de enviar un mensaje a un miembro del personal! Por favor, __no haga ping a__ a un miembro del personal y espere una respuesta. Por favor, __no haga ping a__ a un miembro del personal y espere una respuesta. Gracias por la paciencia!
 
 **Ejemplos de políticas de privacidad** Puede encontrar una lista de políticas de privacidad de ejemplo válidas aquí: <https://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71>
