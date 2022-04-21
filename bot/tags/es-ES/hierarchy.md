@@ -6,4 +6,4 @@
 1. Necesitas añadir esto para que tu bot se apruebe.
 2. Lo hace para que los ayudantes no puedan advertir/silenciar a los administradores ya que eso no parece correcto.
 
-**No sé cómo hacer esto... ¡Alguien me ayude!** Pregunte en el servidor de soporte de sus robots o <648996487371554834>.
+**No sé cómo hacer esto... ¡Alguien me ayude!** Pregunte en el servidor de soporte de sus robots o
