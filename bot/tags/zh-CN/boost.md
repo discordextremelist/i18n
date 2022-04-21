@@ -1,4 +1,4 @@
-Hey guys, please <:boost:745415781453529138> **Boost** this server! Boosting gives you **DEL Premium**:
+Hey guys, please <:boost:745415781453529138> **Boost** this server! Boosting gives you **DEL Premium**: Boosting gives you **DEL Premium**:
 - a ⭐ on all of your bots (on the bot page and in list pages)
 - the ability to use JS on your bot pages
 - the ability to set custom CSS on your DEL profile
