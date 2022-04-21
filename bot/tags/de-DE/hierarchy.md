@@ -6,4 +6,4 @@
 1. Sie müssen dies hinzufügen, damit Ihr Bot genehmigt wird.
 2. Es macht es so, dass Helfer Admins nicht warnen/stummschalten können, da das nicht richtig erscheint.
 
-**Ich weiß nicht wie das geht... Hilf mir jemand!** Fragen Sie auf dem Supportserver Ihrer Bots oder nach <648996487371554834>.
+**Ich weiß nicht wie das geht... Hilf mir jemand!** Fragen Sie auf dem Supportserver Ihrer Bots oder nach

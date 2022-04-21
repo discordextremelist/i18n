@@ -1,4 +1,4 @@
-Having trouble locating the submit button? Well here you go!
+Having trouble locating the submit button? Well here you go! Well here you go!
 
 **Submit a bot:** <https://discordextremelist.xyz/en-US/bots/submit>
 
