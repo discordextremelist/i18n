@@ -4,7 +4,7 @@
 
 **F: Kann ich außer meinem Bot noch etwas einreichen?** A: Ja! Sie können Server und Vorlagen einreichen.
 
-**F: Sucht ihr nach neuen Moderatoren?** A: Im Moment nicht, aber wenn wir das tun, werden wir sicherstellen, dass wir das im <568590840130175007> Kanal bekannt geben.
+**F: Sucht ihr nach neuen Moderatoren?** A: Im Moment nicht, aber wenn wir das tun, werden wir sicherstellen, dass wir das im
 
 **F: Kann ich Moderator werden?** A: Einfache Antwort - nein. Warum? Weil Bewerbungen geschlossen sind.
 
