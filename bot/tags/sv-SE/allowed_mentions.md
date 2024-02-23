@@ -1,5 +1,6 @@
-**Tillåtna nämningar** Försöker sanera omnämnanden? Här är några exempel på vad du ska använda.
+**Allowed Mentions**
+Trying to sanitise mentions? Here are some examples of what you should use.
 
-<https://github.com/discordextremelist/help/blob/master/allowed_mentions/en.md>
+https\://github.com/discordextremelist/help/blob/master/allowed_mentions/en.md
 
-Om du vill bidra med ett exempel för ett bibliotek som inte finns med i listan, gör en pull-förfrågan.
+If you would like to contribute an example for a library not listed, please make a pull request.
