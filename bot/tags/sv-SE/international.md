@@ -1,1 +1,2 @@
-**#** Endast engelska används i denna kanal. 🇬🇧 Använd <710308345021595679> kanalen för att tala **LANGUAGE_HERE**.
+**#** Only English is used in this channel.
+🇬🇧 Please use <#710308345021595679> channel to speak **LANGUAGE_HERE**.
