@@ -1,9 +1,10 @@
 **Häufige Probleme, die verhindern, dass Ihr Bot genehmigt wird**
+
 1. Keine Überprüfungen der Rollenhierarchie
 2. Unbekannte Befehlsfehler.
 3. Der Einladungslink wird generiert, um nach Administrator zu fragen.
 4. Befehle fragen nach falschen Berechtigungen (zum Beispiel: warn Befehl fragt nach Administrator usw.).
-5. Vergleichen Sie Nachrichten, die nicht konfigurierbar sind.
+5. Level up messages that are not configurable.
 6. Befehle, die NSFW-Inhalte in einem SFW-Kanal zurückgeben.
 7. Kein Fehlerhandler/Nachrichten (fehlende Berechtigungen, fehlende Argumente, falsche Argumente usw.).
 8. Sagen Sie einen Befehl (oder einen anderen Befehl, der erneut abgibt, was der Autor gesagt hat), der alle oder nicht erwähnbare Rollen erwähnen kann. (hängt von Berechtigungsprüfungen ab)
@@ -12,4 +13,4 @@
 
 **Ich weigere mich, eines der Probleme zu beheben** Wenn Sie sich weigern, die Probleme zu beheben, die die Genehmigung des Bots verhindern, verweigern wir Ihren Bot.
 
-**Ich habe mich geweigert, die aufgeführten Probleme zu beheben und mein Bot wurde abgelehnt, aber ich habe meine Meinung geändert** Beheben Sie die Probleme und reichen Sie Ihren Bot erneut unter <https://discordextremelist.xyz/users/@me> ein.
+**Ich habe mich geweigert, die aufgeführten Probleme zu beheben und mein Bot wurde abgelehnt, aber ich habe meine Meinung geändert** Beheben Sie die Probleme und reichen Sie Ihren Bot erneut unter https\://discordextremelist.xyz/users/@me ein.
