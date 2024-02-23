@@ -3,6 +3,7 @@
 **Rol hiyerarşisini nasıl etkinleştirebilirim?** Yazarın en yüksek rolünün, seçilen kullanıcının en yüksek rolünden daha az olup olmadığını kontrol edin. Eğer öyleyse bir hata döndürür.
 
 **Bunu neden ekleyeyim?**
+
 1. Botunuzun onaylanmasını sağlamak için bunu eklemelisiniz.
 2. Bu doğru görünmüyor çünkü yardımcılar uyarma/susturmak değil böylece yapar.
 
