@@ -1,4 +1,5 @@
 **Botunuzun onaylanmasını engelleyecek yaygın sorunlar**
+
 1. Rol hiyerarşisi denetimleri yok.
 2. Bilinmeyen komut hataları.
 3. Davet bağlantısı yönetici istemek için oluşturulur.
