@@ -1,5 +1,5 @@
-**När kommer min bot att granskas?**
+**When will my bot be reviewed?**
 
-Vi har för närvarande **inte** någon **ETA** för när din bot kommer att granskas. Det kommer troligen att ta **över** en vecka.
+We currently **do not** have an **ETA** as to when your bot will be reviewed. It will most likely take **over** a week.
 
-Att ständigt fråga oss om när din bot kommer att granskas kommer att resultera i att din bot nekas.
+Continually asking us as to when your bot will be reviewed will result in your bot being declined.
