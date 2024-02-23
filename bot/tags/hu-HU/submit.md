@@ -1,7 +1,7 @@
-Problémája van a Küldés gomb megtalálásával? Hát tessék!
+Having trouble locating the submit button? Well here you go!
 
-**Bot küldése:** <https://discordextremelist.xyz/en-US/bots/submit>
+**Submit a bot:** https\://discordextremelist.xyz/en-US/bots/submit
 
-**Szerver beküldése:** <https://discordextremelist.xyz/en-US/servers/submit>
+**Submit a server:** https\://discordextremelist.xyz/en-US/servers/submit
 
-**Sablon beküldése:** <https://discordextremelist.xyz/en-US/templates/submit>
+**Submit a template:** https\://discordextremelist.xyz/en-US/templates/submit
