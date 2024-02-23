@@ -3,6 +3,7 @@
 **Comment puis-je activer la hiérarchie des rôles ?** Vérifiez que le rôle le plus élevé de l'auteur est inférieur au rôle le plus élevé de la cible. Si c'est le cas, renvoyez une erreur.
 
 **Pourquoi devrais-je ajouter ceci ?**
+
 1. Vous devez ajouter ceci pour obtenir l'approbation de votre bot.
 2. Cela fait en sorte que les aideurs ne puissent pas avertir ou rendre muet les administrateurs, car cela ne semble pas correct.
 
