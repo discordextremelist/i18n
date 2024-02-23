@@ -1,5 +1,5 @@
-**מתי הבוט שלי ייבדק?**
+**When will my bot be reviewed?**
 
-אנחנו כרגע **אין** יש **ETA** באשר כאשר בוט שלך ייבדק. סביר להניח שזה ייקח **מעל** בשבוע.
+We currently **do not** have an **ETA** as to when your bot will be reviewed. It will most likely take **over** a week.
 
-ללא הרף שואל אותנו לגבי מתי בוט שלך ייבדק יגרום בוט שלך להיות נדחה.
+Continually asking us as to when your bot will be reviewed will result in your bot being declined.
