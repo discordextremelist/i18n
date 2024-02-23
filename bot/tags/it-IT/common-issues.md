@@ -1,4 +1,5 @@
 **Problemi comuni che impediranno al tuo bot di essere approvato**
+
 1. Nessun controllo della gerarchia dei ruoli.
 2. Messaggi di comando sconosciuti.
 3. Generazione invito al server per chiedere all'amministratore aiuto.
@@ -12,4 +13,4 @@
 
 **Mi rifiuto di risolvere uno qualsiasi dei problemi** Se ti rifiuti di risolvere i problemi che impediranno l'approvazione del bot, negheremo il tuo bot.
 
-**Mi sono rifiutato di risolvere i problemi elencati e il mio bot è stato negato ma ho cambiato idea** Risolvi i problemi ed invia nuovamente il bot da <https://discordextremelist.xyz/users/@me>.
+**Mi sono rifiutato di risolvere i problemi elencati e il mio bot è stato negato ma ho cambiato idea** Risolvi i problemi ed invia nuovamente il bot da https\://discordextremelist.xyz/users/@me.

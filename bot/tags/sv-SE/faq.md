@@ -1,15 +1,23 @@
-**Q: Vilka är vi?** en: Vi är Discord bot list (<https://discordextremelist.xyz>).
+**Q: Who are we?**
+A: We are Discord bot list (https\://discordextremelist.xyz).
 
-**Q: Var kan jag registrera min bot?** A: Du kan registrera den på <https://discordextremelist.xyz/bots/submit>.
+**Q: Where can I submit my bot at?**
+A: You can submit it at https\://discordextremelist.xyz/bots/submit.
 
-**Q: Kan jag registrera något annat än min bot?** A: Ja! Du kan registrera servrar och mallar.
+**Q: Can I submit anything else besides my bot?**
+A: Yes! You can submit servers and templates.
 
-**Q: Letar ni efter nya moderatorer?** A: Inte just nu, men när vi gör det kommer vi se till att tillkännage det i <568590840130175007> kanalen.
+**Q: Are you guys looking for new moderators?**
+A: Not at the moment, but when we'll do we'll make sure to announce that in <#568590840130175007> channel.
 
-**Q: Kan jag bli moderator?** A: Enkelt svar - nej. Varför? Eftersom ansökningarna är stängda.
+**Q: Can I become a moderator?**
+A: Simple answer - no. Why? Because applications are closed.
 
-**Q: Vilka är godkännandetiderna?** A: Aktuell godkännandetid är <5 dagar.
+**Q: What are the approval times?**
+A: Current approval time is <5 days.
 
-**Q: Hur återregistrerar jag min bot?** A: Gå till din profil (<https://discordextremelist.xyz/users/@me>) och klicka på Registrera igen.
+**Q: How do I resubmit my bot?**
+A: Go to your profile (https\://discordextremelist.xyz/users/@me) and click resubmit.
 
-**Q: När jag försöker lägga till min bot säger det mig att boten redan finns.** A: Antingen är den arkiverad och du måste registrera den igen, eller så använder du fel ID. Om det är rätt ID och det inte är arkiverad kontaktar du en webbplatsadministratör.
+**Q: When I'm trying to add my bot it tells me that the bot already exists.**
+A: Either it's archived and you need to resubmit it, or you're using the wrong ID. However if it's the correct ID and it is not archived, contact a Website Administrator.

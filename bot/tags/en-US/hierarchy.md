@@ -3,6 +3,7 @@
 **How can I enable the role hierarchy?** Check if the author’s highest role is less than the target’s highest role. If it is then return an error.
 
 **Why should I add this?**
+
 1. You need to add this to get your bot approved.
 2. It makes it so that helpers can’t warn/mute admins since that doesn’t seem right.
 

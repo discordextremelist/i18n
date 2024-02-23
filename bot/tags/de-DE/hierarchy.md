@@ -3,6 +3,7 @@
 **Wie kann ich die Rollenhierarchie aktivieren?** Prüfe, ob die höchste Rolle des Autors kleiner ist als die höchste Rolle des Ziels. Wenn dies der Fall ist, geben Sie einen Fehler zurück.
 
 **Warum sollte ich das hinzufügen?**
+
 1. Sie müssen dies hinzufügen, damit Ihr Bot genehmigt wird.
 2. Es macht es so, dass Helfer Admins nicht warnen/stummschalten können, da das nicht richtig erscheint.
 

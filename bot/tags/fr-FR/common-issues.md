@@ -1,4 +1,5 @@
 **Problèmes courants qui empêcheront l'approbation de votre bot**
+
 1. Aucune vérification hiérarchique des rôles.
 2. Erreurs de commande inconnues.
 3. Le lien d'invitation est généré en demandant la permission administrateur.
@@ -12,4 +13,4 @@
 
 **Je refuse de résoudre l'un des problèmes** Si vous refusez de résoudre les problèmes qui empêchent l'approbation du bot - nous refuserons votre bot.
 
-**J'ai refusé de résoudre les problèmes énumérés et mon bot a été refusé mais j'ai changé d'avis** Résoudre les problèmes et soumettre à nouveau votre bot à <https://discordextremelist.xyz/users/@me>.
+**J'ai refusé de résoudre les problèmes énumérés et mon bot a été refusé mais j'ai changé d'avis** Résoudre les problèmes et soumettre à nouveau votre bot à https\://discordextremelist.xyz/users/@me.

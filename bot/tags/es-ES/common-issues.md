@@ -1,4 +1,5 @@
 **Problemas comunes que evitarán que tu bot sea aprobado.**
+
 1. No verifica la jerarquía de roles.
 2. Errores desconocidos en comandos.
 3. El link de invitación es generado para solicitar administrador.
@@ -12,4 +13,4 @@
 
 **Me rehúso a arreglar cualquiera de los errores** Si te rehúsas a arreglar cualquiera de los errores que evitan que se apruebe tu bot, lo denegaremos.
 
-**Me rehusé a arreglar los problemas indicados y mi bot fue rechazado pero cambie de idea** Soluciona los problemas y reenvía tu bot en <https://discordextremelist.xyz/users/@me>.
+**Me rehusé a arreglar los problemas indicados y mi bot fue rechazado pero cambie de idea** Soluciona los problemas y reenvía tu bot en https\://discordextremelist.xyz/users/@me.

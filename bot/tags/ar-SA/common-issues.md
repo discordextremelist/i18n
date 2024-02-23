@@ -1,4 +1,5 @@
 **المُشكلات الشائعة التي ستمنع البوت الخاص بك من الموافقة**
+
 1. No role hierarchy checks.
 2. Unknown command errors.
 3. Invite link is generated to ask for administrator.
@@ -12,4 +13,4 @@
 
 **I refuse to fix any of the issues** If you refuse to fix the issues that will prevent bot from approval - we'll deny your bot.
 
-**I refused to fix listed issues and my bot was denied but I switched my mind** Fix the issues and resubmit your bot at <https://discordextremelist.xyz/users/@me>.
+**I refused to fix listed issues and my bot was denied but I switched my mind** Fix the issues and resubmit your bot at https\://discordextremelist.xyz/users/@me.

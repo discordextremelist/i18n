@@ -1,4 +1,5 @@
-**Menzioni permesse** Stai cercando di migliorare le menzioni? Ecco alcuni esempi di cosa dovresti usare.
+**Allowed Mentions**
+Trying to sanitise mentions? Ecco alcuni esempi di cosa dovresti usare.
 
 [https://github.com/discordextremelist/help/blob/master/allowed_mentions/it.md](https://github.com/discordextremelist/help/blob/master/allowed_mentions/en.md)
 

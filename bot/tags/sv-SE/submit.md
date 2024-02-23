@@ -1,7 +1,7 @@
-Har du problem med att hitta registrera knappen? Nåväl, här har du!
+Having trouble locating the submit button? Well here you go!
 
-**Registrera en bot:** <https://discordextremelist.xyz/en-US/bots/submit>
+**Submit a bot:** https\://discordextremelist.xyz/en-US/bots/submit
 
-**Registrera en server:** <https://discordextremelist.xyz/en-US/servers/submit>
+**Submit a server:** https\://discordextremelist.xyz/en-US/servers/submit
 
-**Registrera en mall:** <https://discordextremelist.xyz/en-US/templates/submit>
+**Submit a template:** https\://discordextremelist.xyz/en-US/templates/submit
