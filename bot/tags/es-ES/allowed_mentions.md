@@ -1,4 +1,5 @@
-**Menciones añadidas** ¿Intenta desinfectar menciones? Aquí hay algunos ejemplos de lo que debe usar.
+**Allowed Mentions**
+Trying to sanitise mentions? Aquí hay algunos ejemplos de lo que debe usar.
 
 [https://github.com/discordextremelist/help/blob/master/allowed_mentions/es.md](https://github.com/discordextremelist/help/blob/master/allowed_mentions/en.md)
 
