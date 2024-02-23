@@ -3,6 +3,7 @@
 **¿Cómo puedo habilitar la jerarquía de roles?** Comprueba si el rol más alto del autor es inferior al rol más alto del objetivo. Si es así, devuelve un error.
 
 **¿Por qué debo añadir esto?**
+
 1. Necesitas añadir esto para que tu bot se apruebe.
 2. Lo hace para que los ayudantes no puedan advertir/silenciar a los administradores ya que eso no parece correcto.
 
