@@ -1,3 +1,7 @@
-**Találkoztál egy hibával?** . Tegye fel a problémát az alább látható megfelelő adattárban.
+**Encountered a bug?**
+Make an issue on the appropriate repository shown below.
 
--> **Weboldal**: <https://github.com/discordextremelist/website/issues/new/choose> -> **LGBT Weboldal**: <https://github.com/discordextremelist/lgbt-website/issues/new/choose> -> **Bot**: <https://github.com/discordextremelist/bot/issues/new/choose> -> **API**: <https://github.com/discordextremelist/api/issues/new/choose>
+-> **Website**: https\://github.com/discordextremelist/website/issues/new/choose
+-> **LGBT Website**: https\://github.com/discordextremelist/lgbt-website/issues/new/choose
+-> **Bot**: https\://github.com/discordextremelist/bot/issues/new/choose
+-> **API**: https\://github.com/discordextremelist/api/issues/new/choose
