@@ -11,6 +11,8 @@
 9. Commands do what they aren't supposed to do (for ex: mute doesn't mute, kick doesn't kick and so on (obviously when bot isn't missing any permissions)).
 10. Privacy Policy is invalid.
 
-**I refuse to fix any of the issues** If you refuse to fix the issues that will prevent bot from approval - we'll deny your bot.
+**I refuse to fix any of the issues**
+If you refuse to fix the issues that will prevent bot from approval - we'll deny your bot.
 
-**I refused to fix listed issues and my bot was denied but I switched my mind** Fix the issues and resubmit your bot at https\://discordextremelist.xyz/users/@me.
+**I refused to fix listed issues and my bot was denied but I switched my mind**
+Fix the issues and resubmit your bot at https\://discordextremelist.xyz/users/@me.
