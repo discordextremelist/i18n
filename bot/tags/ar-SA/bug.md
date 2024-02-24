@@ -1,3 +1,7 @@
-**واجهت خطأ؟** قُم بإجراء مشكله في المكان المُناسب الموضح أدناه.
+**Encountered a bug?**
+Make an issue on the appropriate repository shown below.
 
--> **الموقع**: https\://github.com/discordextremelist/website/issues/new/choose -> **موقع المثليين**: https\://github.com/discordextremelist/lgbt-website/issues/new/choose -> **البوت**: https\://github.com/discordextremelist/bot/issues/new/choose -> **الـ API**: https\://github.com/discordextremelist/api/issues/new/choose
+-> **Website**: https\://github.com/discordextremelist/website/issues/new/choose
+-> **LGBT Website**: https\://github.com/discordextremelist/lgbt-website/issues/new/choose
+-> **Bot**: https\://github.com/discordextremelist/bot/issues/new/choose
+-> **API**: https\://github.com/discordextremelist/api/issues/new/choose
