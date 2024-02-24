@@ -1,7 +1,7 @@
-Having trouble locating the submit button? Nou, hier heb je ze!
+Having trouble locating the submit button? Well here you go!
 
-**Dien een bot in:** https\://discordextremelist.xyz/en-US/bots/submit
+**Submit a bot:** https\://discordextremelist.xyz/en-US/bots/submit
 
-**Dien een server in:** https\://discordextremelist.xyz/en-US/servers/submit
+**Submit a server:** https\://discordextremelist.xyz/en-US/servers/submit
 
-**Dien een template in** https\://discordextremelist.xyz/en-US/templates/submit
+**Submit a template:** https\://discordextremelist.xyz/en-US/templates/submit
