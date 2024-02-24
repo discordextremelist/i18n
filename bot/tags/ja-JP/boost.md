@@ -1,5 +1,6 @@
 やあみんな、お願いします <:boost:745415781453529138> **このサーバーを** ブースト！ ブーストすると **DEL プレミアム**
 Boosting gives you **DEL Premium**:
+Boosting gives you **DEL Premium**:
 
 - :star: すべてのボット（ボットページとリストページ）
 - ボットページでJSを使用する機能
