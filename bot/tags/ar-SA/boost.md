@@ -8,4 +8,4 @@ Hey guys, please <:boost:745415781453529138> **Boost** this server!
 - the booster role here and access to a secret channel
 - يتم إدراجك في صفحة DEL حول!
 
-**دعونا نري إذا كان يمكننا الحصول علي لفل 2 في هذا السيرفر!**
+**Let's see if we can get this server to Level 2!**

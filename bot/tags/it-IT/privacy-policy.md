@@ -1,16 +1,23 @@
-Ciao! A causa di una modifica dei Termini di servizio per gli sviluppatori di Discord (https\://discord.dev/legal) ora hai bisogno di una Politica sulla privacy per il tuo bot!
+Hello! Due to a change of Discord's Developer Terms of Service (https\://discord.dev/legal) you now need a Privacy Policy for your bot!
 
-**Che cos'è una politica sulla privacy?** Secondo Wikipedia, "Una politica sulla privacy è una dichiarazione o un documento legale che rivela alcuni o tutti i modi in cui una parte raccoglie, utilizza, divulga e gestisce i dati di un cliente o cliente."
+**What is a Privacy Policy?**
+According to Wikipedia, "A privacy policy is a statement or legal document that discloses some or all of the ways a party gathers, uses, discloses, and manages a customer or client's data."
 
-**Che cosa deve avere la mia Privacy Policy?** Si prega di leggere questo messaggio per informazioni su ciò che la vostra politica sulla privacy deve includere: https\://advaith.is-in-hyper.space/1faafadb0f.png
+**What does my Privacy Policy need to have?**
+Please read this message for information about what your privacy policy needs to include: https\://advaith.is-in-hyper.space/1faafadb0f.png
 
-**Perché devo aggiungere questo?** È necessaria una politica sulla privacy valida per inviare un bot su Discord Extreme List e per seguire i Termini di servizio per gli sviluppatori di Discord.
+**Why do I need to add this?**
+You need a valid privacy policy in order to submit a bot on Discord Extreme List and in order to follow Discord's Developer Terms of Service.
 
-**Come posso aggiungerne una? Ho bisogno di un sito web?** No, devi solo avere una accessibile ai tuoi utenti, Basta che sia un sito web, GitHub Gist, comando, etc...
+**How can I add one? Do I need a website?**
+No, you just need to have one accessible to your users, If that's a website, GitHub Gist, command, etc.
 
-**Cosa succede se non salvo nessun dato personale?** Hai _ancora_ bisogno di una politica sulla privacy che dice "Noi non memorizziamo dati personali" seguito da un modo per contattarti.
+**What if I don't store data?**
+You _still_ need a privacy policy that says "We do not store data" followed by a way to contact you.
 
-**Ho bisogno di aiuto con questo!** In primo luogo, dai un'occhiata ad alcuni esempi e leggete tutto il testo sopra, poi sentitevi liberi di inviare un messaggio a un membro dello staff!
-Si prega di **non** fare il ping di un membro dello staff e aspetta solo una risposta. Grazie per la pazienza!
+**I need help with this!**
+First, have a look at some examples and read all the text above, then feel free to send a message to a staff member!
+Please **do not** ping a staff member and just wait for a reply. Thank you for the patience!
 
-**Esempii di politica sulla privacy** Un elenco di politiche sulla privacy di esempio può essere trovato qui: https\://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71
+**Example Privacy Policies**
+A list of good valid example privacy policies can be found here: https\://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71

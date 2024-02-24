@@ -1,16 +1,23 @@
-Hallo! Wegens een wijziging van Discord's Developer Terms of Service (https\://discord.dev/legal) heb je nu een privacybeleid nodig voor je bot!
+Hello! Due to a change of Discord's Developer Terms of Service (https\://discord.dev/legal) you now need a Privacy Policy for your bot!
 
-**Wat is een Privacybeleid?** Volgens Wikipedia: „Een privacybeleid is een verklaring of juridisch document dat enkele of alle manieren onthult waarop een partij gegevens van een klant of klant verzamelt, gebruikt, openbaar maakt en beheert.”
+**What is a Privacy Policy?**
+According to Wikipedia, "A privacy policy is a statement or legal document that discloses some or all of the ways a party gathers, uses, discloses, and manages a customer or client's data."
 
-**Wat moet mijn privacybeleid hebben?** Lees alstublieft dit bericht voor meer informatie over wat jouw privacybeleid moet bevatten: https\://advaith.is-in-hyper.space/1faafadb0f.png
+**What does my Privacy Policy need to have?**
+Please read this message for information about what your privacy policy needs to include: https\://advaith.is-in-hyper.space/1faafadb0f.png
 
-**Waarom moet ik dit hebben?** Je moet een privacybeleid hebben om een bot bij Discord Extreme List in te dienen en om Discord's Developer Terms of Service te volgen.
+**Why do I need to add this?**
+You need a valid privacy policy in order to submit a bot on Discord Extreme List and in order to follow Discord's Developer Terms of Service.
 
-**Hoe kan ik er een maken? Heb ik een website nodig?** Nee, je hoeft alleen maar iets te hebben wat toegankelijk is voor je gebruikers.
+**How can I add one? Do I need a website?**
+No, you just need to have one accessible to your users, If that's a website, GitHub Gist, command, etc.
 
-**Wat als ik geen gegevens opsla?** Je moet _alsnog_ een privacybeleid hebben die "We slaan geen gegevens op" zegt, gevolgd door een manier om contact met u op te nemen.
+**What if I don't store data?**
+You _still_ need a privacy policy that says "We do not store data" followed by a way to contact you.
 
-**Ik heb hier hulp bij nodig!** Kijk eerst naar enkele voorbeelden en lees de bovenstaande text, voel je daarna vrij om een bericht te sturen naar één van onze medewerkers!
-Gelieve **niet** een medewerker te pingen. Bedankt voor uw geduld!
+**I need help with this!**
+First, have a look at some examples and read all the text above, then feel free to send a message to a staff member!
+Please **do not** ping a staff member and just wait for a reply. Thank you for the patience!
 
-**Voorbeelden van een privacybeleid** Een lijst met goede en geldige voorbeelden van een privacybeleid kunt je hier vinden: https\://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71
+**Example Privacy Policies**
+A list of good valid example privacy policies can be found here: https\://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71

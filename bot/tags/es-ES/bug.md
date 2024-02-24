@@ -1,3 +1,7 @@
-**¿Encontraste un error?** Abre un problema en el repositorio apropiado mostrado debajo.
+**Encountered a bug?**
+Make an issue on the appropriate repository shown below.
 
--> **Sitio Web**: https\://github.com/discordextremelist/website/issues/new/choose -> **Sitio LGTB**: https\://github.com/discordextremelist/lgbt-website/issues/new/choose -> **Bot**: https\://github.com/discordextremelist/bot/issues/new/choose -> **API**: https\://github.com/discordextremelist/api/issues/new/choose
+-> **Website**: https\://github.com/discordextremelist/website/issues/new/choose
+-> **LGBT Website**: https\://github.com/discordextremelist/lgbt-website/issues/new/choose
+-> **Bot**: https\://github.com/discordextremelist/bot/issues/new/choose
+-> **API**: https\://github.com/discordextremelist/api/issues/new/choose
