@@ -1,15 +1,23 @@
-**P: ¿Quiénes somos?** A: Somos lista de robots Discord (https\://discordextremelist.xyz).
+**Q: Who are we?**
+A: We are Discord bot list (https\://discordextremelist.xyz).
 
-**P: ¿Dónde puedo enviar mi bot?** A: Puede enviarlo en https\://discordextremelist.xyz/bots/submit.
+**Q: Where can I submit my bot at?**
+A: You can submit it at https\://discordextremelist.xyz/bots/submit.
 
-**P: ¿Puedo enviar algo aparte de mi bot?** A: ¡Sí! Puede enviar servidores y plantillas.
+**Q: Can I submit anything else besides my bot?**
+A: Yes! You can submit servers and templates.
 
-**P: ¿Están buscando nuevos moderadores?** A: No en este momento, pero cuando lo hagamos nos aseguraremos de anunciarlo en el <#568590840130175007> canal.
+**Q: Are you guys looking for new moderators?**
+A: Not at the moment, but when we'll do we'll make sure to announce that in <#568590840130175007> channel.
 
-**P: ¿Puedo convertirme en moderador?** A: Respuesta simple - no. ¿Por qué? Porque las aplicaciones están cerradas.
+**Q: Can I become a moderator?**
+A: Simple answer - no. Why? Because applications are closed.
 
-**P: ¿Cuáles son los tiempos de aprobación?** A: El tiempo actual de aprobación es de <5 días.
+**Q: What are the approval times?**
+A: Current approval time is <5 days.
 
-**P: ¿Cómo puedo volver a enviar mi bot?** A: Vaya a su perfil (https\://discordextremelist.xyz/users/@me) y haga clic en volver a enviar.
+**Q: How do I resubmit my bot?**
+A: Go to your profile (https\://discordextremelist.xyz/users/@me) and click resubmit.
 
-**P: Cuando estoy tratando de agregar mi bot, me dice que el bot ya existe.** R: O bien está archivado y tienes que volver a enviarlo, o estás usando el identificador incorrecto. Sin embargo, si es el ID correcto y no está archivado, póngase en contacto con el administrador del sitio web.
+**Q: When I'm trying to add my bot it tells me that the bot already exists.**
+A: Either it's archived and you need to resubmit it, or you're using the wrong ID. However if it's the correct ID and it is not archived, contact a Website Administrator.
