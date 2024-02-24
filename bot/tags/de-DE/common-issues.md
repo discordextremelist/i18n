@@ -1,16 +1,18 @@
-**Häufige Probleme, die verhindern, dass Ihr Bot genehmigt wird**
+**Common issues that will prevent your bot from being approved**
 
-1. Keine Überprüfungen der Rollenhierarchie
-2. Unbekannte Befehlsfehler.
-3. Der Einladungslink wird generiert, um nach Administrator zu fragen.
-4. Befehle fragen nach falschen Berechtigungen (zum Beispiel: warn Befehl fragt nach Administrator usw.).
+1. No role hierarchy checks.
+2. Unknown command errors.
+3. Invite link is generated to ask for administrator.
+4. Commands ask for wrong permissions (For ex: warn command asks for administrator etc).
 5. Level up messages that are not configurable.
-6. Befehle, die NSFW-Inhalte in einem SFW-Kanal zurückgeben.
-7. Kein Fehlerhandler/Nachrichten (fehlende Berechtigungen, fehlende Argumente, falsche Argumente usw.).
-8. Sagen Sie einen Befehl (oder einen anderen Befehl, der erneut abgibt, was der Autor gesagt hat), der alle oder nicht erwähnbare Rollen erwähnen kann. (hängt von Berechtigungsprüfungen ab)
-9. Befehle tun, was sie nicht tun sollen (zum Beispiel: stumm nicht stumm, Kick tritt nicht und so weiter (offensichtlich, wenn der Bot keine Berechtigungen verpasst)).
-10. Die Datenschutzrichtlinie ist ungültig.
+6. Commands returning NSFW content in an SFW channel.
+7. No error handler/messages (missing permissions, missing arguments, wrong arguments and so on).
+8. Say command (or any other that resend what author said) being able to mention everyone or unmentionable roles. (depends on permissions checks).
+9. Commands do what they aren't supposed to do (for ex: mute doesn't mute, kick doesn't kick and so on (obviously when bot isn't missing any permissions)).
+10. Privacy Policy is invalid.
 
-**Ich weigere mich, eines der Probleme zu beheben** Wenn Sie sich weigern, die Probleme zu beheben, die die Genehmigung des Bots verhindern, verweigern wir Ihren Bot.
+**I refuse to fix any of the issues**
+If you refuse to fix the issues that will prevent bot from approval - we'll deny your bot.
 
-**Ich habe mich geweigert, die aufgeführten Probleme zu beheben und mein Bot wurde abgelehnt, aber ich habe meine Meinung geändert** Beheben Sie die Probleme und reichen Sie Ihren Bot erneut unter https\://discordextremelist.xyz/users/@me ein.
+**I refused to fix listed issues and my bot was denied but I switched my mind**
+Fix the issues and resubmit your bot at https\://discordextremelist.xyz/users/@me.
