@@ -1,16 +1,23 @@
-Merhaba! Discord'un Geliştirici Hizmet Şartları'nda (https\://discord.dev/legal) yapılan bir değişiklik nedeniyle artık botunuz için bir Gizlilik Politikasına ihtiyacınız var!
+Hello! Due to a change of Discord's Developer Terms of Service (https\://discord.dev/legal) you now need a Privacy Policy for your bot!
 
-**Gizlilik Politikası Nedir?** Vikipedi'ye göre, “Gizlilik politikası, bir tarafın veya müşterinin verilerini toplama, kullanma, ifşa etme ve yönetebilme yollarının bir kısmını veya tamamını sunan bir beyan veya yasal belgedir.”
+**What is a Privacy Policy?**
+According to Wikipedia, "A privacy policy is a statement or legal document that discloses some or all of the ways a party gathers, uses, discloses, and manages a customer or client's data."
 
-**Gizlilik Politikamın neye sahip olması gerekiyor?** Gizlilik politikanızın neler içermesi gerektiğine dair bilgi için lütfen bu mesajı okuyun: https\://advaith.is-in-hyper.space/1faafadb0f.png
+**What does my Privacy Policy need to have?**
+Please read this message for information about what your privacy policy needs to include: https\://advaith.is-in-hyper.space/1faafadb0f.png
 
-**Neden bunu eklemem gerekiyor?** Discord Extreme Listesi'nde bot göndermek ve Discord'un Geliştirici Hizmet Şartlarını takip etmek için geçerli bir gizlilik politikasına ihtiyacınız vardır.
+**Why do I need to add this?**
+You need a valid privacy policy in order to submit a bot on Discord Extreme List and in order to follow Discord's Developer Terms of Service.
 
-**Nasıl bir tane ekleyebilirim? Bir web sitesine ihtiyacım var mı?** Hayır, sadece kullanıcılarınız için erişilebilir olması gerekir, Eğer bu bir web sitesi ise, GitHub Gist, komut, vb.
+**How can I add one? Do I need a website?**
+No, you just need to have one accessible to your users, If that's a website, GitHub Gist, command, etc.
 
-**Veri depolamazsam ne olur?** Bu durumda sizin _hala_ “Verileri saklamıyoruz” diyen bir gizlilik politikasına ihtiyacınız var ve ardından sizinle iletişim kurmanın bir yoluna ihtiyacınız var.
+**What if I don't store data?**
+You _still_ need a privacy policy that says "We do not store data" followed by a way to contact you.
 
-**Bu konuda yardıma ihtiyacım var!** İlk olarak, bazı örneklere bir göz atın ve yukarıdaki tüm metni okuyun, sonra bir personele mesaj göndermekten çekinmeyin!
-Lütfen herhangi bir Personel ekibi üyesini **etiketlemeyin**, sadece yanıt vermesini bekleyin. Sabrınız için teşekkür ederiz!
+**I need help with this!**
+First, have a look at some examples and read all the text above, then feel free to send a message to a staff member!
+Please **do not** ping a staff member and just wait for a reply. Thank you for the patience!
 
-**Örnek Gizlilik Politikaları** İyi geçerli örnek gizlilik politikalarının listesi burada bulunabilir: https\://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71
+**Example Privacy Policies**
+A list of good valid example privacy policies can be found here: https\://gist.github.com/DuckMasterAl/f5d20d091adf11fe87dcb4887c8b8a71
