@@ -344,7 +344,6 @@
 	"common.nav.me.playSnake.subtitle": "שחק את משחק הנחש המדהים שנמצא בדפי הסטטוס!",
 	"common.nav.me.snakeLB": "טבלת המובלים במשחק הנחש",
 	"common.nav.me.snakeLB.subtitle": "העליון %s שחקנים נחש על ידי ניקוד גבוה!",
-	"common.notice.ddosMode": "מצב DDoS מופעל, כניסה ויציאות מושבתות.",
 	"common.footer.copyright": "&copy; זכויות יוצרים 2019 -{{currentYear}} {{names}} AGPL.-3.0 רישיון קוד פתוח.",
 	"common.footer.copyright.title.0": "Click this text to show more licensing information.",
 	"common.footer.copyright.title.1": "לחץ על הקישור הזה לצפייה ברישיון AGPL-3.0.",
