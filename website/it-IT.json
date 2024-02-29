@@ -344,7 +344,6 @@
 	"common.nav.me.playSnake.subtitle": "Gioca a snake sulle pagine dello stato!",
 	"common.nav.me.snakeLB": "Classifica Snake",
 	"common.nav.me.snakeLB.subtitle": "I primi %s giocatori di snake per un punteggio alto!",
-	"common.notice.ddosMode": "La modalità DDoS è attivata, gli accessi ed i logout sono disattivati.",
 	"common.footer.copyright": "&copy; Copyright 2019-{{currentYear}} {{names}} AGPL-3.0 Licenza Open Source.",
 	"common.footer.copyright.title.0": "Pigia questo testo per visualizzare ulteriori informazioni sulle licenze.",
 	"common.footer.copyright.title.1": "Pigia questo collegamento per visualizzare la licenza AGPL-3.0.",

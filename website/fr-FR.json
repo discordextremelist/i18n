@@ -344,7 +344,6 @@
 	"common.nav.me.playSnake.subtitle": "Jouez au génial snake qui se trouve sur les pages de statut !",
 	"common.nav.me.snakeLB": "Tableau des meilleurs scores de snake",
 	"common.nav.me.snakeLB.subtitle": "Les %s meilleurs joueurs de snake par meilleur score !",
-	"common.notice.ddosMode": "Le mode DDoS est activé, les connexions et les déconnexions sont désactivées.",
 	"common.footer.copyright": "&copy; Copyright 2019-{{currentYear}} {{names}} AGPL-3.0 Licence Open Source.",
 	"common.footer.copyright.title.0": "Cliquez sur ce texte pour afficher plus d'informations sur les licences.",
 	"common.footer.copyright.title.1": "Cliquez sur ce lien pour voir la licence AGPL-3.0.",

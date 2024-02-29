@@ -344,7 +344,6 @@
 	"common.nav.me.playSnake.subtitle": "العب لعبة الثعبان الرائعة الموجودة على صفحات الحالة!",
 	"common.nav.me.snakeLB": "المتصدرين ثعبان",
 	"common.nav.me.snakeLB.subtitle": "أفضل لاعبي الثعبان %s بنقاط عالية!",
-	"common.notice.ddosMode": "تم تنشيط وضع DDoS ، وتم تعطيل تسجيلات الدخول والخروج.",
 	"common.footer.copyright": "&copy; حقوق الطبع والنشر 2019{{currentYear}}{{names}}AGPL-3.0 رخصة مفتوحة المصدر.",
 	"common.footer.copyright.title.0": "Click this text to show more licensing information.",
 	"common.footer.copyright.title.1": "انقر فوق هذا الارتباط لعرض ترخيص AGPL-3.0.",

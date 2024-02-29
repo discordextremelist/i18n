@@ -344,7 +344,6 @@
 	"common.nav.me.playSnake.subtitle": "Jogue o incrível jogo da cobra encontrado em páginas de estado!",
 	"common.nav.me.snakeLB": "Classificação do Cobra",
 	"common.nav.me.snakeLB.subtitle": "Os %s melhores jogadores do jogo da cobra por recorde!",
-	"common.notice.ddosMode": "Modo DDoS ativado, conexões e desconexões estão desabilitadas.",
 	"common.footer.copyright": "&copy; Copyright 2019-{{currentYear}} {{names}} AGPL-3.0 Licença de Código Aberto.",
 	"common.footer.copyright.title.0": "Click this text to show more licensing information.",
 	"common.footer.copyright.title.1": "Clique nesta ligação para ver a licença AGPL-3.0.",
