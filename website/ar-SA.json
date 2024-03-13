@@ -107,6 +107,7 @@
 	"common.error.bot.notInQueue": "انت لا يمكنك ان ترفض بوت ليس في قائمة الانتظار",
 	"common.error.bot.alreadyPremium": "انت لا يمكنك اعطاء بوت البريموم اذا كان بلفعل معاه البريميوم",
 	"common.error.bot.inQueue": "لا يمكنك إزالة بوت موجود في قائمة الانتظار.",
+	"common.error.bot.inQueueHide": "You cannot hide a bot that is in the queue.",
 	"common.error.bot.notHidden": "You cannot unhide a bot that is not hidden.",
 	"common.error.bot.archived": "تم أرشفة هذا البوت.",
 	"common.error.bot.notArchived": "لا يمكنك إعادة إرسال بوت غير مؤرشف.",
