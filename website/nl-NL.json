@@ -107,6 +107,7 @@
 	"common.error.bot.notInQueue": "Je kunt een bot die niet in de wachtrij staat niet weigeren.",
 	"common.error.bot.alreadyPremium": "Je kunt een bot geen premium geven als deze al premium heeft.",
 	"common.error.bot.inQueue": "Je kunt een bot die in de wachtrij staat niet verwijderen.",
+	"common.error.bot.inQueueHide": "You cannot hide a bot that is in the queue.",
 	"common.error.bot.notHidden": "Je kan geen bot te voorschijn halen als die niet is verborgen.",
 	"common.error.bot.archived": "Deze bot is gearchiveerd.",
 	"common.error.bot.notArchived": "Je kunt een niet-gearchiveerde bot niet opnieuw indienen.",
