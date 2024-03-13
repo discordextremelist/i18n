@@ -142,6 +142,7 @@
 	"common.error.bot.arr.twitterInvalid": "The provided Twitter username is invalid.",
 	"common.error.bot.arr.prefixTooLong": "The provided bot prefix is too long.",
 	"common.error.bot.arr.privacyTooLong": "You provided a privacy policy link or command that's too long. Do not put text into the Privacy Policy field, only put a URL or a bot command.",
+	"common.error.bot.arr.legacySlashPrefix": "You cannot use '/' as the prefix for message-based commands. Please change to another prefix, or use Discord's slash commands feature.",
 	"common.error.listing.arr.invite.urlInvalid": "The invite link/code must be a valid URL starting with https://",
 	"common.error.listing.arr.invite.tooLong": "The invite link/code you provided is too long.",
 	"common.error.listing.arr.invite.invalid": "You provided an invalid invite.",
