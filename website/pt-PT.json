@@ -107,6 +107,7 @@
 	"common.error.bot.notInQueue": "Não pode recusar um bot que não está em fila de espera.",
 	"common.error.bot.alreadyPremium": "Não pode dar premium a um bot que já tem premium.",
 	"common.error.bot.inQueue": "Não pode remover um bot que está em fila de espera.",
+	"common.error.bot.inQueueHide": "You cannot hide a bot that is in the queue.",
 	"common.error.bot.notHidden": "You cannot unhide a bot that is not hidden.",
 	"common.error.bot.archived": "Este bot foi arquivado.",
 	"common.error.bot.notArchived": "Não pode ressubmeter um bot que não está arquivado.",
