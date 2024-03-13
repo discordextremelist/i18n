@@ -529,6 +529,7 @@
 	"page.remove.premadeReasons.invalidDesc": "Invalid Description",
 	"page.remove.premadeReasons.shitBot": "Shit Bot",
 	"page.remove.premadeReasons.notFixed": "Not Fixed",
+	"page.remove.premadeReasons.serverLimit": "Server Limit",
 	"page.remove.premadeReasons.other": "Other",
 	"page.remove.bots.placeholder": "Input a custom reason as to why you are removing this bot or use a template reason above.",
 	"page.remove.servers.placeholder": "Input a custom reason as to why you are removing this server or use a template reason above.",
