@@ -107,6 +107,7 @@
 	"common.error.bot.notInQueue": "No puedes rechazar un bot que no está en la cola.",
 	"common.error.bot.alreadyPremium": "No puedes dar premium a un bot si ya tiene premium.",
 	"common.error.bot.inQueue": "No puedes eliminar un bot que no está en la cola.",
+	"common.error.bot.inQueueHide": "You cannot hide a bot that is in the queue.",
 	"common.error.bot.notHidden": "No puedes mostrar un bot que no está oculto.",
 	"common.error.bot.archived": "Este bot ha sido archivado.",
 	"common.error.bot.notArchived": "No puedes reenviar un bot que no ha sido archivado.",
