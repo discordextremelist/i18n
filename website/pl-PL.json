@@ -107,6 +107,7 @@
 	"common.error.bot.notInQueue": "Nie możesz odrzucić bota, którego nie ma w kolejce.",
 	"common.error.bot.alreadyPremium": "You cannot give a bot premium if it already has premium.",
 	"common.error.bot.inQueue": "Nie możesz usunąć bota, który jest w kolejce.",
+	"common.error.bot.inQueueHide": "You cannot hide a bot that is in the queue.",
 	"common.error.bot.notHidden": "You cannot unhide a bot that is not hidden.",
 	"common.error.bot.archived": "Ten bot został zarchiwizowany.",
 	"common.error.bot.notArchived": "Nie możesz ponownie przesłać bota, który nie jest zarchiwizowany.",
