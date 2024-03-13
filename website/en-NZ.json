@@ -107,6 +107,7 @@
 	"common.error.bot.notInQueue": "You cannot decline a bot that is not in the queue.",
 	"common.error.bot.alreadyPremium": "You cannot give a bot premium if it already has premium.",
 	"common.error.bot.inQueue": "You cannot remove a bot that is in the queue.",
+	"common.error.bot.inQueueHide": "You cannot hide a bot that is in the queue.",
 	"common.error.bot.notHidden": "You cannot unhide a bot that is not hidden.",
 	"common.error.bot.archived": "This bot has been archived.",
 	"common.error.bot.notArchived": "You cannot resubmit a bot that isn't archived.",
