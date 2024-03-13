@@ -107,6 +107,7 @@
 	"common.error.bot.notInQueue": "Kuyrukta olmayan bir botu reddedemezsiniz!",
 	"common.error.bot.alreadyPremium": "Premiumu olan bir bota tekrar premium veremezsiniz!",
 	"common.error.bot.inQueue": "Kuyruktaki bir botu kaldıramazsınız!",
+	"common.error.bot.inQueueHide": "You cannot hide a bot that is in the queue.",
 	"common.error.bot.notHidden": "Gizli olmayan bir botu gösteremezsiniz.",
 	"common.error.bot.archived": "Bu bot arşivlendi.",
 	"common.error.bot.notArchived": "Arşivlenmiş bir botu yeniden gönderemezsiniz.",
