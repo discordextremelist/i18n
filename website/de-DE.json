@@ -107,6 +107,7 @@
 	"common.error.bot.notInQueue": "Du kannst keinen Bot ablehnen, welcher nicht in der Warteschlange ist.",
 	"common.error.bot.alreadyPremium": "Sie können diesem Bot kein Premium geben, da er bereits Premium hat.",
 	"common.error.bot.inQueue": "Du kannst einen Bot nicht entfernen, welcher nicht in der Warteschlange ist.",
+	"common.error.bot.inQueueHide": "You cannot hide a bot that is in the queue.",
 	"common.error.bot.notHidden": "Du kannst einen bot nicht einblenden, wenn er nicht verborgen ist.",
 	"common.error.bot.archived": "Dieser Bot wurde archiviert.",
 	"common.error.bot.notArchived": "Du kannst keinen Bot erneut einreichen, der nicht archiviert ist.",
