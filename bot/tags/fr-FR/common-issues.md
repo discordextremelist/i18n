@@ -1,12 +1,12 @@
-**Common issues that will prevent your bot from being approved**
+**Problèmes courants qui empêcheront l'approbation de votre bot**
 
-1. No role hierarchy checks.
-2. Unknown command errors.
-3. Invite link is generated to ask for administrator.
-4. Commands ask for wrong permissions (For ex: warn command asks for administrator etc).
-5. Level up messages that are not configurable.
-6. Commands returning NSFW content in an SFW channel.
-7. No error handler/messages (missing permissions, missing arguments, wrong arguments and so on).
+1. Aucune vérification hiérarchique des rôles.
+2. Erreurs de commande inconnues.
+3. Le lien d'invitation généré demande la permission administrateur.
+4. Les commandes demandent de mauvaises autorisations (Par exemple : la commande warn demande la permission administrateur, etc.).
+5. Les messages de niveau ne sont pas configurables.
+6. Commandes renvoyant du contenu NSFW dans un salon SFW.
+7. Aucun gestionnaire d'erreurs/messages (autorisations manquantes, arguments manquants, arguments erronés, etc.).
 8. Say command (or any other that resend what author said) being able to mention everyone or unmentionable roles. (depends on permissions checks).
 9. Commands do what they aren't supposed to do (for ex: mute doesn't mute, kick doesn't kick and so on (obviously when bot isn't missing any permissions)).
 10. Privacy Policy is invalid.
