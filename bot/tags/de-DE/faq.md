@@ -1,23 +1,23 @@
-**Q: Who are we?**
-A: We are Discord bot list (https\://discordextremelist.xyz).
+**F: Wer sind wir?**
+A: Wir sind Discord-Bot-Liste (https\://discordextremelist.xyz).
 
-**Q: Where can I submit my bot at?**
-A: You can submit it at https\://discordextremelist.xyz/bots/submit.
+**F: Wo kann ich meinen Bot einreichen?**
+A: Du kannst ihn unter https\://discordextremelist.xyz/bots/submit einreichen.
 
-**Q: Can I submit anything else besides my bot?**
-A: Yes! You can submit servers and templates.
+**F: Kann ich außer meinem Bot noch etwas einreichen?**
+A: Ja! Du kannst Server sowie Server-Vorlagen einreichen.
 
-**Q: Are you guys looking for new moderators?**
-A: Not at the moment, but when we'll do we'll make sure to announce that in <#568590840130175007> channel.
+**F: Sucht ihr nach neuen Moderatoren?**
+A: Im Moment nicht, aber wenn wir wieder suchen, werden Wir es in <#568590840130175007> ankündigen.
 
-**Q: Can I become a moderator?**
-A: Simple answer - no. Why? Because applications are closed.
+**F: Kann ich Moderator werden?**
+A: Einfache Antwort - Nein. Warum? Weil Bewerbungen geschlossen sind.
 
-**Q: What are the approval times?**
-A: Current approval time is <5 days.
+**F: Wie sind die Genehmigungszeiten?**
+A: Die aktuelle Genehmigungszeit beträgt <5 Tage.
 
-**Q: How do I resubmit my bot?**
-A: Go to your profile (https\://discordextremelist.xyz/users/@me) and click resubmit.
+**F: Wie reiche ich meinen Bot erneut ein?**
+A: Gehe zu deinem Profil (https\://discordextremelist.xyz/users/@me) und klick dann auf erneut einreichen.
 
-**Q: When I'm trying to add my bot it tells me that the bot already exists.**
-A: Either it's archived and you need to resubmit it, or you're using the wrong ID. However if it's the correct ID and it is not archived, contact a Website Administrator.
+**F: Wenn ich versuche, meinen Bot hinzuzufügen, sagt mir das, dass der Bot bereits existiert.**
+A: Entweder ist es archiviert und Du musst es erneut einreichen, oder Du verwendest die falsche ID. Wenn es sich jedoch um die richtige ID handelt und nicht archiviert ist, wende dich an einen Website-Administrator.
