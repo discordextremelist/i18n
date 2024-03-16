@@ -130,6 +130,7 @@
 	"common.error.bot.vanity.conflict": "Denna synliga url är redan använd, förlåt.",
 	"common.error.bot.vanity.same": "Detta är samma url som din nuvarande url.",
 	"common.error.bot.arr.noScopes": "Du måste välja minst ett omfång.",
+	"common.error.bot.arr.noInstallMethods": "You must select at least one installation method.",
 	"common.error.bot.arr.idTooLong": "Botens ID kan inte vara längre än 32 karaktärer.",
 	"common.error.bot.arr.clientIDTooLong": "Klientens ID kan inte vara längre än 32 karaktärer.",
 	"common.error.bot.arr.invalidID": "Du valde ett ogiltigt bot-ID.",

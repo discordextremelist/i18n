@@ -130,6 +130,7 @@
 	"common.error.bot.vanity.conflict": "Bu özel URL hali hazırda talep edilmiş , üzgünüz.",
 	"common.error.bot.vanity.same": "Bu , mevcut özel URL'nizle aynı özel URL'dir.",
 	"common.error.bot.arr.noScopes": "En az bir kapsam seçmelisiniz.",
+	"common.error.bot.arr.noInstallMethods": "You must select at least one installation method.",
 	"common.error.bot.arr.idTooLong": "Botun ID'si 32 karakterden daha uzun olamaz.",
 	"common.error.bot.arr.clientIDTooLong": "Client ID 32 karakterden uzun olamaz.",
 	"common.error.bot.arr.invalidID": "Geçersiz bir bot ID'si girdiniz.",

@@ -130,6 +130,7 @@
 	"common.error.bot.vanity.conflict": "הלינק המיוחד הזה כבר תפוס, סליחה.",
 	"common.error.bot.vanity.same": "זה אותו כתובת אתר יהירות כמו כתובת אתר היהירות הנוכחית שלך.",
 	"common.error.bot.arr.noScopes": "עליך לבחור טווח אחד לפחות.",
+	"common.error.bot.arr.noInstallMethods": "You must select at least one installation method.",
 	"common.error.bot.arr.idTooLong": "ה\"איידי\" של הבוט לא יכול להיות יותר ארוך מ 32 ספרות",
 	"common.error.bot.arr.clientIDTooLong": "ה\"קליינט\" \"איי-די\" של הבוט לא יכול להיות יותר ארוך מ 32 ספרות",
 	"common.error.bot.arr.invalidID": "סיפקת מזהה בוט לא חוקי.",

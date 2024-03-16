@@ -130,6 +130,7 @@
 	"common.error.bot.vanity.conflict": "الرابط مستعمل، عذرا.",
 	"common.error.bot.vanity.same": "هذا الرابط مطابق للرابط ال تستعمله.",
 	"common.error.bot.arr.noScopes": "You must select at least one scope.",
+	"common.error.bot.arr.noInstallMethods": "You must select at least one installation method.",
 	"common.error.bot.arr.idTooLong": "ايدي البوت لا يستطيع ان يكون اطول من 32 حرف.",
 	"common.error.bot.arr.clientIDTooLong": "ال كلاينت ايدي لا يستطيع ان يكون اطول من 32 حرف.",
 	"common.error.bot.arr.invalidID": "لقد أرسلت ايدي بوت خاطئ.",
