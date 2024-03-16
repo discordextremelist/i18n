@@ -1,7 +1,7 @@
-Having trouble locating the submit button? Well here you go!
+Having trouble locating the submit button? Pekala, işte burada!
 
-**Submit a bot:** https\://discordextremelist.xyz/en-US/bots/submit
+**Bot gönder:** https\://discordextremelist.xyz/en-US/bots/submit
 
-**Submit a server:** https\://discordextremelist.xyz/en-US/servers/submit
+**Sunucu gönder:** https\://discordextremelist.xyz/en-US/servers/submit
 
-**Submit a template:** https\://discordextremelist.xyz/en-US/templates/submit
+**Şablon gönder:** https\://discordextremelist.xyz/en-US/templates/submit
