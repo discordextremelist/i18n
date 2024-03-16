@@ -1,17 +1,17 @@
 **Q: Who are we?**
 A: We are Discord bot list (https\://discordextremelist.xyz).
 
-**Q: Where can I submit my bot at?**
-A: You can submit it at https\://discordextremelist.xyz/bots/submit.
+**S: Botumu nereden gönderebilirim?**
+C: Botunuzu şuradan gönderebilisiniz https\://discordextremelist.xyz/bots/submit.
 
-**Q: Can I submit anything else besides my bot?**
-A: Yes! You can submit servers and templates.
+**S: Botum dışında başka bir şey gönderebilir miyim?**
+C: Evet, kesinlikle! Sunucularınızı ve şablonlarınızı gönderebilirsiniz.
 
-**Q: Are you guys looking for new moderators?**
-A: Not at the moment, but when we'll do we'll make sure to announce that in <#568590840130175007> channel.
+**S: Siz, yeni moderatörler arıyor musunuz?**
+C: Şuanda değil ama ne zaman arayacak olursak bunu <#568590840130175007> kanalında duyuracağız.
 
-**Q: Can I become a moderator?**
-A: Simple answer - no. Why? Because applications are closed.
+**S: Moderatör olabilir miyim?**
+C: Basit cevap - hayır. Neden? Çünkü moderatör aramıyoruz.
 
 **Q: What are the approval times?**
 A: Current approval time is <5 days.
