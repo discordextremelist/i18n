@@ -130,6 +130,7 @@
 	"common.error.bot.vanity.conflict": "Ezaz vanity url már elvan foglalva, bocsánat.",
 	"common.error.bot.vanity.same": "Ez a ugyanaz vanity url ami a te jelen lévő vanity url adtál meg.",
 	"common.error.bot.arr.noScopes": "Legalább egy hatókört ki kell választania.",
+	"common.error.bot.arr.noInstallMethods": "You must select at least one installation method.",
 	"common.error.bot.arr.idTooLong": "Ennek a botnak a ID-je nem lehet hosszabb mint 32 karakternél.",
 	"common.error.bot.arr.clientIDTooLong": "Ennek a kliensnek a ID-je nem lehet hosszabb mint 32 karakternél.",
 	"common.error.bot.arr.invalidID": "Te egy érvénytelen bot ID-t adtál meg.",
