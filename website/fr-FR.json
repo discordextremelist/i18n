@@ -130,6 +130,7 @@
 	"common.error.bot.vanity.conflict": "Cette URL de vanité est déjà prise, désolé.",
 	"common.error.bot.vanity.same": "Cette URL de vanité est identique à celle que vous avez actuellement.",
 	"common.error.bot.arr.noScopes": "Vous devez sélectionner au moins un champ.",
+	"common.error.bot.arr.noInstallMethods": "You must select at least one installation method.",
 	"common.error.bot.arr.idTooLong": "L'ID du bot ne peut pas dépasser 32 caractères.",
 	"common.error.bot.arr.clientIDTooLong": "L'ID du client ne peut pas dépasser 32 caractères.",
 	"common.error.bot.arr.invalidID": "Vous avez fourni un ID de bot invalide.",
