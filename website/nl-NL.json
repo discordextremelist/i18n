@@ -130,6 +130,7 @@
 	"common.error.bot.vanity.conflict": "Deze vanity-url is al geclaimd, sorry.",
 	"common.error.bot.vanity.same": "Dat is dezelfde vanity-url als je huidige vanity-url.",
 	"common.error.bot.arr.noScopes": "Je moet ten minste één bereik selecteren.",
+	"common.error.bot.arr.noInstallMethods": "You must select at least one installation method.",
 	"common.error.bot.arr.idTooLong": "De ID van de bot mag niet langer zijn dan 32 tekens.",
 	"common.error.bot.arr.clientIDTooLong": "De ID van de client mag niet langer zijn dan 32 tekens.",
 	"common.error.bot.arr.invalidID": "Je hebt een ongeldige bot-ID opgegeven.",
