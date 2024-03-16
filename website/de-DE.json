@@ -130,6 +130,7 @@
 	"common.error.bot.vanity.conflict": "Diese Vanity URL wurde bereits beansprucht.",
 	"common.error.bot.vanity.same": "Dies ist die gleiche Vanity URL, die du bereits hast.",
 	"common.error.bot.arr.noScopes": "Sie müssen mindestens einen Bereich auswählen.",
+	"common.error.bot.arr.noInstallMethods": "You must select at least one installation method.",
 	"common.error.bot.arr.idTooLong": "Die Bot-ID darf nicht länger als 32 Zeichen sein.",
 	"common.error.bot.arr.clientIDTooLong": "Die Client-ID darf nicht länger als 32 Zeichen sein.",
 	"common.error.bot.arr.invalidID": "Du hast eine ungültige Bot-ID angegeben.",
