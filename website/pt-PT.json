@@ -130,6 +130,7 @@
 	"common.error.bot.vanity.conflict": "Este vanity url já foi reivindicado, desculpe.",
 	"common.error.bot.vanity.same": "Esse é o mesmo vanity url que o atual.",
 	"common.error.bot.arr.noScopes": "Deve selecionar pelo menos um escopo.",
+	"common.error.bot.arr.noInstallMethods": "You must select at least one installation method.",
 	"common.error.bot.arr.idTooLong": "O ID do bot não pode ser maior do que 32 carateres.",
 	"common.error.bot.arr.clientIDTooLong": "O ID do cliente não pode ser maior do que 32 carateres.",
 	"common.error.bot.arr.invalidID": "Forneceu um ID de bot inválido.",
