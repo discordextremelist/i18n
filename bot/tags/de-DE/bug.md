@@ -1,5 +1,4 @@
-**Encountered a bug?**
-Make an issue on the appropriate repository shown below.
+\*\*Ist ein Fehler aufgetreten? Erstelle einen Beitrag für das entsprechende Repository siehe unten.
 
 -> **Website**: https\://github.com/discordextremelist/website/issues/new/choose
 -> **LGBT Website**: https\://github.com/discordextremelist/lgbt-website/issues/new/choose
