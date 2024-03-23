@@ -452,6 +452,7 @@
 	"page.bots.modNotes": "Bot Moderations Anteckningar",
 	"page.bots.modNotes.view": "Moderations Anteckningar",
 	"page.bots.modNotes.placeholder": "Något du vill informera moderatorerna som testar din bot om.",
+	"page.bots.lastDenyReason.view": "Last Deny Reason",
 	"page.bots.status.online": "Bots status är för närvarande Online.",
 	"page.bots.status.idle": "Bots status är för närvarande inaktiv.",
 	"page.bots.status.dnd": "Bots status är för närvarande Stör ej.",

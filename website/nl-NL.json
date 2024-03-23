@@ -452,6 +452,7 @@
 	"page.bots.modNotes": "Bot Mod Notities",
 	"page.bots.modNotes.view": "Mod Notities",
 	"page.bots.modNotes.placeholder": "Iets waar je de moderators over wilt informeren die je bot testen.",
+	"page.bots.lastDenyReason.view": "Last Deny Reason",
 	"page.bots.status.online": "De status van de bot is momenteel online.",
 	"page.bots.status.idle": "De status van de bot is momenteel inactief.",
 	"page.bots.status.dnd": "De status van de bot is momenteel niet storen.",

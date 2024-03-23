@@ -452,6 +452,7 @@
 	"page.bots.modNotes": "Bot Moderátori Jegyzetek",
 	"page.bots.modNotes.view": "Moderátori Jegyzetek",
 	"page.bots.modNotes.placeholder": "Valami ami tudni kell a moderátorok felé a botod letesztelése körül.",
+	"page.bots.lastDenyReason.view": "Last Deny Reason",
 	"page.bots.status.online": "A bot-nak a státusza jelenleg Online.",
 	"page.bots.status.idle": "A bot-nak a státusza jelenleg Tétlen.",
 	"page.bots.status.dnd": "A bot-nak a státusza jelenleg Elfoglalt.",

@@ -452,6 +452,7 @@
 	"page.bots.modNotes": "הערות למוד בוט",
 	"page.bots.modNotes.view": "הערות מוד",
 	"page.bots.modNotes.placeholder": "משהו שאתה רוצה ליידע/להגיד להמנחים שבודקים את הבוט שלך.",
+	"page.bots.lastDenyReason.view": "Last Deny Reason",
 	"page.bots.status.online": "סטטוס הבוט כרגע מקוון.",
 	"page.bots.status.idle": "סטטוס הבוט כרגע אידל.",
 	"page.bots.status.dnd": "סטטוס הבוט הוא כרגע אל תפריע.",

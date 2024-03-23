@@ -452,6 +452,7 @@
 	"page.bots.modNotes": "Notatki dla weryfikatora bota",
 	"page.bots.modNotes.view": "Notatki dla weryfikatora",
 	"page.bots.modNotes.placeholder": "Coś, o czym chcesz poinformować moderatorów testujących Twojego bota.",
+	"page.bots.lastDenyReason.view": "Last Deny Reason",
 	"page.bots.status.online": "Status bota: Dostępny",
 	"page.bots.status.idle": "Status bota: Zaraz wracam",
 	"page.bots.status.dnd": "Status bota: Nie przeszkadzać",

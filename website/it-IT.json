@@ -452,6 +452,7 @@
 	"page.bots.modNotes": "Note dei Mod sul Bot",
 	"page.bots.modNotes.view": "Note Mod",
 	"page.bots.modNotes.placeholder": "Qualcosa di cui vuoi informare i moderatori che testeranno il tuo bot.",
+	"page.bots.lastDenyReason.view": "Last Deny Reason",
 	"page.bots.status.online": "Lo stato del bot è attualmente online.",
 	"page.bots.status.idle": "Lo stato del bot è attualmente inattivo.",
 	"page.bots.status.dnd": "Lo stato del bot è attualmente Non disturbare.",

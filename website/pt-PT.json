@@ -452,6 +452,7 @@
 	"page.bots.modNotes": "Notas do Bot Moderativas",
 	"page.bots.modNotes.view": "Notas Moderativas",
 	"page.bots.modNotes.placeholder": "Alguma coisa que queira informar sobre o bot aos moderadores que testam.",
+	"page.bots.lastDenyReason.view": "Last Deny Reason",
 	"page.bots.status.online": "O estado do bot é atualmente Em Linha.",
 	"page.bots.status.idle": "O estado do bot é atualmente Ausente.",
 	"page.bots.status.dnd": "O estado do bot é atualmente Não Perturbar.",
