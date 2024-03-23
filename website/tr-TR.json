@@ -452,6 +452,7 @@
 	"page.bots.modNotes": "Bot Moderatör Notu",
 	"page.bots.modNotes.view": "Moderatör Notu",
 	"page.bots.modNotes.placeholder": "Botunuzu özenle test eden moderatörleri bilgilendirmek istediğiniz bir şeyler.",
+	"page.bots.lastDenyReason.view": "Last Deny Reason",
 	"page.bots.status.online": "Bot'un durumu şuanda Çevrimiçi.",
 	"page.bots.status.idle": "Bot'un durumu şuanda Boşta.",
 	"page.bots.status.dnd": "Bot'un durumu şuanda Rahatsız Etmeyin.",
