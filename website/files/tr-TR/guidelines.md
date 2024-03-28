@@ -26,25 +26,25 @@ You must also comply with the following guidelines for your bot:
 - Your bot must not go offline for a long period of time and it must be online for the vast majority of time except for maintenance.
 - Botunuz @everyone ve @here etiketlerini atmamalıdır.
 - Your bot must not automatically send messages unless enabled by server admins, such as:
-  - Welcome messages,
-  - Level-up messages,
-  - Advertisements, or
-  - Any other form of messages unless invoked by a command.
-- COVID-19 bots are forbidden to prevent the spread of misinformation.
+  - Hoş Geldin mesajları,
+  - Seviye Atlama mesajları,
+  - Reklamlar veya
+  - Bir komut tarafından çalıştırılmadığı sürece diğer herhangi bir mesaj biçimi.
+- COVID\*19 botları yanlış bilgilerin yayılmaması adına yasaktır.
 
 # Sunucu Yönergeleri
 
-On your server's listing, please comply with the following guidelines:
+Sunucunuzun listelenmesi sırasında lütfen aşağıdaki yönergelere uyun:
 
-- Your server must not have an inappropriate icon or name.
-- Your server short and long description must be related to your server. You are allowed to use Basic HTML an Markdown in your server's long description.
-- Your server must be well-moderated.
-- Your server must follow the discord Terms of Service and actively enforce it.
+- Sunucunuz uygunsuz isim veya ikon'a sahip olmamalıdır.
+- Sunucunuzun kısa veya uzun açıklaması listeleyeceğiniz sunucu hakkında olmalıdır. Sunucunuzun uzun açıklamasında Markdown amaçlı olmak üzere basit HTML kullanmakta serbestsiniz.
+- Sunucunuz iyi moderasyonda olmalıdır, uygun yönetilmelidir.
+- Sunucunuz Discord Hizmet Şartları'na uymalı ve etkin bir şekilde uygulamalıdır.
 - Any links on your server's page must be appropriate and not breach the general principle of these guidelines and our Terms of Service.
 
 # Şablon Yönergeleri
 
-On your template's listing, please comply with the following guidelines:
+Şablonunuzun listelenmesi sırasında lütfen aşağıdaki yönergelere uyun:
 
 - Your template must not have an inappropriate icon or name.
 - Your template short and long description must be related to your template. You are allowed to use Basic HTML an Markdown in your template's long description.

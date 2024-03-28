@@ -1,5 +1,5 @@
-**Q: Who are we?**
-A: We are Discord bot list (https\://discordextremelist.xyz).
+**S: Biz kimiz?**
+A: Biz Discord bot listesiyiz (https\://discordextremelist.xyz).
 
 **S: Botumu nereden gönderebilirim?**
 C: Botunuzu şuradan gönderebilisiniz https\://discordextremelist.xyz/bots/submit.
