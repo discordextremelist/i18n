@@ -452,7 +452,7 @@
 	"page.bots.modNotes": "Bot Moderator Notizen",
 	"page.bots.modNotes.view": "Moderator Notizen",
 	"page.bots.modNotes.placeholder": "Etwas, über was Sie den Moderatoren, die Ihren Bot testen informieren wollen.",
-	"page.bots.lastDenyReason.view": "Last Deny Reason",
+	"page.bots.lastDenyReason.view": "Grund der letzten Ablehnung",
 	"page.bots.status.online": "Der Bot ist derzeit Online.",
 	"page.bots.status.idle": "Der Bot ist derzeit Abwesend.",
 	"page.bots.status.dnd": "Der Bot möchte derzeit nicht gestört werden.",
