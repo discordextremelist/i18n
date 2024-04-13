@@ -1,52 +1,52 @@
-Last updated on the 17th day of March 2024.
+Zueletzt aktualisiert am 17. März 2024.
 
-# Guiding Principle
+# Leitprinzip
 
-The guiding principle while using the site that underpins all of our guidelines, is to use common sense at all times.
+Das Leitprinzip bei der Nutzung der Website, auf der alle unsere Richtlinien basieren, ist stets der gesunde Menschenverstand walten zu lassen.
 
-If you have any concerns, you can email us on [mailroom@discordextremelist.xyz](mailto:mailroom@discordextremelist.xyz).
+Wenn du irgendwelche Bedenken hast, kannst du uns eine E-Mail an [mailroom@discordextremelist.xyz](mailto:mailroom@discordextremelist.xyz).
 
 # Bot Richtlinien
 
-## Listing guidelines
+## Listungsregeln
 
-On your bot's listing, please comply with the following guidelines:
+Für unsere Bot-Liste befolge bitte die folgenden Richtlinien:
 
-- Your bot must not have an inappropriate avatar or username.
-- Die Kurz- und Langbeschreibung Ihres Bot's muss passend sein. You are allowed to use HTML and Markdown in your bot's long description.
-- Any links on your bot's page must be appropriate and not breach the general principle of these guidelines and our Terms of Service.
-- Any styling or content on your bot's page must not interfere with or negatively impact the functionality of the website.
+- Dein Bot darf keinen unangemessenen Nutzernamen oder Avatar beinhalten.
+- Die Kurz- und Langbeschreibung Ihres Bot's muss passend sein. Du darfst in deiner langen Botbeschreibung HTML und Markdown nutzen.
+- Alle Links auf der Seite deines Bots müssen angemessen sein und dürfen nicht gegen die allgemeinen Grundsätze dieser Leitlinien und unserer Nutzungsbedingungen verstoßen.
+- Die Gestaltung oder der Inhalt deiner Bot-Seite darf die Funktionalität der Website nicht beeinträchtigen oder negativ beeinflussen.
 
-## Additional guidelines
+## Zusätzliche Richtlinien
 
-You must also comply with the following guidelines for your bot:
+Du musst auch die folgenden Richtlinien für deinen Bot einhalten:
 
 - Ihr Bot muss den Discord Nutzungsbedingungen, Entwickler Nutzungsbedingungen und der Datenschutzerklärung befolgen.
 - Dein Bot darf nicht auf andere Bots reagieren, um berechtigungsgesperrte oder loopfähige Funktionen zu erhalten.
-- Your bot must not go offline for a long period of time and it must be online for the vast majority of time except for maintenance.
-- Ihr Bot muss @everyone und @here Erwähnungen entkommen.
-- Your bot must not automatically send messages unless enabled by server admins, such as:
-  - Welcome messages,
-  - Level-up messages,
-  - Advertisements, or
-  - Any other form of messages unless invoked by a command.
-- COVID-19 bots are forbidden to prevent the spread of misinformation.
+- Dein Bot darf nicht für eine lange Zeit Offline gehen und sollte immer Online sein, wenn keine Wartungen durchgeführt werden.
+- Dein Bot muss @everyone und @here Erwähnungen entkommen.
+- Dein Bot darf keine Nachrichten automatisch versenden, es sei denn, er wird von Serveradministratoren aktiviert, wie zum Beispiel:
+  - Willkommensnachrichten,
+  - LevelUp Nachrichten,
+  - Werbung, oder
+  - Jede andere Form von Nachrichten, wenn nicht durch einen Befehl aufgerufen.
+- COVID-19 bots sind verboten, um die Verbreitung von Falschinformationen zu verhindern.
 
 # Server Richtlinien
 
-On your server's listing, please comply with the following guidelines:
+Für unsere Server-Liste befolge bitte die folgenden Richtlinien:
 
-- Your server must not have an inappropriate icon or name.
-- Your server short and long description must be related to your server. You are allowed to use Basic HTML an Markdown in your server's long description.
-- Your server must be well-moderated.
-- Your server must follow the discord Terms of Service and actively enforce it.
-- Any links on your server's page must be appropriate and not breach the general principle of these guidelines and our Terms of Service.
+- Dein Server darf keinen unangebrachten Nutzernamen oder Avatar beinhalten.
+- Die Kurz- und Langbeschreibung deines Servers müssen passend sein. Du darfst in deiner langen Serverbeschreibung HTML und Markdown nutzen.
+- Dein Server muss gut moderiert sein.
+- Dein Server muss den Discord Nutzungsbedingungen konform sein.
+- Alle Links auf der Seite deines Servers müssen angemessen sein und dürfen nicht gegen die allgemeinen Grundsätze dieser Leitlinien und unserer Nutzungsbedingungen verstoßen.
 
-# Vorlagenrichtlinien
+# Vorlagen Richtlinien
 
-On your template's listing, please comply with the following guidelines:
+Für unsere Vorlagen-Liste befolge bitte die folgenden Richtlinien:
 
-- Your template must not have an inappropriate icon or name.
-- Your template short and long description must be related to your template. You are allowed to use Basic HTML an Markdown in your template's long description.
-- Your template must follow the discord Terms of Service and actively enforce it.
-- Any links on your template's page must be appropriate and not breach the general principle of these guidelines and our Terms of Service.
+- Deine Vorlage darf keinen unangebrachten Namen oder Avatar beinhalten.
+- Die Lang- und Kurzbeschreibung deiner Vorlage muss übereinstimmen. Du darfst in deiner langen Vorlagenbeschreibung HTML und Markdown nutzen.
+- Deine Vorlage muss den Discord Nutzungsbedingungen konform sein.
+- Alle Links auf der Seite deiner Vorlage müssen angemessen sein und dürfen nicht gegen die allgemeinen Grundsätze dieser Leitlinien und unserer Nutzungsbedingungen verstoßen.
