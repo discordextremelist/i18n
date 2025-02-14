@@ -524,7 +524,7 @@
 	"page.remove.reasonType": "Type reden",
 	"page.remove.premadeReasons": "Vooraf gemaakte redenen",
 	"page.remove.premadeReasons.tokenLeak": "Token-leak",
-	"page.remove.premadeReasons.discontinued": "Eigenaar heeft de bot stopgezet",
+	"page.remove.premadeReasons.discontinued": "Owner Discontinued Bot",
 	"page.remove.premadeReasons.clone": "Kloon van [...]",
 	"page.remove.premadeReasons.fixRefusal": "Weigering om problemen op te lossen",
 	"page.remove.premadeReasons.fixNoResponse": "Geen reactie",
