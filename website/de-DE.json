@@ -524,7 +524,7 @@
 	"page.remove.reasonType": "Grund",
 	"page.remove.premadeReasons": "Vorgefertigte Gründe",
 	"page.remove.premadeReasons.tokenLeak": "Token sichtbar",
-	"page.remove.premadeReasons.discontinued": "Besitzer des eingestellten Bot",
+	"page.remove.premadeReasons.discontinued": "Owner Discontinued Bot",
 	"page.remove.premadeReasons.clone": "Klon von [...]",
 	"page.remove.premadeReasons.fixRefusal": "Weigerung, Probleme zu beheben",
 	"page.remove.premadeReasons.fixNoResponse": "Keine Antwort",

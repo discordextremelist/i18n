@@ -524,7 +524,7 @@
 	"page.remove.reasonType": "Tipo de razón",
 	"page.remove.premadeReasons": "Razones por defecto",
 	"page.remove.premadeReasons.tokenLeak": "Filtración del Token",
-	"page.remove.premadeReasons.discontinued": "El dueño descontinuó el Bot",
+	"page.remove.premadeReasons.discontinued": "Owner Discontinued Bot",
 	"page.remove.premadeReasons.clone": "Clon de [...]",
 	"page.remove.premadeReasons.fixRefusal": "Negativa a solucionar problemas",
 	"page.remove.premadeReasons.fixNoResponse": "Sin respuesta",

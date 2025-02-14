@@ -524,7 +524,7 @@
 	"page.remove.reasonType": "סוג הסיבה",
 	"page.remove.premadeReasons": "סיבות מוקדמות",
 	"page.remove.premadeReasons.tokenLeak": "Token Leak",
-	"page.remove.premadeReasons.discontinued": "המנהל מחק את הבוט",
+	"page.remove.premadeReasons.discontinued": "Owner Discontinued Bot",
 	"page.remove.premadeReasons.clone": "שיבוט של [...]",
 	"page.remove.premadeReasons.fixRefusal": "סירוב לתקן סוגיות",
 	"page.remove.premadeReasons.fixNoResponse": "אין תגובה",

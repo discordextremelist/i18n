@@ -524,7 +524,7 @@
 	"page.remove.reasonType": "السبب",
 	"page.remove.premadeReasons": "أسباب Premade",
 	"page.remove.premadeReasons.tokenLeak": "تسرب التوكن",
-	"page.remove.premadeReasons.discontinued": "Owner Discontinuted Bot",
+	"page.remove.premadeReasons.discontinued": "Owner Discontinued Bot",
 	"page.remove.premadeReasons.clone": "نسخة من [...]",
 	"page.remove.premadeReasons.fixRefusal": "رفض الاصلاح",
 	"page.remove.premadeReasons.fixNoResponse": "لا يوجد رد",
