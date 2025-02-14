@@ -524,7 +524,7 @@
 	"page.remove.reasonType": "Ok típusa",
 	"page.remove.premadeReasons": "Előre elkészített indokok",
 	"page.remove.premadeReasons.tokenLeak": "Token leak",
-	"page.remove.premadeReasons.discontinued": "Tulajdonos Diskontinuált Bot",
+	"page.remove.premadeReasons.discontinued": "Owner Discontinued Bot",
 	"page.remove.premadeReasons.clone": "Klón [...]-ből",
 	"page.remove.premadeReasons.fixRefusal": "Megtagadja hogy kijavítsa a problémákat",
 	"page.remove.premadeReasons.fixNoResponse": "Nincs válasz",
