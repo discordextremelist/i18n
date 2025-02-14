@@ -524,7 +524,7 @@
 	"page.remove.reasonType": "Neden Türü",
 	"page.remove.premadeReasons": "Önceden Yapılmış Nedenler",
 	"page.remove.premadeReasons.tokenLeak": "Token Sızıntısı",
-	"page.remove.premadeReasons.discontinued": "Sahibi Durdurulan Bot",
+	"page.remove.premadeReasons.discontinued": "Owner Discontinued Bot",
 	"page.remove.premadeReasons.clone": "[...]'nın Klonu",
 	"page.remove.premadeReasons.fixRefusal": "Sorunları Düzeltmeyi Reddetme",
 	"page.remove.premadeReasons.fixNoResponse": "Yanıt Yok",
