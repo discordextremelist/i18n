@@ -524,7 +524,7 @@
 	"page.remove.reasonType": "Typ av orsak",
 	"page.remove.premadeReasons": "Förhandsgjorda skäl",
 	"page.remove.premadeReasons.tokenLeak": "Token Läcka",
-	"page.remove.premadeReasons.discontinued": "Ägare Diskontinuted Bot",
+	"page.remove.premadeReasons.discontinued": "Owner Discontinued Bot",
 	"page.remove.premadeReasons.clone": "Klona av [...]",
 	"page.remove.premadeReasons.fixRefusal": "Vägran att åtgärda problem",
 	"page.remove.premadeReasons.fixNoResponse": "Inget svar",
