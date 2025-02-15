@@ -113,6 +113,7 @@
 	"common.error.bot.notHidden": "You cannot unhide a bot that is not hidden.",
 	"common.error.bot.archived": "تم أرشفة هذا البوت.",
 	"common.error.bot.notArchived": "لا يمكنك إعادة إرسال بوت غير مؤرشف.",
+	"common.error.bot.transferOwnership.422": "The provided user ID is invalid or does not exist.",
 	"common.error.fetchFail.bots": "حدث خطأ اثناء جلب البوتات.",
 	"common.error.fetchFail.servers": "حدث خطأ اثناء جلب السيرفرات.",
 	"common.error.fetchFail.templates": "حدث خطأ اثناء جلب القوالب.",
@@ -603,6 +604,7 @@
 	"page.staff.me.onLeave": "عند المغادرة",
 	"page.staff.queue": "بوت قائمة الانتظار",
 	"page.staff.queue.subtitle": "قائمة انتظار البوتات الغير موافق عليها",
+	"page.staff.queue.addedAtTime": "Added to the queue",
 	"page.staff.queue.empty": "عمل جيد! قائمة الانتظار فارغة حاليًا 🎉",
 	"page.staff.server_queue": "قائمة انتظار السيرفر",
 	"page.staff.server_queue.subtitle": "قائمة انتظار السيرفرات التي تتطلب المراجعة",
