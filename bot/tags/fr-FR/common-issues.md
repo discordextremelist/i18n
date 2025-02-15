@@ -15,4 +15,4 @@
 If you refuse to fix the issues that will prevent bot from approval - we'll deny your bot.
 
 **I refused to fix listed issues and my bot was denied but I switched my mind**
-Fix the issues and resubmit your bot at https\://discordextremelist.xyz/users/@me.
+Fix the issues and resubmit your bot at <https://discordextremelist.xyz/users/@me>.

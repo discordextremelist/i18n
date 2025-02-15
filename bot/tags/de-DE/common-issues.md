@@ -13,4 +13,4 @@
 
 **Ich weigere mich, eines der Probleme zu beheben** Wenn du dich weigerst, die Probleme zu beheben, die deinen Bot von der Freigabe abhalten, verweigern wir deinen Bot.
 
-**Ich habe mich geweigert, die aufgeführten Probleme zu beheben und mein Bot wurde abgelehnt, aber ich habe meine Meinung geändert** Behebe die Probleme und reiche deinen Bot erneut unter https\://discordextremelist.xyz/users/@me ein.
+**Ich habe mich geweigert, die aufgeführten Probleme zu beheben und mein Bot wurde abgelehnt, aber ich habe meine Meinung geändert** Behebe die Probleme und reiche deinen Bot erneut unter <https://discordextremelist.xyz/users/@me> ein.

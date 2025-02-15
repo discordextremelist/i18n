@@ -15,4 +15,4 @@
 Bot'un onaylanmasını engelleyecek sorunları düzeltmeyi reddederseniz - basit cevap, botunuzu reddederiz.
 
 **Listelenen sorunları düzeltmeyi reddettim ve botum reddedildi ama fikrimi değiştirdim**
-Sorunları düzeltin ve https\://discordextremelist.xyz/users/@me adresinden botunuzu yeniden gönderin!
+Sorunları düzeltin ve <https://discordextremelist.xyz/users/@me> adresinden botunuzu yeniden gönderin!
