@@ -63,7 +63,7 @@
 	"common.login.subtitle": "ログイン中...",
 	"common.login.continue": "続ける",
 	"common.login.join": "DELのDiscord サーバーに参加する",
-	"common.login.notice": "続行をクリックすることで、当社のサービス利用規約、プライバシーポリシー、およびウェブサイトガイドラインに同意したことになります。",
+	"common.login.notice": "By clicking continue you agree to our {{TOpen}}Terms of Service{{TClose}}, {{POpen}}Privacy Policy{{PClose}}, and {{GOpen}}Website Guidelines{{GClose}}.",
 	"common.loading": "ロード中",
 	"common.delete": "削除",
 	"common.archive": "アーカイブ",
