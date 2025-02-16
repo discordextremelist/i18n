@@ -63,7 +63,7 @@
 	"common.login.subtitle": "Melde dich an...",
 	"common.login.continue": "Fortfahren",
 	"common.login.join": "Betrete den DEL Discord Server",
-	"common.login.notice": "Beim klicken auf Bestätigen, akzeptierst du die Nutzungsbedingungen, Datenschutz- und Webseiten -Richtlinien.",
+	"common.login.notice": "By clicking continue you agree to our {{TOpen}}Terms of Service{{TClose}}, {{POpen}}Privacy Policy{{PClose}}, and {{GOpen}}Website Guidelines{{GClose}}.",
 	"common.loading": "Laden",
 	"common.delete": "Löschen",
 	"common.archive": "Archivieren",
