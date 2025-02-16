@@ -605,6 +605,7 @@
 	"page.staff.queue": "Bot Várólista",
 	"page.staff.queue.subtitle": "A várólista a nem ellenőrzőtt botoktól",
 	"page.staff.queue.addedAtTime": "Added to the queue",
+	"page.staff.queue.pendingTicket": "Bot currently has a ticket open",
 	"page.staff.queue.empty": "Szép munka! A várólista jelenleg üres 🎉",
 	"page.staff.server_queue": "Szerver várólista",
 	"page.staff.server_queue.subtitle": "A várólista a szerverekből kötelezi a vizsgálatot",
