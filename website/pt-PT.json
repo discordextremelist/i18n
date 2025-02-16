@@ -605,6 +605,7 @@
 	"page.staff.queue": "Fila de espera de Bots",
 	"page.staff.queue.subtitle": "A fila de espera de bots ainda desaprovados",
 	"page.staff.queue.addedAtTime": "Added to the queue",
+	"page.staff.queue.pendingTicket": "Bot currently has a ticket open",
 	"page.staff.queue.empty": "Bom trabalho! A fila está vazia 🎉",
 	"page.staff.server_queue": "Fila de espera de Servidores",
 	"page.staff.server_queue.subtitle": "A fila de espera de servidores requer revisão",

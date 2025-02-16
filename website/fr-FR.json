@@ -605,6 +605,7 @@
 	"page.staff.queue": "File d'attente des bots",
 	"page.staff.queue.subtitle": "La file d'attente des bots non-approuvés",
 	"page.staff.queue.addedAtTime": "Added to the queue",
+	"page.staff.queue.pendingTicket": "Bot currently has a ticket open",
 	"page.staff.queue.empty": "Bon travail ! La file d'attente est actuellement vide 🎉",
 	"page.staff.server_queue": "Fil d'Attente des Serveurs",
 	"page.staff.server_queue.subtitle": "La file d'attente des serveurs nécessitant une revue",

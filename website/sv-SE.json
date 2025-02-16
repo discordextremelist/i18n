@@ -605,6 +605,7 @@
 	"page.staff.queue": "Bot-kö",
 	"page.staff.queue.subtitle": "Kön av icke godkända robotar",
 	"page.staff.queue.addedAtTime": "Added to the queue",
+	"page.staff.queue.pendingTicket": "Bot currently has a ticket open",
 	"page.staff.queue.empty": "Bra jobbat! Kön är för närvarande tom 🎉",
 	"page.staff.server_queue": "Serverkö",
 	"page.staff.server_queue.subtitle": "Kön av servrar som kräver granskning",

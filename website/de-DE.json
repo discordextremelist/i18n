@@ -605,6 +605,7 @@
 	"page.staff.queue": "Bot Warteschlange",
 	"page.staff.queue.subtitle": "Die Warteschlange der abgelehnten Bots",
 	"page.staff.queue.addedAtTime": "Added to the queue",
+	"page.staff.queue.pendingTicket": "Bot currently has a ticket open",
 	"page.staff.queue.empty": "Gute Arbeit! Die Warteschlange ist derzeit leer 🎉",
 	"page.staff.server_queue": "Server-Warteschlange",
 	"page.staff.server_queue.subtitle": "Die Warteschalnge der Server, die überprüft werden müssen",

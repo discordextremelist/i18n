@@ -605,6 +605,7 @@
 	"page.staff.queue": "بوت قائمة الانتظار",
 	"page.staff.queue.subtitle": "قائمة انتظار البوتات الغير موافق عليها",
 	"page.staff.queue.addedAtTime": "Added to the queue",
+	"page.staff.queue.pendingTicket": "Bot currently has a ticket open",
 	"page.staff.queue.empty": "عمل جيد! قائمة الانتظار فارغة حاليًا 🎉",
 	"page.staff.server_queue": "قائمة انتظار السيرفر",
 	"page.staff.server_queue.subtitle": "قائمة انتظار السيرفرات التي تتطلب المراجعة",

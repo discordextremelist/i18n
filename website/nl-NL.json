@@ -605,6 +605,7 @@
 	"page.staff.queue": "Bot Wachtrij",
 	"page.staff.queue.subtitle": "De wachtrij van niet-goedgekeurde bots",
 	"page.staff.queue.addedAtTime": "Added to the queue",
+	"page.staff.queue.pendingTicket": "Bot currently has a ticket open",
 	"page.staff.queue.empty": "Goed gedaan! De wachtrij is momenteel leeg 🎉",
 	"page.staff.server_queue": "Server wachtrij",
 	"page.staff.server_queue.subtitle": "De wachtrij van servers waarvoor beoordeling is vereist",

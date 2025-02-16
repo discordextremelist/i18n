@@ -605,6 +605,7 @@
 	"page.staff.queue": "Kolejka botów",
 	"page.staff.queue.subtitle": "Kolejka niezatwierdzonych botów",
 	"page.staff.queue.addedAtTime": "Added to the queue",
+	"page.staff.queue.pendingTicket": "Bot currently has a ticket open",
 	"page.staff.queue.empty": "Dobra robota! Kolejka jest aktualnie pusta 🎉",
 	"page.staff.server_queue": "Server Queue",
 	"page.staff.server_queue.subtitle": "The queue of servers requiring review",

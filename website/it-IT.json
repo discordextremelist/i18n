@@ -605,6 +605,7 @@
 	"page.staff.queue": "Coda dei bot",
 	"page.staff.queue.subtitle": "La coda di bot non approvati",
 	"page.staff.queue.addedAtTime": "Added to the queue",
+	"page.staff.queue.pendingTicket": "Bot currently has a ticket open",
 	"page.staff.queue.empty": "Buon lavoro! La coda è attualmente vuota 🎉",
 	"page.staff.server_queue": "Coda server",
 	"page.staff.server_queue.subtitle": "La coda dei server che richiedono la revisione",
