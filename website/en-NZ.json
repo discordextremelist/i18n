@@ -605,6 +605,7 @@
 	"page.staff.queue": "Bot Queue",
 	"page.staff.queue.subtitle": "The queue of unapproved bots",
 	"page.staff.queue.addedAtTime": "Added to the queue",
+	"page.staff.queue.pendingTicket": "Bot currently has a ticket open",
 	"page.staff.queue.empty": "Good job! The queue is currently empty 🎉",
 	"page.staff.server_queue": "Server Queue",
 	"page.staff.server_queue.subtitle": "The queue of servers requiring review",
