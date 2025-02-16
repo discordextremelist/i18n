@@ -63,7 +63,7 @@
 	"common.login.subtitle": "Loggar in dig...",
 	"common.login.continue": "Fortsätt",
 	"common.login.join": "Gå med i DEL Discord servern",
-	"common.login.notice": "By clicking continue you agree to our {{TOpen}}Terms of Service{{TClose}}, {{POpen}}Privacy Policy{{PClose}}, and {{GOpen}}Website Guidelines{{GClose}}.",
+	"common.login.notice": "By clicking continue you agree to our {{{TOpen}}}Terms of Service{{{TClose}}}, {{{POpen}}}Privacy Policy{{{PClose}}}, and {{{GOpen}}}Website Guidelines{{{GClose}}}.",
 	"common.loading": "Laddar",
 	"common.delete": "Radera",
 	"common.archive": "Arkivera",

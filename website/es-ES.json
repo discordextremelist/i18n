@@ -63,7 +63,7 @@
 	"common.login.subtitle": "Iniciando sesión...",
 	"common.login.continue": "Continuar",
 	"common.login.join": "Entrar al servidor de Discord de DEL",
-	"common.login.notice": "By clicking continue you agree to our {{TOpen}}Terms of Service{{TClose}}, {{POpen}}Privacy Policy{{PClose}}, and {{GOpen}}Website Guidelines{{GClose}}.",
+	"common.login.notice": "By clicking continue you agree to our {{{TOpen}}}Terms of Service{{{TClose}}}, {{{POpen}}}Privacy Policy{{{PClose}}}, and {{{GOpen}}}Website Guidelines{{{GClose}}}.",
 	"common.loading": "Cargando",
 	"common.delete": "Borrar",
 	"common.archive": "Archivar",
