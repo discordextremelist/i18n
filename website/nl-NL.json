@@ -63,7 +63,7 @@
 	"common.login.subtitle": "Je wordt ingelogd...",
 	"common.login.continue": "Doorgaan",
 	"common.login.join": "Neem deel aan de DEL Discord Server",
-	"common.login.notice": "Door op doorgaan te klikken, gaat je akkoord met onze Servicevoorwaarden, Privacybeleid en Website-richtlijnen.",
+	"common.login.notice": "By clicking continue you agree to our {{TOpen}}Terms of Service{{TClose}}, {{POpen}}Privacy Policy{{PClose}}, and {{GOpen}}Website Guidelines{{GClose}}.",
 	"common.loading": "Aan het laden",
 	"common.delete": "Verwijder",
 	"common.archive": "Archiveer",
