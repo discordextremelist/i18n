@@ -605,6 +605,7 @@
 	"page.staff.queue": "Bot Kuyruğu",
 	"page.staff.queue.subtitle": "Doğrulanmamış botların Kuyruğu",
 	"page.staff.queue.addedAtTime": "Added to the queue",
+	"page.staff.queue.pendingTicket": "Bot currently has a ticket open",
 	"page.staff.queue.empty": "Harika iş! Kuyruk artık bomboş 🎉",
 	"page.staff.server_queue": "Sunucu Kuyruğu",
 	"page.staff.server_queue.subtitle": "İncelenmesi gereken Sunucuların kuyruğu",
