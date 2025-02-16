@@ -605,6 +605,7 @@
 	"page.staff.queue": "Cola de bots",
 	"page.staff.queue.subtitle": "Cola de bots sin aprobación",
 	"page.staff.queue.addedAtTime": "Added to the queue",
+	"page.staff.queue.pendingTicket": "Bot currently has a ticket open",
 	"page.staff.queue.empty": "¡Buen trabajo! La cola esta vacía 🎉",
 	"page.staff.server_queue": "Cola de Servidor",
 	"page.staff.server_queue.subtitle": "La cola de servidores requiere revisión",
