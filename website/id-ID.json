@@ -63,7 +63,7 @@
 	"common.login.subtitle": "Sedang login...",
 	"common.login.continue": "Lanjut",
 	"common.login.join": "Gabung server Discord DEL",
-	"common.login.notice": "By clicking continue you agree to our {{TOpen}}Terms of Service{{TClose}}, {{POpen}}Privacy Policy{{PClose}}, and {{GOpen}}Website Guidelines{{GClose}}.",
+	"common.login.notice": "By clicking continue you agree to our {{{TOpen}}}Terms of Service{{{TClose}}}, {{{POpen}}}Privacy Policy{{{PClose}}}, and {{{GOpen}}}Website Guidelines{{{GClose}}}.",
 	"common.loading": "Memuat",
 	"common.delete": "Hapus",
 	"common.archive": "Archive",
