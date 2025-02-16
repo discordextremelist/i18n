@@ -605,6 +605,7 @@
 	"page.staff.queue": "תור הבוט",
 	"page.staff.queue.subtitle": "תור של הבוטים שלא אושרו",
 	"page.staff.queue.addedAtTime": "Added to the queue",
+	"page.staff.queue.pendingTicket": "Bot currently has a ticket open",
 	"page.staff.queue.empty": "עבודה טובה! התור כרגע ריק 🎉",
 	"page.staff.server_queue": "תור השרתים",
 	"page.staff.server_queue.subtitle": "תור השרתים דורש בדיקה",
