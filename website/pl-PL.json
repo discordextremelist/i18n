@@ -205,6 +205,7 @@
 	"common.error.reasonRequired": "Musisz podać powód!",
 	"common.success": "Sukces",
 	"common.success.bot.tokenReset": "Your bot's DELAPI token has successfully been reset!",
+	"common.success.account.delete": "Your account and all associated data has been permanently deleted.",
 	"common.img.loadFail": "Failed to load item %s avatar/icon, using default instead.",
 	"common.img.avatar": "Avatar %s",
 	"common.img.icon": "Ikona %s",
