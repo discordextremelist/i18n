@@ -205,6 +205,7 @@
 	"common.error.reasonRequired": "Meg kell adnia egy okot!",
 	"common.success": "Siker",
 	"common.success.bot.tokenReset": "A te botodnak a DELAPI token-ja sikeresen reszetelve!",
+	"common.success.account.delete": "Your account and all associated data has been permanently deleted.",
 	"common.img.loadFail": "Nem sikerült betölteni %s avatár/ikonját, használjuk az alapot ez helyett.",
 	"common.img.avatar": "%s avatárja",
 	"common.img.icon": "%s ikonja",
