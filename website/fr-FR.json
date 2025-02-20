@@ -205,6 +205,7 @@
 	"common.error.reasonRequired": "Vous devez fournir une raison !",
 	"common.success": "Succès",
 	"common.success.bot.tokenReset": "Le jeton DELAPI de votre bot a été réinitialisé avec succès !",
+	"common.success.account.delete": "Your account and all associated data has been permanently deleted.",
 	"common.img.loadFail": "Impossible de charger l'avatar/l'icône de %s, celui par défaut est donc utilisé.",
 	"common.img.avatar": "Avatar de %s",
 	"common.img.icon": "Icône de %s",
