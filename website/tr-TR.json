@@ -205,6 +205,7 @@
 	"common.error.reasonRequired": "Bir sebep sağlamalısınız!",
 	"common.success": "Başarılı",
 	"common.success.bot.tokenReset": "Botunuzun DEL API Tokeni başarıyla sıfırlandı!",
+	"common.success.account.delete": "Your account and all associated data has been permanently deleted.",
 	"common.img.loadFail": "%s Avatar/İkon ögesi varsayılan yerine kullanılarak yüklenemedi.",
 	"common.img.avatar": "%s'nın Avatarı",
 	"common.img.icon": "%s'nın İkonu",
