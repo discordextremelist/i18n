@@ -205,6 +205,7 @@
 	"common.error.reasonRequired": "Je moet een reden opgeven!",
 	"common.success": "Success",
 	"common.success.bot.tokenReset": "De DELAPI-token van je bot is succesvol gereset!",
+	"common.success.account.delete": "Your account and all associated data has been permanently deleted.",
 	"common.img.loadFail": "Kon de %s avatar/icoon item niet laden, de standaardwaarde word gebruikt.",
 	"common.img.avatar": "%s's Avatar",
 	"common.img.icon": "%s's Icoon",
