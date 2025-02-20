@@ -767,9 +767,9 @@
 	"page.account.data.delete": "Delete my account",
 	"page.account.data.delete.details": "You can delete all your data, including your account, bots, servers, and templates. Please note that this is an irreversible action and cannot be undone.",
 	"page.account.data.delete.confirm.title": "Irreversibly delete my account and data",
-	"page.account.data.delete.confirm.warning": "Are you sure you want to delete your account? This is an irreversible action and cannot be undone. All information associated with your account, including your bots, servers, and templates, will be permanently removed and cannot be recovered."
+	"page.account.data.delete.confirm.warning": "Are you sure you want to delete your account? This is an irreversible action and cannot be undone. All information associated with your account, including your bots, servers, and templates, will be permanently removed and cannot be recovered.",
 	"page.account.data.delete.confirm.type": "Please confirm your username",
-	"page.account.data.delete.confirm.type.help": "This confirmation is case-sensitive. Enter your username exactly as shown to confirm."
+	"page.account.data.delete.confirm.type.help": "This confirmation is case-sensitive. Enter your username exactly as shown to confirm.",
 	"page.account.data.delete.confirm.button": "Irreversibly delete my data",
 	"page.account.data.delete.confirm.timeout": "Please wait 5 seconds to unlock",
 	"page.users.status.online": "The user's status is currently Online.",
