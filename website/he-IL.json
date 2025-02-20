@@ -205,6 +205,7 @@
 	"common.error.reasonRequired": "עליך לספק סיבה!",
 	"common.success": "הצלחה",
 	"common.success.bot.tokenReset": "DELAPI טוקן של הבוט שלך אופס בהצלחה!",
+	"common.success.account.delete": "Your account and all associated data has been permanently deleted.",
 	"common.img.loadFail": "טעינת פריט %s אווטאר/תמונה נכשלה, תשתמש בברירת מחדל במקום.",
 	"common.img.avatar": "אווטאר של %s",
 	"common.img.icon": "סמל של %s",

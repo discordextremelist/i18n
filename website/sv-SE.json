@@ -205,6 +205,7 @@
 	"common.error.reasonRequired": "Du måste ange en anledning!",
 	"common.success": "Succé",
 	"common.success.bot.tokenReset": "Din botts DELAPI nyckel har blivit återställd!",
+	"common.success.account.delete": "Your account and all associated data has been permanently deleted.",
 	"common.img.loadFail": "Misslyckades med att ladda föremål %s avatar/ikon, använder standard istället.",
 	"common.img.avatar": "%ss Avatar",
 	"common.img.icon": "%ss Ikon",
