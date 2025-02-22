@@ -473,6 +473,7 @@
 	"page.bots.copyClientID": "Kopieer Client-ID",
 	"page.bots.invite.main": "Hoofd Server Uitnodiging",
 	"page.bots.invite.staff": "Test Server Uitnodiging",
+	"page.bots.invite.bot": "Bot Server Invite",
 	"page.bots.shards": "Shards",
 	"page.bots.warning.delete": "Het verwijderen van een bot is onomkeerbaar. Als je op Verwijderen klikt, worden de gegevens van je bot onmiddellijk uit onze database gewist zonder dat deze kunnen worden hersteld. Je kan ook klikken op Archief om de bot van de site te verwijderen zonder de gegevens ervan te verwijderen, zodat je deze in de toekomst opnieuw kunt indienen. Je kan ook op Verbergen klikken om de pagina actief te houden terwijl je deze van lijstpagina's verwijdert.",
 	"page.bots.submit.resubmitNote": "Dit is om voor het eerst een bot bij DEL in te dienen. Als je bot eerder is geweigerd of verwijderd door personeel, gebruik deze pagina dan niet. Ga in plaats daarvan naar {{{a}}}je gearchiveerde bots{{{ea}}} en klik op opnieuw indienen.",
