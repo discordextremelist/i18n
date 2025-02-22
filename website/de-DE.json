@@ -473,6 +473,7 @@
 	"page.bots.copyClientID": "Kopiere Client-ID",
 	"page.bots.invite.main": "Hauptserver Einladung",
 	"page.bots.invite.staff": "Test Servereinladung",
+	"page.bots.invite.bot": "Bot Server Invite",
 	"page.bots.shards": "Shards",
 	"page.bots.warning.delete": "Das Löschen eines Bots ist unwiderruflich. Wenn Sie auf Löschen klicken, werden die Daten Ihres Bots sofort aus unserer Datenbank gelöscht und können nicht wiederhergestellt werden. Alternativ können Sie auf \"Archivieren\" klicken, um den Bot von der Seite zu entfernen, ohne seine Daten zu löschen, sodass Sie ihn in der Zukunft erneut einreichen können. Oder Sie können auf Ausblenden klicken, um seine Seite aktiv zu halten, während Sie ihn von der Liste entfernen.",
 	"page.bots.submit.resubmitNote": "Damit wird ein Bot zum ersten Mal bei der DEL eingereicht. Wenn dein Bot zuvor von Mitarbeitern abgelehnt oder entfernt wurde, benutze diese Seite nicht. Gehe stattdessen zu {{{{{{a}}}}deine archivierten Bots{{{{{{ea}}}}} und klicke auf Wiedervorlage.",

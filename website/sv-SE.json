@@ -473,6 +473,7 @@
 	"page.bots.copyClientID": "Kopiera klient-ID",
 	"page.bots.invite.main": "Huvudserverns inbjudan",
 	"page.bots.invite.staff": "Testa serverinbjudan",
+	"page.bots.invite.bot": "Bot Server Invite",
 	"page.bots.shards": "skärvor",
 	"page.bots.warning.delete": "Att ta bort en bot är permanent. Om du klickar på Ta bort raderas din bots data omedelbart från vår databas utan möjlighet att återställa den. Du kan också klicka på Arkivera om du vill ta bort roboten från webbplatsen utan att ta bort dess data, så att du kan skicka in den igen i framtiden. Du kan också klicka på Dölj om du vill behålla sidan aktiv medan du tar bort den från listsidor.",
 	"page.bots.submit.resubmitNote": "Detta är för att registrera en bot på DEL första gången. Om din bot tidigare har nekats eller tagits bort av personalen ska du inte använda den här sidan. Gå istället till {{{a}}}dina arkiverade bots{{{ea}}} och klicka på Skicka igen.",

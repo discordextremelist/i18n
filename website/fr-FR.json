@@ -473,6 +473,7 @@
 	"page.bots.copyClientID": "Copier l'ID du Client",
 	"page.bots.invite.main": "Invitation pour le Serveur Principal",
 	"page.bots.invite.staff": "Invitation pour le Serveur de Test",
+	"page.bots.invite.bot": "Bot Server Invite",
 	"page.bots.shards": "Fragments",
 	"page.bots.warning.delete": "La suppression d'un bot est irréversible. Si vous cliquez sur Supprimer, les données de votre bot seront immédiatement effacées de notre base de données sans aucun moyen de les restaurer. Vous pouvez également cliquer sur Archiver pour supprimer le robot du site sans supprimer ses données, de sorte que vous pouvez le soumettre à nouveau à l'avenir. Vous pouvez également cliquer sur Cacher pour conserver sa page active tout en la supprimant des pages de liste.",
 	"page.bots.submit.resubmitNote": "Ceci est destiné à soumettre un bot à DEL pour la première fois. Si votre bot a déjà été refusé ou retiré par le staff, n'utilisez pas cette page. Allez plutôt sur {{{a}}}vos robots archivés{{{ea}}} et cliquez sur re-soumettre.",

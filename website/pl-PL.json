@@ -473,6 +473,7 @@
 	"page.bots.copyClientID": "Kopiuj ID klienta",
 	"page.bots.invite.main": "Zaproszenie do serwera",
 	"page.bots.invite.staff": "Zaproszenie do serwera testowego",
+	"page.bots.invite.bot": "Bot Server Invite",
 	"page.bots.shards": "Shard'y",
 	"page.bots.warning.delete": "Deleting a bot is irreversible. If you click Delete, your bot's data will be immediately erased from our database with no way of restoring it. Alternatively, you can click Archive to remove the bot from the site without deleting its data, so you can resubmit it in the future. Or, you can click Hide to keep its page active while removing it from list pages.",
 	"page.bots.submit.resubmitNote": "To jest strona do dodawania botów po raz pierwszy. Jeśli Twój bot został wcześniej odrzucony lub usunięty przez nas, nie używaj tej strony. Zamiast tego przejdź do {{{a}}}zarchiwizowanych botów{{{ea}}} i prześlij ponownie bota.",

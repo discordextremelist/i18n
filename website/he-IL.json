@@ -473,6 +473,7 @@
 	"page.bots.copyClientID": "להעתיק את ה\"קליינט\" \"איי-די\"",
 	"page.bots.invite.main": "הזמנה של השרת הראשי",
 	"page.bots.invite.staff": "לבדוק את ההזמנה של השרת",
+	"page.bots.invite.bot": "Bot Server Invite",
 	"page.bots.shards": "Shards",
 	"page.bots.warning.delete": "Deleting a bot is irreversible. If you click Delete, your bot's data will be immediately erased from our database with no way of restoring it. Alternatively, you can click Archive to remove the bot from the site without deleting its data, so you can resubmit it in the future. Or, you can click Hide to keep its page active while removing it from list pages.",
 	"page.bots.submit.resubmitNote": "זה על שליחת בוט ל-DEL בפעם הראשונה. אם צוות הסגל שלך נדחה או הוסר בעבר על ידי הצוות, אל תשתמש בדף זה. במקום זאת, עבור אל {{{a}}}הרובוטים הארכיון שלך{{{ea}}} ולחץ על שלח מחדש.",
