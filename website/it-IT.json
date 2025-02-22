@@ -473,6 +473,7 @@
 	"page.bots.copyClientID": "Copia Client ID",
 	"page.bots.invite.main": "Invito server principale",
 	"page.bots.invite.staff": "Invito server di test",
+	"page.bots.invite.bot": "Bot Server Invite",
 	"page.bots.shards": "Shards",
 	"page.bots.warning.delete": "L'eliminazione di un bot è irreversibile. Se fai clic su Elimina, i dati del tuo bot verranno immediatamente cancellati dal nostro database senza alcun modo di ripristinarli. In alternativa, puoi fare clic su Archivia per rimuovere il bot dal sito senza eliminarne i dati, in modo da poterlo inviare nuovamente in futuro. In alternativa, è possibile fare clic su Nascondi per mantenere attiva la pagina mentre viene rimossa dalle pagine elenco.",
 	"page.bots.submit.resubmitNote": "Questo è per inviare un bot a DEL per la prima volta. Se il tuo bot è stato precedentemente rifiutato o rimosso dallo staff, non usare questa pagina. Invece, vai sulla pagina {{{a}}}i tuoi bot archiviati{{{ea}}} e fai clic su Invia nuovamente.",
