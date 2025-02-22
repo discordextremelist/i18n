@@ -473,6 +473,7 @@
 	"page.bots.copyClientID": "Kliens ID kimásolása",
 	"page.bots.invite.main": "Fő szerver meghívó",
 	"page.bots.invite.staff": "Tesztelő szerver meghívó",
+	"page.bots.invite.bot": "Bot Server Invite",
 	"page.bots.shards": "Shards",
 	"page.bots.warning.delete": "Deleting a bot is irreversible. If you click Delete, your bot's data will be immediately erased from our database with no way of restoring it. Alternatively, you can click Archive to remove the bot from the site without deleting its data, so you can resubmit it in the future. Or, you can click Hide to keep its page active while removing it from list pages.",
 	"page.bots.submit.resubmitNote": "Ez arra szolgál, hogy először küldjön el egy botot a DEL felé. Ha a botot korábban elutasították vagy eltávolították a személyzet, ne használja ezt az oldalt. Ehelyett menjen a {{{a}}}az archivált botok{{{ea}}} , és kattintson az újraküldés.",
