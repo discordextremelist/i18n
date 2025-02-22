@@ -473,6 +473,7 @@
 	"page.bots.copyClientID": "Client ID'yi Kopyala",
 	"page.bots.invite.main": "Ana Sunucu Daveti",
 	"page.bots.invite.staff": "Test Sunucu Daveti",
+	"page.bots.invite.bot": "Bot Server Invite",
 	"page.bots.shards": "Shardlar",
 	"page.bots.warning.delete": "Bir botu silmek geri alınamaz. Sil'e tıklarsanız, botunuzun verileri, hiçbir şekilde geri yüklenmeden veritabanımızdan hemen silinecektir. Alternatif olarak, botu siteden verilerini silmeden kaldırmak için Arşivle'ye tıklayabilirsiniz, böylece ileride yeniden gönderebilirsiniz. Veya, liste sayfalarından kaldırırken sayfasını etkin tutmak için Gizle'yi tıklayabilirsiniz.",
 	"page.bots.submit.resubmitNote": "Bu, bir botu ilk kez DEL'e göndermek içindir. Botunuz daha önce personel tarafından reddedilmiş veya kaldırılmışsa, bu sayfayı kullanmayın. Bunun yerine, {{{a}}} arşivlenmiş botlarınıza {{{ea}}} gidin ve yeniden gönder'i tıklayın.",
