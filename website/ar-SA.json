@@ -613,7 +613,7 @@
 	"page.staff.server_queue": "قائمة انتظار السيرفر",
 	"page.staff.server_queue.subtitle": "قائمة انتظار السيرفرات التي تتطلب المراجعة",
 	"page.staff.invite_queue": "دعوة قائمة الانتظار",
-	"page.staff.invite_queue.subtitle": "قائمة انتظار البوتات التي يجب دعوتها إلى السيرفر الرئيسي",
+	"page.staff.invite_queue.subtitle": "The queue of bots needing to be invited to the bot server",
 	"page.staff.announcer": "معلن",
 	"page.staff.announcer.subtitle": "إرسال إعلانات على مستوى الموقع!",
 	"page.staff.announcer.reset": "إعادة تعيين",
