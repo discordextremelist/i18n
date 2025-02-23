@@ -613,7 +613,7 @@
 	"page.staff.server_queue": "Fila de espera de Servidores",
 	"page.staff.server_queue.subtitle": "A fila de espera de servidores requer revisão",
 	"page.staff.invite_queue": "Fila de convite",
-	"page.staff.invite_queue.subtitle": "A fila dos bots que precisam ser convidados para o servidor principal",
+	"page.staff.invite_queue.subtitle": "The queue of bots needing to be invited to the bot server",
 	"page.staff.announcer": "Anunciador",
 	"page.staff.announcer.subtitle": "Envie anúncios em todo o sítio!",
 	"page.staff.announcer.reset": "Redefinir",
