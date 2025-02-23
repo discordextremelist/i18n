@@ -613,7 +613,7 @@
 	"page.staff.server_queue": "Server Queue",
 	"page.staff.server_queue.subtitle": "The queue of servers requiring review",
 	"page.staff.invite_queue": "Invite Queue",
-	"page.staff.invite_queue.subtitle": "The queue of bots needing to be invited to the main server",
+	"page.staff.invite_queue.subtitle": "The queue of bots needing to be invited to the bot server",
 	"page.staff.announcer": "Announcer",
 	"page.staff.announcer.subtitle": "Send site-wide announcements!",
 	"page.staff.announcer.reset": "Reset",
