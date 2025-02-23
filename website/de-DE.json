@@ -613,7 +613,7 @@
 	"page.staff.server_queue": "Server-Warteschlange",
 	"page.staff.server_queue.subtitle": "Die Warteschalnge der Server, die überprüft werden müssen",
 	"page.staff.invite_queue": "Einladung-Warteschlange",
-	"page.staff.invite_queue.subtitle": "Die Warteschlange der Bots, die zum Hauptserver eingeladen werden müssen",
+	"page.staff.invite_queue.subtitle": "The queue of bots needing to be invited to the bot server",
 	"page.staff.announcer": "Ankündiger",
 	"page.staff.announcer.subtitle": "Versende Seitenweite Ankündigungen!",
 	"page.staff.announcer.reset": "Zurücksetzen",
