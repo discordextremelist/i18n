@@ -613,7 +613,7 @@
 	"page.staff.server_queue": "Coda server",
 	"page.staff.server_queue.subtitle": "La coda dei server che richiedono la revisione",
 	"page.staff.invite_queue": "Coda inviti",
-	"page.staff.invite_queue.subtitle": "La coda di bot che devono essere invitati al server principale",
+	"page.staff.invite_queue.subtitle": "The queue of bots needing to be invited to the bot server",
 	"page.staff.announcer": "Annunciatore",
 	"page.staff.announcer.subtitle": "Invia annunci a livello di sito!",
 	"page.staff.announcer.reset": "Reimposta",
