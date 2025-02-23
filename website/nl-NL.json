@@ -613,7 +613,7 @@
 	"page.staff.server_queue": "Server wachtrij",
 	"page.staff.server_queue.subtitle": "De wachtrij van servers waarvoor beoordeling is vereist",
 	"page.staff.invite_queue": "Wachtrij uitnodigen",
-	"page.staff.invite_queue.subtitle": "De wachtrij van bots die moeten worden uitgenodigd op de hoofdserver",
+	"page.staff.invite_queue.subtitle": "The queue of bots needing to be invited to the bot server",
 	"page.staff.announcer": "Omroeper",
 	"page.staff.announcer.subtitle": "Verstuur aankondigingen voor de hele site!",
 	"page.staff.announcer.reset": "Reset",

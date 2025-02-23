@@ -613,7 +613,7 @@
 	"page.staff.server_queue": "Serverkö",
 	"page.staff.server_queue.subtitle": "Kön av servrar som kräver granskning",
 	"page.staff.invite_queue": "Bjud in",
-	"page.staff.invite_queue.subtitle": "Kön av bots som behöver bjudas in till huvudservern",
+	"page.staff.invite_queue.subtitle": "The queue of bots needing to be invited to the bot server",
 	"page.staff.announcer": "Tillkännare",
 	"page.staff.announcer.subtitle": "Skicka meddelanden för hela webbplatsen!",
 	"page.staff.announcer.reset": "Återställ",

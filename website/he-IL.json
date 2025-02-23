@@ -613,7 +613,7 @@
 	"page.staff.server_queue": "תור השרתים",
 	"page.staff.server_queue.subtitle": "תור השרתים דורש בדיקה",
 	"page.staff.invite_queue": "תור ההזמנות",
-	"page.staff.invite_queue.subtitle": "התור של בוטים צריך להיות מוזמן לשרת הראשי",
+	"page.staff.invite_queue.subtitle": "The queue of bots needing to be invited to the bot server",
 	"page.staff.announcer": "מכריז",
 	"page.staff.announcer.subtitle": "שלח הודעות בכל האתר!",
 	"page.staff.announcer.reset": "אפס",

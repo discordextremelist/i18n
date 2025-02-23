@@ -613,7 +613,7 @@
 	"page.staff.server_queue": "Sunucu Kuyruğu",
 	"page.staff.server_queue.subtitle": "İncelenmesi gereken Sunucuların kuyruğu",
 	"page.staff.invite_queue": "Davet Kuyruğu",
-	"page.staff.invite_queue.subtitle": "Ana sunucuya davet edilmesi gereken bot kuyruğu",
+	"page.staff.invite_queue.subtitle": "The queue of bots needing to be invited to the bot server",
 	"page.staff.announcer": "Spiker",
 	"page.staff.announcer.subtitle": "Site Çapında Duyurular Gönderin!",
 	"page.staff.announcer.reset": "Sıfırla",

@@ -613,7 +613,7 @@
 	"page.staff.server_queue": "Cola de Servidor",
 	"page.staff.server_queue.subtitle": "La cola de servidores requiere revisión",
 	"page.staff.invite_queue": "Cola de Invitaciones",
-	"page.staff.invite_queue.subtitle": "La cola de bots que necesitan ser invitados al servidor principal",
+	"page.staff.invite_queue.subtitle": "The queue of bots needing to be invited to the bot server",
 	"page.staff.announcer": "Anunciador",
 	"page.staff.announcer.subtitle": "¡Envíe anuncios en todo el sitio!",
 	"page.staff.announcer.reset": "Reestablecer",
