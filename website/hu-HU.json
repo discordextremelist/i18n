@@ -613,7 +613,7 @@
 	"page.staff.server_queue": "Szerver várólista",
 	"page.staff.server_queue.subtitle": "A várólista a szerverekből kötelezi a vizsgálatot",
 	"page.staff.invite_queue": "Meghívó várólista",
-	"page.staff.invite_queue.subtitle": "A várólista botokból kellenének hogy meglegyenek hívva a fő szerverre",
+	"page.staff.invite_queue.subtitle": "The queue of bots needing to be invited to the bot server",
 	"page.staff.announcer": "Közvetítő",
 	"page.staff.announcer.subtitle": "Küldj egy oldal-szintű közleményt!",
 	"page.staff.announcer.reset": "Visszaállítás",
