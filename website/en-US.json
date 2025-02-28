@@ -753,7 +753,7 @@
 	"page.account.preferences.experiments": "Experiments",
 	"page.account.preferences.experiments.warning": "Enabling experiments may cause issues as you may be testing features that are theoretical or bug-ridden, you will also be enrolled in any future beta testing program(s).",
 	"page.account.preferences.hideNSFW": "Hide NSFW",
-	"page.account.preferences.hideNSFW.details": "Hiding NSFW will remove bots marked as NSFW from our homepage and the bots page whilst you are logged into your account.",
+	"page.account.preferences.hideNSFW.details": "Hiding NSFW will remove bots marked as NSFW from our homepage and the bots page while you are logged into your account.",
 	"page.account.preferences.accent": "Accent Color",
 	"page.account.preferences.theme": "Site Theme",
 	"page.account.preferences.customCSS": "Custom Global CSS",
