@@ -909,5 +909,7 @@
 	"premid.staff.staffManager.modifyStanding": "Ändere %s's Position",
 	"premid.staff.staffManager.warn": "Verpasst %s eine Warnung",
 	"premid.staff.staffManager.strike": "Verpasst %s eine Verwarnung",
-	"premid.staff.announcer": "Verwaltet Ankündigungen"
+	"premid.staff.announcer": "Verwaltet Ankündigungen",
+	"page.account.admin.delete.user.pre.confirm": "Are you sure you want to delete this user?",
+	"page.account.admin.delete.user.text": "This action is irreversible. "
 }
