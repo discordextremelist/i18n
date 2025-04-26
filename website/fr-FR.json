@@ -909,5 +909,6 @@
 	"premid.staff.staffManager.modifyStanding": "Changer la position de %s",
 	"premid.staff.staffManager.warn": "Donner un avertissement à %s",
 	"premid.staff.staffManager.strike": "Donner un strike à %s",
-	"premid.staff.announcer": "Gérer les annonces du site"
+	"premid.staff.announcer": "Gérer les annonces du site",
+	"page.account.admin.delete.user.pre.confirm": "Are you sure you want to delete this user?"
 }

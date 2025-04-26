@@ -909,5 +909,7 @@
 	"premid.staff.staffManager.modifyStanding": "A mudar o nível de gestão de %s",
 	"premid.staff.staffManager.warn": "A dar uma advertência a %s",
 	"premid.staff.staffManager.strike": "A dar uma sanção a %s",
-	"premid.staff.announcer": "A gerir os anúncios do sítio"
+	"premid.staff.announcer": "A gerir os anúncios do sítio",
+	"page.account.admin.delete.user.pre.confirm": "Are you sure you want to delete this user?",
+	"page.account.admin.delete.user.text": "This action is irreversible. "
 }
